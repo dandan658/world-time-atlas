@@ -1,0 +1,26 @@
+{
+  "Asia/Shanghai": {
+    "name": "Oriental Pearl Tower",
+    "city": "Shanghai",
+    "image": "assets/landmarks/asia-shanghai.webp",
+    "source": "https://en.wikipedia.org/wiki/Oriental_Pearl_Tower"
+  },
+  "America/Los_Angeles": {
+    "name": "Hollywood Sign",
+    "city": "Los Angeles",
+    "image": "assets/landmarks/america-los_angeles.webp",
+    "source": "https://en.wikipedia.org/wiki/Hollywood_Sign"
+  },
+  "Asia/Kolkata": {
+    "name": "Victoria Memorial, Kolkata",
+    "city": "Kolkata",
+    "image": "assets/landmarks/asia-kolkata.webp",
+    "source": "https://en.wikipedia.org/wiki/Victoria_Memorial%2C_Kolkata"
+  },
+  "America/Sao_Paulo": {
+    "name": "São Paulo Museum of Art",
+    "city": "São Paulo",
+    "image": "assets/landmarks/america-sao_paulo.webp",
+    "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Museum_of_Art"
+  }
+}

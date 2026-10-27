@@ -1,0 +1,1478 @@
+{
+  "CN": {
+    "name": "Forbidden City",
+    "city": "Beijing",
+    "image": "assets/landmarks/cn.webp",
+    "source": "https://en.wikipedia.org/wiki/Forbidden_City"
+  },
+  "JP": {
+    "name": "Sensō-ji",
+    "city": "Tokyo",
+    "image": "assets/landmarks/jp.webp",
+    "source": "https://en.wikipedia.org/wiki/Sens%C5%8D-ji"
+  },
+  "SG": {
+    "name": "Merlion Park",
+    "city": "Singapore",
+    "image": "assets/landmarks/sg.webp",
+    "source": "https://en.wikipedia.org/wiki/Merlion_Park"
+  },
+  "US": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+  },
+  "GB": {
+    "name": "Tower Bridge",
+    "city": "London",
+    "image": "assets/landmarks/gb.webp",
+    "source": "https://en.wikipedia.org/wiki/Tower_Bridge"
+  },
+  "FR": {
+    "name": "Eiffel Tower",
+    "city": "Paris",
+    "image": "assets/landmarks/fr.webp",
+    "source": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+  },
+  "DE": {
+    "name": "Brandenburg Gate",
+    "city": "Berlin",
+    "image": "assets/landmarks/de.webp",
+    "source": "https://en.wikipedia.org/wiki/Brandenburg_Gate"
+  },
+  "AU": {
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "image": "assets/landmarks/au.webp",
+    "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+  },
+  "IN": {
+    "name": "Taj Mahal",
+    "city": "Agra",
+    "image": "assets/landmarks/in.webp",
+    "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+  },
+  "BR": {
+    "name": "Christ the Redeemer (statue)",
+    "city": "Rio de Janeiro",
+    "image": "assets/landmarks/br.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)"
+  },
+  "CA": {
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower"
+  },
+  "AE": {
+    "name": "Burj Khalifa",
+    "city": "Dubai",
+    "image": "assets/landmarks/ae.webp",
+    "source": "https://en.wikipedia.org/wiki/Burj_Khalifa"
+  },
+  "ZA": {
+    "name": "Table Mountain",
+    "city": "Cape Town",
+    "image": "assets/landmarks/za.webp",
+    "source": "https://en.wikipedia.org/wiki/Table_Mountain"
+  },
+  "EG": {
+    "name": "Giza pyramid complex",
+    "city": "Giza",
+    "image": "assets/landmarks/eg.webp",
+    "source": "https://en.wikipedia.org/wiki/Giza_pyramid_complex"
+  },
+  "KR": {
+    "name": "Gyeongbokgung",
+    "city": "Seoul",
+    "image": "assets/landmarks/kr.webp",
+    "source": "https://en.wikipedia.org/wiki/Gyeongbokgung"
+  },
+  "MX": {
+    "name": "Chichen Itza",
+    "city": "Yucatán",
+    "image": "assets/landmarks/mx.webp",
+    "source": "https://en.wikipedia.org/wiki/Chichen_Itza"
+  },
+  "AR": {
+    "name": "Obelisco de Buenos Aires",
+    "city": "Buenos Aires",
+    "image": "assets/landmarks/ar.webp",
+    "source": "https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires"
+  },
+  "CL": {
+    "name": "Moai",
+    "city": "Easter Island",
+    "image": "assets/landmarks/cl.webp",
+    "source": "https://en.wikipedia.org/wiki/Moai"
+  },
+  "PE": {
+    "name": "Machu Picchu",
+    "city": "Cusco",
+    "image": "assets/landmarks/pe.webp",
+    "source": "https://en.wikipedia.org/wiki/Machu_Picchu"
+  },
+  "CO": {
+    "name": "Las Lajas Sanctuary",
+    "city": "Ipiales",
+    "image": "assets/landmarks/co.webp",
+    "source": "https://en.wikipedia.org/wiki/Sanctuary_of_Las_Lajas"
+  },
+  "VE": {
+    "name": "Angel Falls",
+    "city": "Canaima",
+    "image": "assets/landmarks/ve.webp",
+    "source": "https://en.wikipedia.org/wiki/Angel_Falls"
+  },
+  "BO": {
+    "name": "Salar de Uyuni",
+    "city": "Uyuni",
+    "image": "assets/landmarks/bo.webp",
+    "source": "https://en.wikipedia.org/wiki/Salar_de_Uyuni"
+  },
+  "PY": {
+    "name": "Palacio de los López",
+    "city": "Asunción",
+    "image": "assets/landmarks/py.webp",
+    "source": "https://en.wikipedia.org/wiki/Palacio_de_los_L%C3%B3pez"
+  },
+  "UY": {
+    "name": "Palacio Salvo",
+    "city": "Montevideo",
+    "image": "assets/landmarks/uy.webp",
+    "source": "https://en.wikipedia.org/wiki/Palacio_Salvo"
+  },
+  "GY": {
+    "name": "St. George's Cathedral, Georgetown",
+    "city": "Georgetown",
+    "image": "assets/landmarks/gy.webp",
+    "source": "https://en.wikipedia.org/wiki/St._George's_Cathedral%2C_Georgetown"
+  },
+  "SR": {
+    "name": "Saint Peter and Paul Cathedral, Paramaribo",
+    "city": "Paramaribo",
+    "image": "assets/landmarks/sr.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Peter_and_Paul_Cathedral%2C_Paramaribo"
+  },
+  "DO": {
+    "name": "Basilica Cathedral of Santa María la Menor",
+    "city": "Santo Domingo",
+    "image": "assets/landmarks/do.webp",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Santo_Domingo"
+  },
+  "HT": {
+    "name": "Citadelle Laferrière",
+    "city": "Cap-Haïtien",
+    "image": "assets/landmarks/ht.webp",
+    "source": "https://en.wikipedia.org/wiki/Citadelle_Laferri%C3%A8re"
+  },
+  "JM": {
+    "name": "Dunn's River Falls",
+    "city": "Ocho Rios",
+    "image": "assets/landmarks/jm.webp",
+    "source": "https://en.wikipedia.org/wiki/Dunn's_River_Falls"
+  },
+  "BS": {
+    "name": "Atlantis Paradise Island",
+    "city": "Nassau",
+    "image": "assets/landmarks/bs.webp",
+    "source": "https://en.wikipedia.org/wiki/Atlantis_Paradise_Island"
+  },
+  "BB": {
+    "name": "Harrison's Cave",
+    "city": "Bridgetown",
+    "image": "assets/landmarks/bb.webp",
+    "source": "https://en.wikipedia.org/wiki/Harrison's_Cave"
+  },
+  "TT": {
+    "name": "Temple in the Sea",
+    "city": "Waterloo",
+    "image": "assets/landmarks/tt.webp",
+    "source": "https://en.wikipedia.org/wiki/Temple_in_the_Sea"
+  },
+  "CR": {
+    "name": "National Theatre of Costa Rica",
+    "city": "San José",
+    "image": "assets/landmarks/cr.webp",
+    "source": "https://en.wikipedia.org/wiki/National_Theatre_of_Costa_Rica"
+  },
+  "GT": {
+    "name": "Tikal",
+    "city": "Petén",
+    "image": "assets/landmarks/gt.webp",
+    "source": "https://en.wikipedia.org/wiki/Tikal"
+  },
+  "HN": {
+    "name": "Copán",
+    "city": "Copán Ruinas",
+    "image": "assets/landmarks/hn.webp",
+    "source": "https://en.wikipedia.org/wiki/Cop%C3%A1n"
+  },
+  "NI": {
+    "name": "Granada Cathedral",
+    "city": "Granada",
+    "image": "assets/landmarks/ni.webp",
+    "source": "https://en.wikipedia.org/wiki/Granada_Cathedral"
+  },
+  "BZ": {
+    "name": "Great Blue Hole",
+    "city": "Belize",
+    "image": "assets/landmarks/bz.webp",
+    "source": "https://en.wikipedia.org/wiki/Great_Blue_Hole"
+  },
+  "AG": {
+    "name": "Nelson's Dockyard",
+    "city": "English Harbour",
+    "image": "assets/landmarks/ag.webp",
+    "source": "https://en.wikipedia.org/wiki/Nelson's_Dockyard"
+  },
+  "DM": {
+    "name": "Boiling Lake",
+    "city": "Morne Trois Pitons",
+    "image": "assets/landmarks/dm.webp",
+    "source": "https://en.wikipedia.org/wiki/Boiling_Lake"
+  },
+  "GD": {
+    "name": "Fort George, Grenada",
+    "city": "St. George's",
+    "image": "assets/landmarks/gd.webp",
+    "source": "https://en.wikipedia.org/wiki/Fort_George%2C_Grenada"
+  },
+  "KN": {
+    "name": "Brimstone Hill Fortress National Park",
+    "city": "Saint Kitts",
+    "image": "assets/landmarks/kn.webp",
+    "source": "https://en.wikipedia.org/wiki/Brimstone_Hill_Fortress_National_Park"
+  },
+  "RU": {
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral"
+  },
+  "UA": {
+    "name": "Saint Sophia Cathedral, Kyiv",
+    "city": "Kyiv",
+    "image": "assets/landmarks/ua.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Sophia_Cathedral%2C_Kyiv"
+  },
+  "BY": {
+    "name": "Mir Castle Complex",
+    "city": "Mir",
+    "image": "assets/landmarks/by.webp",
+    "source": "https://en.wikipedia.org/wiki/Mir_Castle_Complex"
+  },
+  "PL": {
+    "name": "Wawel Castle",
+    "city": "Kraków",
+    "image": "assets/landmarks/pl.webp",
+    "source": "https://en.wikipedia.org/wiki/Wawel_Castle"
+  },
+  "CZ": {
+    "name": "Charles Bridge",
+    "city": "Prague",
+    "image": "assets/landmarks/cz.webp",
+    "source": "https://en.wikipedia.org/wiki/Charles_Bridge"
+  },
+  "SK": {
+    "name": "Bratislava Castle",
+    "city": "Bratislava",
+    "image": "assets/landmarks/sk.webp",
+    "source": "https://en.wikipedia.org/wiki/Bratislava_Castle"
+  },
+  "HU": {
+    "name": "Hungarian Parliament Building",
+    "city": "Budapest",
+    "image": "assets/landmarks/hu.webp",
+    "source": "https://en.wikipedia.org/wiki/Hungarian_Parliament_Building"
+  },
+  "RO": {
+    "name": "Palace of the Parliament",
+    "city": "Bucharest",
+    "image": "assets/landmarks/ro.webp",
+    "source": "https://en.wikipedia.org/wiki/Palace_of_the_Parliament"
+  },
+  "BG": {
+    "name": "Alexander Nevsky Cathedral, Sofia",
+    "city": "Sofia",
+    "image": "assets/landmarks/bg.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Alexander_Nevsky_Cathedral%2C_Sofia"
+  },
+  "MD": {
+    "name": "Orheiul Vechi",
+    "city": "Orhei",
+    "image": "assets/landmarks/md.webp",
+    "source": "https://en.wikipedia.org/wiki/Old_Orhei"
+  },
+  "RS": {
+    "name": "Belgrade Fortress",
+    "city": "Belgrade",
+    "image": "assets/landmarks/rs.webp",
+    "source": "https://en.wikipedia.org/wiki/Belgrade_Fortress"
+  },
+  "BA": {
+    "name": "Stari Most",
+    "city": "Mostar",
+    "image": "assets/landmarks/ba.webp",
+    "source": "https://en.wikipedia.org/wiki/Stari_Most"
+  },
+  "HR": {
+    "name": "Walls of Dubrovnik",
+    "city": "Dubrovnik",
+    "image": "assets/landmarks/hr.webp",
+    "source": "https://en.wikipedia.org/wiki/Walls_of_Dubrovnik"
+  },
+  "SI": {
+    "name": "Lake Bled",
+    "city": "Bled",
+    "image": "assets/landmarks/si.webp",
+    "source": "https://en.wikipedia.org/wiki/Lake_Bled"
+  },
+  "ME": {
+    "name": "Our Lady of the Rocks",
+    "city": "Kotor",
+    "image": "assets/landmarks/me.webp",
+    "source": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Rocks"
+  },
+  "AL": {
+    "name": "Skanderbeg Square",
+    "city": "Tirana",
+    "image": "assets/landmarks/al.webp",
+    "source": "https://en.wikipedia.org/wiki/Skanderbeg_Square"
+  },
+  "MK": {
+    "name": "Church of Saint John at Kaneo",
+    "city": "Ohrid",
+    "image": "assets/landmarks/mk.webp",
+    "source": "https://en.wikipedia.org/wiki/Church_of_St._John_at_Kaneo"
+  },
+  "GR": {
+    "name": "Parthenon",
+    "city": "Athens",
+    "image": "assets/landmarks/gr.webp",
+    "source": "https://en.wikipedia.org/wiki/Parthenon"
+  },
+  "CY": {
+    "name": "Tombs of the Kings (Paphos)",
+    "city": "Paphos",
+    "image": "assets/landmarks/cy.webp",
+    "source": "https://en.wikipedia.org/wiki/Tombs_of_the_Kings_(Paphos)"
+  },
+  "MT": {
+    "name": "St. John's Co-Cathedral",
+    "city": "Valletta",
+    "image": "assets/landmarks/mt.webp",
+    "source": "https://en.wikipedia.org/wiki/St_John's_Co-Cathedral"
+  },
+  "IT": {
+    "name": "Colosseum",
+    "city": "Rome",
+    "image": "assets/landmarks/it.webp",
+    "source": "https://en.wikipedia.org/wiki/Colosseum"
+  },
+  "VA": {
+    "name": "St. Peter's Basilica",
+    "city": "Vatican City",
+    "image": "assets/landmarks/va.webp",
+    "source": "https://en.wikipedia.org/wiki/St._Peter's_Basilica"
+  },
+  "SM": {
+    "name": "Guaita",
+    "city": "San Marino",
+    "image": "assets/landmarks/sm.webp",
+    "source": "https://en.wikipedia.org/wiki/Guaita"
+  },
+  "ES": {
+    "name": "Sagrada Família",
+    "city": "Barcelona",
+    "image": "assets/landmarks/es.webp",
+    "source": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
+  },
+  "PT": {
+    "name": "Belém Tower",
+    "city": "Lisbon",
+    "image": "assets/landmarks/pt.webp",
+    "source": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower"
+  },
+  "AD": {
+    "name": "Casa de la Vall",
+    "city": "Andorra la Vella",
+    "image": "assets/landmarks/ad.webp",
+    "source": "https://en.wikipedia.org/wiki/Casa_de_la_Vall"
+  },
+  "MC": {
+    "name": "Casino de Monte-Carlo",
+    "city": "Monte Carlo",
+    "image": "assets/landmarks/mc.webp",
+    "source": "https://en.wikipedia.org/wiki/Monte_Carlo_Casino"
+  },
+  "CH": {
+    "name": "Chapel Bridge",
+    "city": "Lucerne",
+    "image": "assets/landmarks/ch.webp",
+    "source": "https://en.wikipedia.org/wiki/Kapellbr%C3%BCcke"
+  },
+  "AT": {
+    "name": "Schönbrunn Palace",
+    "city": "Vienna",
+    "image": "assets/landmarks/at.webp",
+    "source": "https://en.wikipedia.org/wiki/Sch%C3%B6nbrunn_Palace"
+  },
+  "LI": {
+    "name": "Vaduz Castle",
+    "city": "Vaduz",
+    "image": "assets/landmarks/li.webp",
+    "source": "https://en.wikipedia.org/wiki/Vaduz_Castle"
+  },
+  "NL": {
+    "name": "Rijksmuseum",
+    "city": "Amsterdam",
+    "image": "assets/landmarks/nl.webp",
+    "source": "https://en.wikipedia.org/wiki/Rijksmuseum"
+  },
+  "BE": {
+    "name": "Grand-Place",
+    "city": "Brussels",
+    "image": "assets/landmarks/be.webp",
+    "source": "https://en.wikipedia.org/wiki/Grand-Place"
+  },
+  "LU": {
+    "name": "Adolphe Bridge",
+    "city": "Luxembourg City",
+    "image": "assets/landmarks/lu.webp",
+    "source": "https://en.wikipedia.org/wiki/Adolphe_Bridge"
+  },
+  "IE": {
+    "name": "Cliffs of Moher",
+    "city": "County Clare",
+    "image": "assets/landmarks/ie.webp",
+    "source": "https://en.wikipedia.org/wiki/Cliffs_of_Moher"
+  },
+  "IS": {
+    "name": "Hallgrímskirkja",
+    "city": "Reykjavík",
+    "image": "assets/landmarks/is.webp",
+    "source": "https://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja"
+  },
+  "NO": {
+    "name": "Oslo Opera House",
+    "city": "Oslo",
+    "image": "assets/landmarks/no.webp",
+    "source": "https://en.wikipedia.org/wiki/Oslo_Opera_House"
+  },
+  "SE": {
+    "name": "Stockholm Palace",
+    "city": "Stockholm",
+    "image": "assets/landmarks/se.webp",
+    "source": "https://en.wikipedia.org/wiki/Stockholm_Palace"
+  },
+  "DK": {
+    "name": "The Little Mermaid (statue)",
+    "city": "Copenhagen",
+    "image": "assets/landmarks/dk.webp",
+    "source": "https://en.wikipedia.org/wiki/The_Little_Mermaid_(statue)"
+  },
+  "FI": {
+    "name": "Helsinki Cathedral",
+    "city": "Helsinki",
+    "image": "assets/landmarks/fi.webp",
+    "source": "https://en.wikipedia.org/wiki/Helsinki_Cathedral"
+  },
+  "EE": {
+    "name": "Alexander Nevsky Cathedral, Tallinn",
+    "city": "Tallinn",
+    "image": "assets/landmarks/ee.webp",
+    "source": "https://en.wikipedia.org/wiki/Alexander_Nevsky_Cathedral%2C_Tallinn"
+  },
+  "LV": {
+    "name": "House of the Blackheads (Riga)",
+    "city": "Riga",
+    "image": "assets/landmarks/lv.webp",
+    "source": "https://en.wikipedia.org/wiki/House_of_the_Blackheads_(Riga)"
+  },
+  "LT": {
+    "name": "Trakai Island Castle",
+    "city": "Trakai",
+    "image": "assets/landmarks/lt.webp",
+    "source": "https://en.wikipedia.org/wiki/Trakai_Island_Castle"
+  },
+  "TR": {
+    "name": "Hagia Sophia",
+    "city": "Istanbul",
+    "image": "assets/landmarks/tr.webp",
+    "source": "https://en.wikipedia.org/wiki/Hagia_Sophia"
+  },
+  "GE": {
+    "name": "Gergeti Trinity Church",
+    "city": "Stepantsminda",
+    "image": "assets/landmarks/ge.webp",
+    "source": "https://en.wikipedia.org/wiki/Gergeti_Trinity_Church"
+  },
+  "AM": {
+    "name": "Garni Temple",
+    "city": "Garni",
+    "image": "assets/landmarks/am.webp",
+    "source": "https://en.wikipedia.org/wiki/Garni_Temple"
+  },
+  "AZ": {
+    "name": "Heydar Aliyev Center",
+    "city": "Baku",
+    "image": "assets/landmarks/az.webp",
+    "source": "https://en.wikipedia.org/wiki/Heydar_Aliyev_Center"
+  },
+  "KZ": {
+    "name": "Bayterek",
+    "city": "Astana",
+    "image": "assets/landmarks/kz.webp",
+    "source": "https://en.wikipedia.org/wiki/Baiterek_(monument)"
+  },
+  "KG": {
+    "name": "Burana Tower",
+    "city": "Tokmok",
+    "image": "assets/landmarks/kg.webp",
+    "source": "https://en.wikipedia.org/wiki/Burana_Tower"
+  },
+  "UZ": {
+    "name": "Registan",
+    "city": "Samarkand",
+    "image": "assets/landmarks/uz.webp",
+    "source": "https://en.wikipedia.org/wiki/Registan"
+  },
+  "TM": {
+    "name": "Darvaza gas crater",
+    "city": "Darvaza",
+    "image": "assets/landmarks/tm.webp",
+    "source": "https://en.wikipedia.org/wiki/Darvaza_gas_crater"
+  },
+  "TJ": {
+    "name": "Iskanderkul",
+    "city": "Fann Mountains",
+    "image": "assets/landmarks/tj.webp",
+    "source": "https://en.wikipedia.org/wiki/Iskanderkul"
+  },
+  "MN": {
+    "name": "Genghis Khan Equestrian Statue",
+    "city": "Tsonjin Boldog",
+    "image": "assets/landmarks/mn.webp",
+    "source": "https://en.wikipedia.org/wiki/Equestrian_statue_of_Genghis_Khan"
+  },
+  "KP": {
+    "name": "Juche Tower",
+    "city": "Pyongyang",
+    "image": "assets/landmarks/kp.webp",
+    "source": "https://en.wikipedia.org/wiki/Juche_Tower"
+  },
+  "HK": {
+    "name": "Tian Tan Buddha",
+    "city": "Hong Kong",
+    "image": "assets/landmarks/hk.webp",
+    "source": "https://en.wikipedia.org/wiki/The_Big_Buddha_(Hong_Kong)"
+  },
+  "MO": {
+    "name": "Ruins of Saint Paul's",
+    "city": "Macau",
+    "image": "assets/landmarks/mo.webp",
+    "source": "https://en.wikipedia.org/wiki/Ruins_of_Saint_Paul's"
+  },
+  "TH": {
+    "name": "Wat Arun",
+    "city": "Bangkok",
+    "image": "assets/landmarks/th.webp",
+    "source": "https://en.wikipedia.org/wiki/Wat_Arun"
+  },
+  "VN": {
+    "name": "Hạ Long Bay",
+    "city": "Hạ Long",
+    "image": "assets/landmarks/vn.webp",
+    "source": "https://en.wikipedia.org/wiki/H%E1%BA%A1_Long_Bay"
+  },
+  "KH": {
+    "name": "Angkor Wat",
+    "city": "Siem Reap",
+    "image": "assets/landmarks/kh.webp",
+    "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+  },
+  "LA": {
+    "name": "Pha That Luang",
+    "city": "Vientiane",
+    "image": "assets/landmarks/la.webp",
+    "source": "https://en.wikipedia.org/wiki/Pha_That_Luang"
+  },
+  "MM": {
+    "name": "Shwedagon Pagoda",
+    "city": "Yangon",
+    "image": "assets/landmarks/mm.webp",
+    "source": "https://en.wikipedia.org/wiki/Shwedagon_Pagoda"
+  },
+  "ID": {
+    "name": "Borobudur",
+    "city": "Magelang",
+    "image": "assets/landmarks/id.webp",
+    "source": "https://en.wikipedia.org/wiki/Borobudur"
+  },
+  "PH": {
+    "name": "Chocolate Hills",
+    "city": "Bohol",
+    "image": "assets/landmarks/ph.webp",
+    "source": "https://en.wikipedia.org/wiki/Chocolate_Hills"
+  },
+  "BN": {
+    "name": "Omar Ali Saifuddien Mosque",
+    "city": "Bandar Seri Begawan",
+    "image": "assets/landmarks/bn.webp",
+    "source": "https://en.wikipedia.org/wiki/Omar_Ali_Saifuddien_Mosque"
+  },
+  "TL": {
+    "name": "Cristo Rei of Dili",
+    "city": "Dili",
+    "image": "assets/landmarks/tl.webp",
+    "source": "https://en.wikipedia.org/wiki/Cristo_Rei_of_Dili"
+  },
+  "BD": {
+    "name": "Lalbagh Fort",
+    "city": "Dhaka",
+    "image": "assets/landmarks/bd.webp",
+    "source": "https://en.wikipedia.org/wiki/Lalbagh_Fort"
+  },
+  "PK": {
+    "name": "Badshahi Mosque",
+    "city": "Lahore",
+    "image": "assets/landmarks/pk.webp",
+    "source": "https://en.wikipedia.org/wiki/Badshahi_Mosque"
+  },
+  "LK": {
+    "name": "Sigiriya",
+    "city": "Dambulla",
+    "image": "assets/landmarks/lk.webp",
+    "source": "https://en.wikipedia.org/wiki/Sigiriya"
+  },
+  "NP": {
+    "name": "Boudhanath",
+    "city": "Kathmandu",
+    "image": "assets/landmarks/np.webp",
+    "source": "https://en.wikipedia.org/wiki/Boudha_Stupa"
+  },
+  "BT": {
+    "name": "Paro Taktsang",
+    "city": "Paro",
+    "image": "assets/landmarks/bt.webp",
+    "source": "https://en.wikipedia.org/wiki/Paro_Taktsang"
+  },
+  "MV": {
+    "name": "Malé Friday Mosque",
+    "city": "Malé",
+    "image": "assets/landmarks/mv.webp",
+    "source": "https://en.wikipedia.org/wiki/Mal%C3%A9_Friday_Mosque"
+  },
+  "AF": {
+    "name": "Minaret of Jam",
+    "city": "Ghor",
+    "image": "assets/landmarks/af.webp",
+    "source": "https://en.wikipedia.org/wiki/Minaret_of_Jam"
+  },
+  "IR": {
+    "name": "Persepolis",
+    "city": "Shiraz",
+    "image": "assets/landmarks/ir.webp",
+    "source": "https://en.wikipedia.org/wiki/Persepolis"
+  },
+  "IQ": {
+    "name": "Great Ziggurat of Ur",
+    "city": "Nasiriyah",
+    "image": "assets/landmarks/iq.webp",
+    "source": "https://en.wikipedia.org/wiki/Ziggurat_of_Ur"
+  },
+  "IL": {
+    "name": "Western Wall",
+    "city": "Jerusalem",
+    "image": "assets/landmarks/il.webp",
+    "source": "https://en.wikipedia.org/wiki/Western_Wall"
+  },
+  "PS": {
+    "name": "Dome of the Rock",
+    "city": "Jerusalem",
+    "image": "assets/landmarks/ps.webp",
+    "source": "https://en.wikipedia.org/wiki/Dome_of_the_Rock"
+  },
+  "JO": {
+    "name": "Al-Khazneh",
+    "city": "Petra",
+    "image": "assets/landmarks/jo.webp",
+    "source": "https://en.wikipedia.org/wiki/Al-Khazneh"
+  },
+  "LB": {
+    "name": "Baalbek",
+    "city": "Baalbek",
+    "image": "assets/landmarks/lb.webp",
+    "source": "https://en.wikipedia.org/wiki/Baalbek"
+  },
+  "SY": {
+    "name": "Umayyad Mosque",
+    "city": "Damascus",
+    "image": "assets/landmarks/sy.webp",
+    "source": "https://en.wikipedia.org/wiki/Umayyad_Mosque"
+  },
+  "SA": {
+    "name": "Al-Masjid an-Nabawi",
+    "city": "Medina",
+    "image": "assets/landmarks/sa.webp",
+    "source": "https://en.wikipedia.org/wiki/Prophet's_Mosque"
+  },
+  "QA": {
+    "name": "Museum of Islamic Art, Doha",
+    "city": "Doha",
+    "image": "assets/landmarks/qa.webp",
+    "source": "https://en.wikipedia.org/wiki/Museum_of_Islamic_Art%2C_Doha"
+  },
+  "BH": {
+    "name": "Bahrain World Trade Center",
+    "city": "Manama",
+    "image": "assets/landmarks/bh.webp",
+    "source": "https://en.wikipedia.org/wiki/Bahrain_World_Trade_Center"
+  },
+  "OM": {
+    "name": "Sultan Qaboos Grand Mosque",
+    "city": "Muscat",
+    "image": "assets/landmarks/om.webp",
+    "source": "https://en.wikipedia.org/wiki/Sultan_Qaboos_Grand_Mosque"
+  },
+  "KW": {
+    "name": "Kuwait Towers",
+    "city": "Kuwait City",
+    "image": "assets/landmarks/kw.webp",
+    "source": "https://en.wikipedia.org/wiki/Kuwait_Towers"
+  },
+  "YE": {
+    "name": "Old City of Sana'a",
+    "city": "Sana'a",
+    "image": "assets/landmarks/ye.webp",
+    "source": "https://en.wikipedia.org/wiki/Old_City_of_Sanaa"
+  },
+  "MA": {
+    "name": "Hassan II Mosque",
+    "city": "Casablanca",
+    "image": "assets/landmarks/ma.webp",
+    "source": "https://en.wikipedia.org/wiki/Hassan_II_Mosque"
+  },
+  "DZ": {
+    "name": "Maqam Echahid",
+    "city": "Algiers",
+    "image": "assets/landmarks/dz.webp",
+    "source": "https://en.wikipedia.org/wiki/Maqam_Echahid"
+  },
+  "TN": {
+    "name": "Amphitheatre of El Jem",
+    "city": "El Jem",
+    "image": "assets/landmarks/tn.webp",
+    "source": "https://en.wikipedia.org/wiki/Amphitheatre_of_El_Jem"
+  },
+  "LY": {
+    "name": "Leptis Magna",
+    "city": "Khoms",
+    "image": "assets/landmarks/ly.webp",
+    "source": "https://en.wikipedia.org/wiki/Leptis_Magna"
+  },
+  "SD": {
+    "name": "Meroë",
+    "city": "Meroë",
+    "image": "assets/landmarks/sd.webp",
+    "source": "https://en.wikipedia.org/wiki/Mero%C3%AB"
+  },
+  "ET": {
+    "name": "Church of Saint George, Lalibela",
+    "city": "Lalibela",
+    "image": "assets/landmarks/et.webp",
+    "source": "https://en.wikipedia.org/wiki/Church_of_Saint_George%2C_Lalibela"
+  },
+  "ER": {
+    "name": "Fiat Tagliero Building",
+    "city": "Asmara",
+    "image": "assets/landmarks/er.webp",
+    "source": "https://en.wikipedia.org/wiki/Fiat_Tagliero_Building"
+  },
+  "DJ": {
+    "name": "Lake Assal (Djibouti)",
+    "city": "Tadjoura",
+    "image": "assets/landmarks/dj.webp",
+    "source": "https://en.wikipedia.org/wiki/Lake_Assal_(Djibouti)"
+  },
+  "SO": {
+    "name": "Laas Geel",
+    "city": "Hargeisa",
+    "image": "assets/landmarks/so.webp",
+    "source": "https://en.wikipedia.org/wiki/Laas_Geel"
+  },
+  "KE": {
+    "name": "Fort Jesus",
+    "city": "Mombasa",
+    "image": "assets/landmarks/ke.webp",
+    "source": "https://en.wikipedia.org/wiki/Fort_Jesus"
+  },
+  "TZ": {
+    "name": "Stone Town",
+    "city": "Zanzibar",
+    "image": "assets/landmarks/tz.webp",
+    "source": "https://en.wikipedia.org/wiki/Stone_Town"
+  },
+  "UG": {
+    "name": "Kasubi Tombs",
+    "city": "Kampala",
+    "image": "assets/landmarks/ug.webp",
+    "source": "https://en.wikipedia.org/wiki/Kasubi_Tombs"
+  },
+  "RW": {
+    "name": "Kigali Genocide Memorial",
+    "city": "Kigali",
+    "image": "assets/landmarks/rw.webp",
+    "source": "https://en.wikipedia.org/wiki/Kigali_Genocide_Memorial"
+  },
+  "BI": {
+    "name": "Living Museum of Bujumbura",
+    "city": "Bujumbura",
+    "image": "assets/landmarks/bi.webp",
+    "source": "https://en.wikipedia.org/wiki/Living_Museum_of_Bujumbura"
+  },
+  "CD": {
+    "name": "Virunga National Park",
+    "city": "Goma",
+    "image": "assets/landmarks/cd.webp",
+    "source": "https://en.wikipedia.org/wiki/Virunga_National_Park"
+  },
+  "CG": {
+    "name": "Basilique Sainte-Anne-du-Congo",
+    "city": "Brazzaville",
+    "image": "assets/landmarks/cg.webp",
+    "source": "https://en.wikipedia.org/wiki/Basilica_of_Sainte-Anne-du-Congo_in_Brazzaville"
+  },
+  "KM": {
+    "name": "Mount Karthala",
+    "city": "Grande Comore",
+    "image": "assets/landmarks/km.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Karthala_volcano-Comoros.jpg"
+  },
+  "NZ": {
+    "name": "Sky Tower (Auckland)",
+    "city": "Auckland",
+    "image": "assets/landmarks/nz.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Sky_Tower.jpg"
+  },
+  "FJ": {
+    "name": "Sri Siva Subramaniya temple",
+    "city": "Nadi",
+    "image": "assets/landmarks/fj.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Srisivasubramaniya_temple_nadi_fiji.jpg"
+  },
+  "PG": {
+    "name": "Kokoda Track",
+    "city": "Port Moresby",
+    "image": "assets/landmarks/pg.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kokoda_Track.jpg"
+  },
+  "VU": {
+    "name": "Mount Yasur",
+    "city": "Tanna",
+    "image": "assets/landmarks/vu.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Mount_Yasur_eruption_2006,_Tanna_Island,_Vanuatu,_VAN_0516.jpg"
+  },
+  "WS": {
+    "name": "To-Sua Ocean Trench",
+    "city": "Upolu",
+    "image": "assets/landmarks/ws.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:To_Sua_Ocean_Trench,_Upolu,_Samoa_-_August_2016.jpg"
+  },
+  "TO": {
+    "name": "Haʻamonga ʻa Maui",
+    "city": "Tongatapu",
+    "image": "assets/landmarks/to.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ha%CA%BBamonga.jpg"
+  },
+  "TV": {
+    "name": "Funafuti Conservation Area",
+    "city": "Funafuti",
+    "image": "assets/landmarks/tv.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:LiggingFongafale-dorp.JPG"
+  },
+  "KI": {
+    "name": "Kiritimati",
+    "city": "Kiritimati",
+    "image": "assets/landmarks/ki.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kiritimati-EO.jpg"
+  },
+  "CM": {
+    "name": "Reunification Monument",
+    "city": "Yaoundé",
+    "image": "assets/landmarks/cm.webp",
+    "source": "https://en.wikipedia.org/wiki/Reunification_Monument"
+  },
+  "GQ": {
+    "name": "St. Elizabeth's Cathedral, Malabo",
+    "city": "Malabo",
+    "image": "assets/landmarks/gq.webp",
+    "source": "https://en.wikipedia.org/wiki/St._Elizabeth's_Cathedral%2C_Malabo"
+  },
+  "ST": {
+    "name": "São Sebastião Museum",
+    "city": "São Tomé",
+    "image": "assets/landmarks/st.webp",
+    "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Sebasti%C3%A3o_Museum"
+  },
+  "GH": {
+    "name": "Cape Coast Castle",
+    "city": "Cape Coast",
+    "image": "assets/landmarks/gh.webp",
+    "source": "https://en.wikipedia.org/wiki/Cape_Coast_Castle"
+  },
+  "CI": {
+    "name": "Basilica of Our Lady of Peace",
+    "city": "Yamoussoukro",
+    "image": "assets/landmarks/ci.webp",
+    "source": "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Peace"
+  },
+  "LR": {
+    "name": "Providence Island, Liberia",
+    "city": "Monrovia",
+    "image": "assets/landmarks/lr.webp",
+    "source": "https://en.wikipedia.org/wiki/Providence_Island%2C_Liberia"
+  },
+  "GN": {
+    "name": "Grand Mosque of Conakry",
+    "city": "Conakry",
+    "image": "assets/landmarks/gn.webp",
+    "source": "https://en.wikipedia.org/wiki/Grand_Mosque_of_Conakry"
+  },
+  "GW": {
+    "name": "Fortaleza de São José da Amura",
+    "city": "Bissau",
+    "image": "assets/landmarks/gw.webp",
+    "source": "https://en.wikipedia.org/wiki/Fortaleza_de_S%C3%A3o_Jos%C3%A9_da_Amura"
+  },
+  "SN": {
+    "name": "African Renaissance Monument",
+    "city": "Dakar",
+    "image": "assets/landmarks/sn.webp",
+    "source": "https://en.wikipedia.org/wiki/African_Renaissance_Monument"
+  },
+  "GM": {
+    "name": "Arch 22",
+    "city": "Banjul",
+    "image": "assets/landmarks/gm.webp",
+    "source": "https://en.wikipedia.org/wiki/Arch_22"
+  },
+  "ML": {
+    "name": "Great Mosque of Djenné",
+    "city": "Djenné",
+    "image": "assets/landmarks/ml.webp",
+    "source": "https://en.wikipedia.org/wiki/Great_Mosque_of_Djenn%C3%A9"
+  },
+  "BF": {
+    "name": "Grand Mosque of Bobo-Dioulasso",
+    "city": "Bobo-Dioulasso",
+    "image": "assets/landmarks/bf.webp",
+    "source": "https://en.wikipedia.org/wiki/Grand_Mosque_of_Bobo-Dioulasso"
+  },
+  "NE": {
+    "name": "Agadez Mosque",
+    "city": "Agadez",
+    "image": "assets/landmarks/ne.webp",
+    "source": "https://en.wikipedia.org/wiki/Agadez_Mosque"
+  },
+  "TD": {
+    "name": "Lakes of Ounianga",
+    "city": "Ounianga",
+    "image": "assets/landmarks/td.webp",
+    "source": "https://en.wikipedia.org/wiki/Lakes_of_Ounianga"
+  },
+  "TG": {
+    "name": "Koutammakou",
+    "city": "Koutammakou",
+    "image": "assets/landmarks/tg.webp",
+    "source": "https://en.wikipedia.org/wiki/Koutammakou"
+  },
+  "MR": {
+    "name": "Chinguetti Mosque",
+    "city": "Chinguetti",
+    "image": "assets/landmarks/mr.webp",
+    "source": "https://en.wikipedia.org/wiki/Chinguetti_Mosque"
+  },
+  "AO": {
+    "name": "Fortress of São Miguel",
+    "city": "Luanda",
+    "image": "assets/landmarks/ao.webp",
+    "source": "https://en.wikipedia.org/wiki/Fortress_of_S%C3%A3o_Miguel"
+  },
+  "ZM": {
+    "name": "Victoria Falls",
+    "city": "Livingstone",
+    "image": "assets/landmarks/zm.webp",
+    "source": "https://en.wikipedia.org/wiki/Victoria_Falls"
+  },
+  "ZW": {
+    "name": "Great Zimbabwe",
+    "city": "Masvingo",
+    "image": "assets/landmarks/zw.webp",
+    "source": "https://en.wikipedia.org/wiki/Great_Zimbabwe"
+  },
+  "MW": {
+    "name": "Lake Malawi",
+    "city": "Cape Maclear",
+    "image": "assets/landmarks/mw.webp",
+    "source": "https://en.wikipedia.org/wiki/Lake_Malawi"
+  },
+  "BW": {
+    "name": "Okavango Delta",
+    "city": "Maun",
+    "image": "assets/landmarks/bw.webp",
+    "source": "https://en.wikipedia.org/wiki/Okavango_Delta"
+  },
+  "LS": {
+    "name": "Maletsunyane Falls",
+    "city": "Semonkong",
+    "image": "assets/landmarks/ls.webp",
+    "source": "https://en.wikipedia.org/wiki/Maletsunyane_Falls"
+  },
+  "SZ": {
+    "name": "Mlilwane Wildlife Sanctuary",
+    "city": "Lobamba",
+    "image": "assets/landmarks/sz.webp",
+    "source": "https://en.wikipedia.org/wiki/Mlilwane_Wildlife_Sanctuary"
+  },
+  "MG": {
+    "name": "Avenue of the Baobabs",
+    "city": "Morondava",
+    "image": "assets/landmarks/mg.webp",
+    "source": "https://en.wikipedia.org/wiki/Avenue_of_the_Baobabs"
+  },
+  "MU": {
+    "name": "Le Morne Brabant",
+    "city": "Le Morne",
+    "image": "assets/landmarks/mu.webp",
+    "source": "https://en.wikipedia.org/wiki/Le_Morne_Brabant"
+  },
+  "SC": {
+    "name": "Anse Source d'Argent",
+    "city": "La Digue",
+    "image": "assets/landmarks/sc.webp",
+    "source": "https://en.wikipedia.org/wiki/Anse_Source_d'Argent"
+  },
+  "NR": {
+    "name": "Buada Lagoon",
+    "city": "Nauru",
+    "image": "assets/landmarks/nr.webp",
+    "source": "https://en.wikipedia.org/wiki/Buada_Lagoon"
+  },
+  "FM": {
+    "name": "Nan Madol",
+    "city": "Pohnpei",
+    "image": "assets/landmarks/fm.webp",
+    "source": "https://en.wikipedia.org/wiki/Nan_Madol"
+  },
+  "MH": {
+    "name": "Bikini Atoll",
+    "city": "Bikini Atoll",
+    "image": "assets/landmarks/mh.webp",
+    "source": "https://en.wikipedia.org/wiki/Bikini_Atoll"
+  },
+  "PW": {
+    "name": "Rock Islands",
+    "city": "Koror",
+    "image": "assets/landmarks/pw.webp",
+    "source": "https://en.wikipedia.org/wiki/Rock_Islands"
+  },
+  "AW": {
+    "name": "California Lighthouse",
+    "city": "Noord",
+    "image": "assets/landmarks/aw.webp",
+    "source": "https://en.wikipedia.org/wiki/California_Lighthouse"
+  },
+  "BM": {
+    "name": "Horseshoe Bay, Bermuda",
+    "city": "Southampton",
+    "image": "assets/landmarks/bm.webp",
+    "source": "https://en.wikipedia.org/wiki/Horseshoe_Bay%2C_Bermuda"
+  },
+  "KY": {
+    "name": "Seven Mile Beach, Grand Cayman",
+    "city": "George Town",
+    "image": "assets/landmarks/ky.webp",
+    "source": "https://en.wikipedia.org/wiki/Seven_Mile_Beach%2C_Grand_Cayman"
+  },
+  "VG": {
+    "name": "The Baths",
+    "city": "Virgin Gorda",
+    "image": "assets/landmarks/vg.webp",
+    "source": "https://en.wikipedia.org/wiki/The_Baths"
+  },
+  "VI": {
+    "name": "Trunk Bay",
+    "city": "St. John",
+    "image": "assets/landmarks/vi.webp",
+    "source": "https://en.wikipedia.org/wiki/Trunk_Bay"
+  },
+  "PR": {
+    "name": "Castillo San Felipe del Morro",
+    "city": "San Juan",
+    "image": "assets/landmarks/pr.webp",
+    "source": "https://en.wikipedia.org/wiki/Castillo_San_Felipe_del_Morro"
+  },
+  "CW": {
+    "name": "Queen Emma Bridge",
+    "city": "Willemstad",
+    "image": "assets/landmarks/cw.webp",
+    "source": "https://en.wikipedia.org/wiki/Queen_Emma_Bridge"
+  },
+  "SX": {
+    "name": "Maho Beach",
+    "city": "Sint Maarten",
+    "image": "assets/landmarks/sx.webp",
+    "source": "https://en.wikipedia.org/wiki/Maho_Beach"
+  },
+  "MF": {
+    "name": "Fort Louis (Saint Martin)",
+    "city": "Marigot",
+    "image": "assets/landmarks/mf.webp",
+    "source": "https://en.wikipedia.org/wiki/Fort_Louis_(Saint_Martin)"
+  },
+  "BL": {
+    "name": "Gustavia, Saint Barthélemy",
+    "city": "Gustavia",
+    "image": "assets/landmarks/bl.webp",
+    "source": "https://en.wikipedia.org/wiki/Gustavia"
+  },
+  "GP": {
+    "name": "Fort Delgrès",
+    "city": "Basse-Terre",
+    "image": "assets/landmarks/gp.webp",
+    "source": "https://en.wikipedia.org/wiki/Fort_Delgr%C3%A8s"
+  },
+  "MS": {
+    "name": "Soufrière Hills",
+    "city": "Montserrat",
+    "image": "assets/landmarks/ms.webp",
+    "source": "https://en.wikipedia.org/wiki/Soufri%C3%A8re_Hills"
+  },
+  "FK": {
+    "name": "Christ Church Cathedral, Stanley",
+    "city": "Stanley",
+    "image": "assets/landmarks/fk.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_Church_Cathedral_(Falkland_Islands)"
+  },
+  "GS": {
+    "name": "Grytviken",
+    "city": "South Georgia",
+    "image": "assets/landmarks/gs.webp",
+    "source": "https://en.wikipedia.org/wiki/Grytviken"
+  },
+  "GL": {
+    "name": "Ilulissat Icefjord",
+    "city": "Ilulissat",
+    "image": "assets/landmarks/gl.webp",
+    "source": "https://en.wikipedia.org/wiki/Ilulissat_Icefjord"
+  },
+  "SJ": {
+    "name": "Svalbard Global Seed Vault",
+    "city": "Longyearbyen",
+    "image": "assets/landmarks/sj.webp",
+    "source": "https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault"
+  },
+  "AX": {
+    "name": "Kastelholm Castle",
+    "city": "Sund",
+    "image": "assets/landmarks/ax.webp",
+    "source": "https://en.wikipedia.org/wiki/Kastelholm_Castle"
+  },
+  "GG": {
+    "name": "Castle Cornet",
+    "city": "Saint Peter Port",
+    "image": "assets/landmarks/gg.webp",
+    "source": "https://en.wikipedia.org/wiki/Castle_Cornet"
+  },
+  "JE": {
+    "name": "Mont Orgueil",
+    "city": "Gorey",
+    "image": "assets/landmarks/je.webp",
+    "source": "https://en.wikipedia.org/wiki/Mont_Orgueil"
+  },
+  "IM": {
+    "name": "Laxey Wheel",
+    "city": "Laxey",
+    "image": "assets/landmarks/im.webp",
+    "source": "https://en.wikipedia.org/wiki/Laxey_Wheel"
+  },
+  "RE": {
+    "name": "Piton de la Fournaise",
+    "city": "Réunion",
+    "image": "assets/landmarks/re.webp",
+    "source": "https://en.wikipedia.org/wiki/Piton_de_la_Fournaise"
+  },
+  "YT": {
+    "name": "Dziani Dzaha",
+    "city": "Petite-Terre",
+    "image": "assets/landmarks/yt.webp",
+    "source": "https://en.wikipedia.org/wiki/Dziani_Dzaha"
+  },
+  "IO": {
+    "name": "Diego Garcia",
+    "city": "Diego Garcia",
+    "image": "assets/landmarks/io.webp",
+    "source": "https://en.wikipedia.org/wiki/Diego_Garcia"
+  },
+  "CX": {
+    "name": "Christmas Island National Park",
+    "city": "Christmas Island",
+    "image": "assets/landmarks/cx.webp",
+    "source": "https://en.wikipedia.org/wiki/Christmas_Island_National_Park"
+  },
+  "NF": {
+    "name": "Kingston and Arthur's Vale Historic Area",
+    "city": "Kingston",
+    "image": "assets/landmarks/nf.webp",
+    "source": "https://en.wikipedia.org/wiki/Kingston_and_Arthur's_Vale_Historic_Area"
+  },
+  "NC": {
+    "name": "Jean-Marie Tjibaou Cultural Centre",
+    "city": "Nouméa",
+    "image": "assets/landmarks/nc.webp",
+    "source": "https://en.wikipedia.org/wiki/Jean-Marie_Tjibaou_Cultural_Centre"
+  },
+  "PF": {
+    "name": "Mount Otemanu",
+    "city": "Bora Bora",
+    "image": "assets/landmarks/pf.webp",
+    "source": "https://en.wikipedia.org/wiki/Mount_Otemanu"
+  },
+  "WF": {
+    "name": "Talietumu",
+    "city": "Wallis",
+    "image": "assets/landmarks/wf.webp",
+    "source": "https://en.wikipedia.org/wiki/Talietumu"
+  },
+  "AS": {
+    "name": "National Park of American Samoa",
+    "city": "Pago Pago",
+    "image": "assets/landmarks/as.webp",
+    "source": "https://en.wikipedia.org/wiki/National_Park_of_American_Samoa"
+  },
+  "GU": {
+    "name": "Two Lovers Point",
+    "city": "Tamuning",
+    "image": "assets/landmarks/gu.webp",
+    "source": "https://en.wikipedia.org/wiki/Two_Lovers_Point"
+  },
+  "CK": {
+    "name": "Aitutaki",
+    "city": "Aitutaki",
+    "image": "assets/landmarks/ck.webp",
+    "source": "https://en.wikipedia.org/wiki/Aitutaki"
+  },
+  "TK": {
+    "name": "Atafu",
+    "city": "Atafu",
+    "image": "assets/landmarks/tk.webp",
+    "source": "https://en.wikipedia.org/wiki/Atafu"
+  },
+  "PN": {
+    "name": "Bounty Bay",
+    "city": "Adamstown",
+    "image": "assets/landmarks/pn.webp",
+    "source": "https://en.wikipedia.org/wiki/Bounty_Bay"
+  },
+  "UM": {
+    "name": "Midway Atoll National Wildlife Refuge",
+    "city": "Midway Atoll",
+    "image": "assets/landmarks/um.webp",
+    "source": "https://en.wikipedia.org/wiki/Midway_Atoll"
+  },
+  "TF": {
+    "name": "Port-aux-Français",
+    "city": "Kerguelen Islands",
+    "image": "assets/landmarks/tf.webp",
+    "source": "https://en.wikipedia.org/wiki/Port-aux-Fran%C3%A7ais"
+  },
+  "CU": {
+    "name": "El Capitolio",
+    "city": "Havana",
+    "image": "assets/landmarks/cu.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Capitolio_de_Cuba_floor_plan._Havana,_Cuba.jpg"
+  },
+  "PA": {
+    "name": "Panama Canal",
+    "city": "Panama City",
+    "image": "assets/landmarks/pa.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Panama_canal_panoramic_view_from_the_top_of_Ancon_hill.jpg"
+  },
+  "SV": {
+    "name": "Monumento al Divino Salvador del Mundo",
+    "city": "San Salvador",
+    "image": "assets/landmarks/sv.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Monumento_al_Salvador_del_Mundo_1.jpg"
+  },
+  "LC": {
+    "name": "Pitons (Saint Lucia)",
+    "city": "Soufrière",
+    "image": "assets/landmarks/lc.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Pitons_at_Soufriere_Saint_Lucia.jpg"
+  },
+  "TW": {
+    "name": "Taipei 101",
+    "city": "Taipei",
+    "image": "assets/landmarks/tw.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Taipei_101_Mall_view_2019.jpg"
+  },
+  "MY": {
+    "name": "Petronas Towers",
+    "city": "Kuala Lumpur",
+    "image": "assets/landmarks/my.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Petronas_Towers_at_sunset.JPG"
+  },
+  "NG": {
+    "name": "National Arts Theatre",
+    "city": "Lagos",
+    "image": "assets/landmarks/ng.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Theatre_Nigeria.jpg"
+  },
+  "NA": {
+    "name": "Sossusvlei",
+    "city": "Namib Desert",
+    "image": "assets/landmarks/na.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Sossusvlei-view-from-above.jpg"
+  },
+  "GF": {
+    "name": "Guiana Space Centre",
+    "city": "Kourou",
+    "image": "assets/landmarks/gf.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ariane_5_lifting_off_from_the_Guiana_Space_Centre_in_Kourou,_French_Guiana.jpg"
+  },
+  "FO": {
+    "name": "Gásadalur",
+    "city": "Gásadalur",
+    "image": "assets/landmarks/fo.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:G%C3%A1sadalur_(51256491640).jpg"
+  },
+  "GI": {
+    "name": "Rock of Gibraltar",
+    "city": "Gibraltar",
+    "image": "assets/landmarks/gi.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Clouds_covering_the_walls_of_Gibraltar_Rock.jpg"
+  },
+  "SH": {
+    "name": "Jacob's Ladder (Saint Helena)",
+    "city": "Jamestown",
+    "image": "assets/landmarks/sh.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Jacob%27s_Ladder_behind_HM_Prison_in_Jamestown_Saint_Helena.jpg"
+  },
+  "CC": {
+    "name": "Cocos (Keeling) Islands",
+    "city": "West Island",
+    "image": "assets/landmarks/cc.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Chart_of_Cocos_Keeling_Islands.png"
+  },
+  "EC": {
+    "name": "Basilica del Voto Nacional",
+    "city": "Quito",
+    "image": "assets/landmarks/ec.webp",
+    "source": "https://en.wikipedia.org/wiki/Bas%C3%ADlica_del_Voto_Nacional"
+  },
+  "VC": {
+    "name": "La Soufrière (volcano)",
+    "city": "Saint Vincent",
+    "image": "assets/landmarks/vc.webp",
+    "source": "https://en.wikipedia.org/wiki/La_Soufri%C3%A8re_(Saint_Vincent)"
+  },
+  "CF": {
+    "name": "Boali",
+    "city": "Boali",
+    "image": "assets/landmarks/cf.webp",
+    "source": "https://en.wikipedia.org/wiki/Boali"
+  },
+  "SL": {
+    "name": "Banana Islands",
+    "city": "Freetown",
+    "image": "assets/landmarks/sl.webp",
+    "source": "https://en.wikipedia.org/wiki/Banana_Islands"
+  },
+  "BJ": {
+    "name": "Royal Palaces of Abomey",
+    "city": "Abomey",
+    "image": "assets/landmarks/bj.webp",
+    "source": "https://en.wikipedia.org/wiki/Royal_Palaces_of_Abomey"
+  },
+  "CV": {
+    "name": "Cidade Velha",
+    "city": "Cidade Velha",
+    "image": "assets/landmarks/cv.webp",
+    "source": "https://en.wikipedia.org/wiki/Cidade_Velha"
+  },
+  "MZ": {
+    "name": "Island of Mozambique",
+    "city": "Island of Mozambique",
+    "image": "assets/landmarks/mz.webp",
+    "source": "https://en.wikipedia.org/wiki/Island_of_Mozambique"
+  },
+  "SB": {
+    "name": "Guadalcanal American Memorial",
+    "city": "Honiara",
+    "image": "assets/landmarks/sb.webp",
+    "source": "https://en.wikipedia.org/wiki/Guadalcanal_American_Memorial"
+  },
+  "AI": {
+    "name": "Wallblake House",
+    "city": "The Valley",
+    "image": "assets/landmarks/ai.webp",
+    "source": "https://en.wikipedia.org/wiki/Wallblake_House"
+  },
+  "BQ": {
+    "name": "Bonaire National Marine Park",
+    "city": "Kralendijk",
+    "image": "assets/landmarks/bq.webp",
+    "source": "https://en.wikipedia.org/wiki/Bonaire_National_Marine_Park"
+  },
+  "MQ": {
+    "name": "Jardin de Balata",
+    "city": "Fort-de-France",
+    "image": "assets/landmarks/mq.webp",
+    "source": "https://en.wikipedia.org/wiki/Balata_Garden"
+  },
+  "MP": {
+    "name": "American Memorial Park",
+    "city": "Saipan",
+    "image": "assets/landmarks/mp.webp",
+    "source": "https://en.wikipedia.org/wiki/American_Memorial_Park"
+  },
+  "GA": {
+    "name": "Libreville seafront",
+    "city": "Libreville",
+    "image": "assets/ga.webp",
+    "source": "https://en.wikipedia.org/wiki/Libreville"
+  },
+  "SS": {
+    "name": "John Garang Mausoleum",
+    "city": "Juba",
+    "image": "assets/ss.webp",
+    "source": "https://en.wikipedia.org/wiki/Juba"
+  },
+  "NU": {
+    "name": "Alofi visitor centre",
+    "city": "Alofi",
+    "image": "assets/nu.webp",
+    "source": "https://en.wikipedia.org/wiki/Alofi"
+  },
+  "PM": {
+    "name": "Saint-Pierre harbour",
+    "city": "Saint-Pierre",
+    "image": "assets/pm.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint-Pierre%2C_Saint_Pierre_and_Miquelon"
+  },
+  "TC": {
+    "name": "Grand Turk coastline",
+    "city": "Grand Turk",
+    "image": "assets/tc.webp",
+    "source": "https://en.wikipedia.org/wiki/Grand_Turk_Island"
+  },
+  "EH": {
+    "name": "Laayoune historic city sights",
+    "city": "Laayoune",
+    "image": "assets/eh.webp",
+    "source": "https://en.wikipedia.org/wiki/Laayoune"
+  }
+}

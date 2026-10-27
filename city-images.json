@@ -1,1527 +1,2928 @@
 {
+  "Europe/Andorra": {
+    "name": "Casa de la Vall",
+    "city": "Andorra la Vella",
+    "image": "assets/landmarks/ad.webp",
+    "source": "https://en.wikipedia.org/wiki/Casa_de_la_Vall",
+    "code": "AD"
+  },
   "Asia/Dubai": {
-    "image": "assets/re.jpg",
-    "source": "https://en.wikipedia.org/wiki/Dubai",
-    "city": "Dubai"
+    "name": "Burj Khalifa",
+    "city": "Dubai",
+    "image": "assets/landmarks/ae.webp",
+    "source": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+    "code": "AE"
   },
   "Asia/Kabul": {
-    "image": "assets/af.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kabul",
-    "city": "Kabul"
-  },
-  "Asia/Yerevan": {
-    "image": "assets/am.jpg",
-    "source": "https://en.wikipedia.org/wiki/Yerevan",
-    "city": "Yerevan"
-  },
-  "America/Argentina/Buenos_Aires": {
-    "image": "assets/ar.jpg",
-    "source": "https://en.wikipedia.org/wiki/Buenos_Aires",
-    "city": "Buenos Aires"
-  },
-  "America/Argentina/San_Juan": {
-    "image": "assets/pr.jpg",
-    "source": "https://en.wikipedia.org/wiki/San_Juan%2C_Puerto_Rico",
-    "city": "San Juan"
-  },
-  "Pacific/Pago_Pago": {
-    "image": "assets/um.jpg",
-    "source": "https://en.wikipedia.org/wiki/Pago_Pago%2C_American_Samoa",
-    "city": "Pago Pago"
-  },
-  "Europe/Vienna": {
-    "image": "assets/at.jpg",
-    "source": "https://en.wikipedia.org/wiki/Vienna",
-    "city": "Vienna"
-  },
-  "Asia/Baku": {
-    "image": "assets/az.jpg",
-    "source": "https://en.wikipedia.org/wiki/Baku",
-    "city": "Baku"
-  },
-  "Asia/Dhaka": {
-    "image": "assets/bd.jpg",
-    "source": "https://en.wikipedia.org/wiki/Dhaka",
-    "city": "Dhaka"
-  },
-  "Europe/Brussels": {
-    "image": "assets/be.jpg",
-    "source": "https://en.wikipedia.org/wiki/Brussels",
-    "city": "Brussels"
-  },
-  "Europe/Sofia": {
-    "image": "assets/bg.jpg",
-    "source": "https://en.wikipedia.org/wiki/Sofia",
-    "city": "Sofia"
-  },
-  "America/La_Paz": {
-    "image": "assets/bo.jpg",
-    "source": "https://en.wikipedia.org/wiki/La_Paz",
-    "city": "La Paz"
-  },
-  "Asia/Thimphu": {
-    "image": "assets/bt.jpg",
-    "source": "https://en.wikipedia.org/wiki/Thimphu",
-    "city": "Thimphu"
-  },
-  "Europe/Minsk": {
-    "image": "assets/by.jpg",
-    "source": "https://en.wikipedia.org/wiki/Minsk",
-    "city": "Minsk"
-  },
-  "America/Santiago": {
-    "image": "assets/cl.jpg",
-    "source": "https://en.wikipedia.org/wiki/Santiago",
-    "city": "Santiago"
-  },
-  "America/Bogota": {
-    "image": "assets/co.jpg",
-    "source": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
-    "city": "Bogota"
-  },
-  "America/Havana": {
-    "image": "assets/cu.jpg",
-    "source": "https://en.wikipedia.org/wiki/Havana",
-    "city": "Havana"
-  },
-  "Asia/Nicosia": {
-    "image": "assets/cy.jpg",
-    "source": "https://en.wikipedia.org/wiki/Nicosia",
-    "city": "Nicosia"
-  },
-  "Europe/Prague": {
-    "image": "assets/cz.jpg",
-    "source": "https://en.wikipedia.org/wiki/Prague",
-    "city": "Prague"
-  },
-  "Europe/Berlin": {
-    "image": "assets/de.jpg",
-    "source": "https://en.wikipedia.org/wiki/Berlin",
-    "city": "Berlin"
-  },
-  "America/Santo_Domingo": {
-    "image": "assets/do.jpg",
-    "source": "https://en.wikipedia.org/wiki/Santo_Domingo",
-    "city": "Santo Domingo"
-  },
-  "Africa/Algiers": {
-    "image": "assets/dz.jpg",
-    "source": "https://en.wikipedia.org/wiki/Algiers",
-    "city": "Algiers"
-  },
-  "Europe/Tallinn": {
-    "image": "assets/ee.jpg",
-    "source": "https://en.wikipedia.org/wiki/Tallinn",
-    "city": "Tallinn"
-  },
-  "Africa/Cairo": {
-    "image": "assets/eg.jpg",
-    "source": "https://en.wikipedia.org/wiki/Cairo",
-    "city": "Cairo"
-  },
-  "Europe/Madrid": {
-    "image": "assets/es.jpg",
-    "source": "https://en.wikipedia.org/wiki/Madrid",
-    "city": "Madrid"
-  },
-  "Europe/Helsinki": {
-    "image": "assets/fi.jpg",
-    "source": "https://en.wikipedia.org/wiki/Helsinki",
-    "city": "Helsinki"
-  },
-  "Atlantic/Stanley": {
-    "image": "assets/fk.jpg",
-    "source": "https://en.wikipedia.org/wiki/Stanley%2C_Falkland_Islands",
-    "city": "Stanley"
-  },
-  "Europe/Paris": {
-    "image": "assets/fr.jpg",
-    "source": "https://en.wikipedia.org/wiki/Paris",
-    "city": "Paris"
-  },
-  "Europe/London": {
-    "image": "assets/gb.jpg",
-    "source": "https://en.wikipedia.org/wiki/London",
-    "city": "London"
-  },
-  "Asia/Tbilisi": {
-    "image": "assets/ge.jpg",
-    "source": "https://en.wikipedia.org/wiki/Tbilisi",
-    "city": "Tbilisi"
-  },
-  "America/Cayenne": {
-    "image": "assets/gf.jpg",
-    "source": "https://en.wikipedia.org/wiki/Cayenne",
-    "city": "Cayenne"
-  },
-  "Europe/Gibraltar": {
-    "image": "assets/gi.jpg",
-    "source": "https://en.wikipedia.org/wiki/Main_Street%2C_Gibraltar",
-    "city": "Gibraltar"
-  },
-  "America/Nuuk": {
-    "image": "assets/gl.jpg",
-    "source": "https://en.wikipedia.org/wiki/Nuuk",
-    "city": "Nuuk"
-  },
-  "Europe/Athens": {
-    "image": "assets/gr.jpg",
-    "source": "https://en.wikipedia.org/wiki/Athens",
-    "city": "Athens"
-  },
-  "Africa/Bissau": {
-    "image": "assets/gw.jpg",
-    "source": "https://en.wikipedia.org/wiki/Bissau",
-    "city": "Bissau"
-  },
-  "Asia/Hong_Kong": {
-    "image": "assets/hk.jpg",
-    "source": "https://en.wikipedia.org/wiki/Central%2C_Hong_Kong",
-    "city": "Hong Kong"
-  },
-  "America/Tegucigalpa": {
-    "image": "assets/hn.jpg",
-    "source": "https://en.wikipedia.org/wiki/Tegucigalpa",
-    "city": "Tegucigalpa"
-  },
-  "America/Port-au-Prince": {
-    "image": "assets/ht.jpg",
-    "source": "https://en.wikipedia.org/wiki/Port-au-Prince",
-    "city": "Port-au-Prince"
-  },
-  "Europe/Budapest": {
-    "image": "assets/hu.jpg",
-    "source": "https://en.wikipedia.org/wiki/Budapest",
-    "city": "Budapest"
-  },
-  "Asia/Jakarta": {
-    "image": "assets/id.jpg",
-    "source": "https://en.wikipedia.org/wiki/Jakarta",
-    "city": "Jakarta"
-  },
-  "Europe/Dublin": {
-    "image": "assets/ie.jpg",
-    "source": "https://en.wikipedia.org/wiki/Dublin",
-    "city": "Dublin"
-  },
-  "Asia/Jerusalem": {
-    "image": "assets/ps.jpg",
-    "source": "https://en.wikipedia.org/wiki/Jerusalem",
-    "city": "Jerusalem"
-  },
-  "Asia/Baghdad": {
-    "image": "assets/iq.jpg",
-    "source": "https://en.wikipedia.org/wiki/Baghdad",
-    "city": "Baghdad"
-  },
-  "Asia/Tehran": {
-    "image": "assets/ir.jpg",
-    "source": "https://en.wikipedia.org/wiki/Tehran",
-    "city": "Tehran"
-  },
-  "Europe/Rome": {
-    "image": "assets/it.jpg",
-    "source": "https://en.wikipedia.org/wiki/Rome",
-    "city": "Rome"
-  },
-  "Asia/Amman": {
-    "image": "assets/jo.png",
-    "source": "https://en.wikipedia.org/wiki/Amman",
-    "city": "Amman"
-  },
-  "Asia/Tokyo": {
-    "image": "assets/jp.jpg",
-    "source": "https://en.wikipedia.org/wiki/Tokyo",
-    "city": "Tokyo"
-  },
-  "Africa/Nairobi": {
-    "image": "assets/ke.jpg",
-    "source": "https://en.wikipedia.org/wiki/Nairobi",
-    "city": "Nairobi"
-  },
-  "Asia/Bishkek": {
-    "image": "assets/kg.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Alma-Ata_NK-43_(1948)_-_panoramio.jpg",
-    "city": "Bishkek"
-  },
-  "Pacific/Tarawa": {
-    "image": "assets/ki.jpg",
-    "source": "https://en.wikipedia.org/wiki/South_Tarawa",
-    "city": "Tarawa"
-  },
-  "Asia/Pyongyang": {
-    "image": "assets/kp.jpg",
-    "source": "https://en.wikipedia.org/wiki/Pyongyang",
-    "city": "Pyongyang"
-  },
-  "Asia/Seoul": {
-    "image": "assets/kr.jpg",
-    "source": "https://en.wikipedia.org/wiki/Seoul",
-    "city": "Seoul"
-  },
-  "Asia/Beirut": {
-    "image": "assets/lb.jpg",
-    "source": "https://en.wikipedia.org/wiki/Beirut",
-    "city": "Beirut"
-  },
-  "Asia/Colombo": {
-    "image": "assets/lk.png",
-    "source": "https://en.wikipedia.org/wiki/Colombo",
-    "city": "Colombo"
-  },
-  "Africa/Monrovia": {
-    "image": "assets/lr.jpg",
-    "source": "https://en.wikipedia.org/wiki/Monrovia",
-    "city": "Monrovia"
-  },
-  "Europe/Vilnius": {
-    "image": "assets/lt.jpg",
-    "source": "https://en.wikipedia.org/wiki/Vilnius",
-    "city": "Vilnius"
-  },
-  "Europe/Riga": {
-    "image": "assets/lv.jpg",
-    "source": "https://en.wikipedia.org/wiki/Riga",
-    "city": "Riga"
-  },
-  "Africa/Tripoli": {
-    "image": "assets/ly.jpg",
-    "source": "https://en.wikipedia.org/wiki/Tripoli%2C_Libya",
-    "city": "Tripoli"
-  },
-  "Europe/Chisinau": {
-    "image": "assets/md.jpg",
-    "source": "https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u",
-    "city": "Chisinau"
-  },
-  "Asia/Ulaanbaatar": {
-    "image": "assets/mn.jpg",
-    "source": "https://en.wikipedia.org/wiki/Ulaanbaatar",
-    "city": "Ulaanbaatar"
-  },
-  "Asia/Macau": {
-    "image": "assets/mo.jpg",
-    "source": "https://en.wikipedia.org/wiki/Historic_Centre_of_Macau",
-    "city": "Macau"
-  },
-  "America/Martinique": {
-    "image": "assets/mq.jpg",
-    "source": "https://en.wikipedia.org/wiki/Martinique",
-    "city": "Martinique"
-  },
-  "America/Mexico_City": {
-    "image": "assets/mx.jpg",
-    "source": "https://en.wikipedia.org/wiki/Mexico_City",
-    "city": "Mexico City"
-  },
-  "Africa/Maputo": {
-    "image": "assets/mz.jpg",
-    "source": "https://en.wikipedia.org/wiki/Maputo",
-    "city": "Maputo"
-  },
-  "Africa/Windhoek": {
-    "image": "assets/na.jpg",
-    "source": "https://en.wikipedia.org/wiki/Windhoek",
-    "city": "Windhoek"
-  },
-  "Pacific/Noumea": {
-    "image": "assets/nc.jpg",
-    "source": "https://en.wikipedia.org/wiki/Noum%C3%A9a",
-    "city": "Noumea"
-  },
-  "America/Managua": {
-    "image": "assets/ni.jpg",
-    "source": "https://en.wikipedia.org/wiki/Managua",
-    "city": "Managua"
-  },
-  "Asia/Kathmandu": {
-    "image": "assets/np.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kathmandu",
-    "city": "Kathmandu"
-  },
-  "America/Lima": {
-    "image": "assets/pe.jpg",
-    "source": "https://en.wikipedia.org/wiki/Lima",
-    "city": "Lima"
-  },
-  "Pacific/Port_Moresby": {
-    "image": "assets/pg.jpg",
-    "source": "https://en.wikipedia.org/wiki/Port_Moresby",
-    "city": "Port Moresby"
-  },
-  "Asia/Manila": {
-    "image": "assets/ph.jpg",
-    "source": "https://en.wikipedia.org/wiki/Manila",
-    "city": "Manila"
-  },
-  "Europe/Warsaw": {
-    "image": "assets/pl.jpg",
-    "source": "https://en.wikipedia.org/wiki/Warsaw",
-    "city": "Warsaw"
-  },
-  "America/Puerto_Rico": {
-    "image": "assets/gp.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Alcaldesa_Rosachely_Rivera_Santana.jpg",
-    "city": "Puerto Rico"
-  },
-  "Europe/Lisbon": {
-    "image": "assets/pt.jpg",
-    "source": "https://en.wikipedia.org/wiki/Lisbon",
-    "city": "Lisbon"
-  },
-  "America/Asuncion": {
-    "image": "assets/py.jpg",
-    "source": "https://en.wikipedia.org/wiki/Asunci%C3%B3n",
-    "city": "Asuncion"
-  },
-  "Europe/Bucharest": {
-    "image": "assets/ro.jpg",
-    "source": "https://en.wikipedia.org/wiki/Bucharest",
-    "city": "Bucharest"
-  },
-  "Europe/Belgrade": {
-    "image": "assets/rs.jpg",
-    "source": "https://en.wikipedia.org/wiki/Belgrade",
-    "city": "Belgrade"
-  },
-  "Europe/Moscow": {
-    "image": "assets/ru.jpg",
-    "source": "https://en.wikipedia.org/wiki/Moscow",
-    "city": "Moscow"
-  },
-  "Asia/Riyadh": {
-    "image": "assets/sa.jpg",
-    "source": "https://en.wikipedia.org/wiki/Riyadh",
-    "city": "Riyadh"
-  },
-  "Africa/Khartoum": {
-    "image": "assets/sd.jpg",
-    "source": "https://en.wikipedia.org/wiki/Khartoum",
-    "city": "Khartoum"
-  },
-  "Asia/Singapore": {
-    "image": "assets/sg.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:(SGP-Singapore)_East-West_Line_Alstom_Movia_R151_1925-1926_@_Eunos_2026-08-07.jpg",
-    "city": "Singapore"
-  },
-  "America/Paramaribo": {
-    "image": "assets/sr.png",
-    "source": "https://en.wikipedia.org/wiki/Paramaribo",
-    "city": "Paramaribo"
-  },
-  "Africa/Juba": {
-    "image": "assets/ss.jpg",
-    "source": "https://en.wikipedia.org/wiki/Juba",
-    "city": "Juba"
-  },
-  "Africa/Sao_Tome": {
-    "image": "assets/st.jpg",
-    "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9",
-    "city": "Sao Tome"
-  },
-  "Asia/Damascus": {
-    "image": "assets/sy.jpg",
-    "source": "https://en.wikipedia.org/wiki/Damascus",
-    "city": "Damascus"
-  },
-  "America/Grand_Turk": {
-    "image": "assets/tc.jpg",
-    "source": "https://en.wikipedia.org/wiki/Grand_Turk_Island",
-    "city": "Grand Turk"
-  },
-  "Asia/Bangkok": {
-    "image": "assets/th.jpg",
-    "source": "https://en.wikipedia.org/wiki/Bangkok",
-    "city": "Bangkok"
-  },
-  "Asia/Dushanbe": {
-    "image": "assets/tj.jpg",
-    "source": "https://en.wikipedia.org/wiki/Dushanbe",
-    "city": "Dushanbe"
-  },
-  "Asia/Dili": {
-    "image": "assets/tl.jpg",
-    "source": "https://en.wikipedia.org/wiki/Dili",
-    "city": "Dili"
-  },
-  "Asia/Ashgabat": {
-    "image": "assets/tm.jpg",
-    "source": "https://en.wikipedia.org/wiki/Ashgabat",
-    "city": "Ashgabat"
-  },
-  "Africa/Tunis": {
-    "image": "assets/tn.jpg",
-    "source": "https://en.wikipedia.org/wiki/Tunis",
-    "city": "Tunis"
-  },
-  "Asia/Taipei": {
-    "image": "assets/tw.jpg",
-    "source": "https://en.wikipedia.org/wiki/Taipei",
-    "city": "Taipei"
-  },
-  "Europe/Kyiv": {
-    "image": "assets/ua.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kyiv",
-    "city": "Kyiv"
-  },
-  "America/Montevideo": {
-    "image": "assets/uy.jpg",
-    "source": "https://en.wikipedia.org/wiki/Montevideo",
-    "city": "Montevideo"
-  },
-  "Asia/Tashkent": {
-    "image": "assets/uz.jpg",
-    "source": "https://en.wikipedia.org/wiki/Tashkent",
-    "city": "Tashkent"
-  },
-  "America/Caracas": {
-    "image": "assets/ve.jpg",
-    "source": "https://en.wikipedia.org/wiki/Caracas",
-    "city": "Caracas"
-  },
-  "Pacific/Apia": {
-    "image": "assets/ws.jpg",
-    "source": "https://en.wikipedia.org/wiki/Apia",
-    "city": "Apia"
-  },
-  "Africa/Luanda": {
-    "image": "assets/ao.jpg",
-    "source": "https://en.wikipedia.org/wiki/Luanda",
-    "city": "Luanda"
-  },
-  "Europe/Mariehamn": {
-    "image": "assets/ax.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Aerial_photo_of_Mariehamn_2026.jpg",
-    "city": "Mariehamn"
-  },
-  "Europe/Sarajevo": {
-    "image": "assets/ba.jpg",
-    "source": "https://en.wikipedia.org/wiki/Sarajevo",
-    "city": "Sarajevo"
-  },
-  "Africa/Ouagadougou": {
-    "image": "assets/bf.jpg",
-    "source": "https://en.wikipedia.org/wiki/Ouagadougou",
-    "city": "Ouagadougou"
-  },
-  "Africa/Bujumbura": {
-    "image": "assets/bi.jpg",
-    "source": "https://en.wikipedia.org/wiki/Bujumbura",
-    "city": "Bujumbura"
-  },
-  "Africa/Porto-Novo": {
-    "image": "assets/bj.jpg",
-    "source": "https://en.wikipedia.org/wiki/Porto-Novo",
-    "city": "Porto-Novo"
-  },
-  "America/Nassau": {
-    "image": "assets/bs.jpg",
-    "source": "https://en.wikipedia.org/wiki/Nassau%2C_Bahamas",
-    "city": "Nassau"
-  },
-  "Africa/Gaborone": {
-    "image": "assets/bw.jpg",
-    "source": "https://en.wikipedia.org/wiki/Gaborone",
-    "city": "Gaborone"
-  },
-  "Africa/Kinshasa": {
-    "image": "assets/cd.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kinshasa",
-    "city": "Kinshasa"
-  },
-  "Africa/Bangui": {
-    "image": "assets/cf.png",
-    "source": "https://en.wikipedia.org/wiki/Bangui",
-    "city": "Bangui"
-  },
-  "Africa/Brazzaville": {
-    "image": "assets/cg.jpg",
-    "source": "https://en.wikipedia.org/wiki/Brazzaville",
-    "city": "Brazzaville"
-  },
-  "Africa/Djibouti": {
-    "image": "assets/dj.jpg",
-    "source": "https://en.wikipedia.org/wiki/Djibouti_City",
-    "city": "Djibouti"
-  },
-  "Europe/Copenhagen": {
-    "image": "assets/dk.jpg",
-    "source": "https://en.wikipedia.org/wiki/Copenhagen",
-    "city": "Copenhagen"
-  },
-  "Africa/Asmara": {
-    "image": "assets/er.png",
-    "source": "https://en.wikipedia.org/wiki/Asmara",
-    "city": "Asmara"
-  },
-  "Africa/Addis_Ababa": {
-    "image": "assets/et.jpg",
-    "source": "https://en.wikipedia.org/wiki/Addis_Ababa",
-    "city": "Addis Ababa"
-  },
-  "Africa/Libreville": {
-    "image": "assets/ga.jpg",
-    "source": "https://en.wikipedia.org/wiki/Libreville",
-    "city": "Libreville"
-  },
-  "Africa/Accra": {
-    "image": "assets/gh.jpg",
-    "source": "https://en.wikipedia.org/wiki/Accra",
-    "city": "Accra"
-  },
-  "Africa/Banjul": {
-    "image": "assets/gm.jpg",
-    "source": "https://en.wikipedia.org/wiki/Banjul",
-    "city": "Banjul"
-  },
-  "Africa/Conakry": {
-    "image": "assets/gn.jpg",
-    "source": "https://en.wikipedia.org/wiki/Conakry",
-    "city": "Conakry"
-  },
-  "Africa/Malabo": {
-    "image": "assets/gq.jpg",
-    "source": "https://en.wikipedia.org/wiki/Malabo",
-    "city": "Malabo"
-  },
-  "Europe/Zagreb": {
-    "image": "assets/hr.jpg",
-    "source": "https://en.wikipedia.org/wiki/Zagreb",
-    "city": "Zagreb"
-  },
-  "Atlantic/Reykjavik": {
-    "image": "assets/is.jpg",
-    "source": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
-    "city": "Reykjavik"
-  },
-  "Asia/Phnom_Penh": {
-    "image": "assets/kh.jpg",
-    "source": "https://en.wikipedia.org/wiki/Phnom_Penh",
-    "city": "Phnom Penh"
-  },
-  "Asia/Vientiane": {
-    "image": "assets/la.jpg",
-    "source": "https://en.wikipedia.org/wiki/Vientiane",
-    "city": "Vientiane"
-  },
-  "Europe/Vaduz": {
-    "image": "assets/li.jpg",
-    "source": "https://en.wikipedia.org/wiki/Vaduz",
-    "city": "Vaduz"
-  },
-  "Africa/Maseru": {
-    "image": "assets/ls.jpg",
-    "source": "https://en.wikipedia.org/wiki/Maseru",
-    "city": "Maseru"
-  },
-  "Europe/Luxembourg": {
-    "image": "assets/lu.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Alsace-lorraine.JPG",
-    "city": "Luxembourg"
-  },
-  "Europe/Monaco": {
-    "image": "assets/mc.jpg",
-    "source": "https://en.wikipedia.org/wiki/Monaco-Ville",
-    "city": "Monaco"
-  },
-  "Europe/Podgorica": {
-    "image": "assets/me.jpg",
-    "source": "https://en.wikipedia.org/wiki/Podgorica",
-    "city": "Podgorica"
-  },
-  "America/Marigot": {
-    "image": "assets/mf.jpg",
-    "source": "https://en.wikipedia.org/wiki/Marigot%2C_Saint_Martin",
-    "city": "Marigot"
-  },
-  "Indian/Antananarivo": {
-    "image": "assets/mg.jpg",
-    "source": "https://en.wikipedia.org/wiki/Antananarivo",
-    "city": "Antananarivo"
-  },
-  "Pacific/Majuro": {
-    "image": "assets/mh.jpg",
-    "source": "https://en.wikipedia.org/wiki/Majuro",
-    "city": "Majuro"
-  },
-  "Europe/Skopje": {
-    "image": "assets/mk.jpg",
-    "source": "https://en.wikipedia.org/wiki/Skopje",
-    "city": "Skopje"
-  },
-  "Africa/Bamako": {
-    "image": "assets/ml.jpg",
-    "source": "https://en.wikipedia.org/wiki/Bamako",
-    "city": "Bamako"
-  },
-  "Pacific/Saipan": {
-    "image": "assets/mp.jpg",
-    "source": "https://en.wikipedia.org/wiki/Saipan%2C_Northern_Mariana_Islands",
-    "city": "Saipan"
-  },
-  "Africa/Nouakchott": {
-    "image": "assets/mr.jpg",
-    "source": "https://en.wikipedia.org/wiki/Nouakchott",
-    "city": "Nouakchott"
-  },
-  "Asia/Kuala_Lumpur": {
-    "image": "assets/my.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kuala_Lumpur",
-    "city": "Kuala Lumpur"
-  },
-  "Africa/Niamey": {
-    "image": "assets/ne.jpg",
-    "source": "https://en.wikipedia.org/wiki/Niamey",
-    "city": "Niamey"
-  },
-  "Europe/Amsterdam": {
-    "image": "assets/nl.png",
-    "source": "https://en.wikipedia.org/wiki/Amsterdam",
-    "city": "Amsterdam"
-  },
-  "Europe/Oslo": {
-    "image": "assets/no.jpg",
-    "source": "https://en.wikipedia.org/wiki/Oslo",
-    "city": "Oslo"
-  },
-  "Asia/Muscat": {
-    "image": "assets/om.jpg",
-    "source": "https://en.wikipedia.org/wiki/Muscat",
-    "city": "Muscat"
-  },
-  "Africa/Kigali": {
-    "image": "assets/rw.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kigali",
-    "city": "Kigali"
-  },
-  "Europe/Stockholm": {
-    "image": "assets/se.jpg",
-    "source": "https://en.wikipedia.org/wiki/Stockholm",
-    "city": "Stockholm"
-  },
-  "Europe/Ljubljana": {
-    "image": "assets/si.jpg",
-    "source": "https://en.wikipedia.org/wiki/Ljubljana",
-    "city": "Ljubljana"
-  },
-  "Arctic/Longyearbyen": {
-    "image": "assets/sj.jpg",
-    "source": "https://en.wikipedia.org/wiki/Longyearbyen",
-    "city": "Longyearbyen"
-  },
-  "Europe/Bratislava": {
-    "image": "assets/sk.jpg",
-    "source": "https://en.wikipedia.org/wiki/Bratislava",
-    "city": "Bratislava"
-  },
-  "Africa/Freetown": {
-    "image": "assets/sl.jpg",
-    "source": "https://en.wikipedia.org/wiki/Freetown",
-    "city": "Freetown"
-  },
-  "Europe/San_Marino": {
-    "image": "assets/sm.jpg",
-    "source": "https://en.wikipedia.org/wiki/City_of_San_Marino",
-    "city": "San Marino"
-  },
-  "Africa/Dakar": {
-    "image": "assets/sn.jpg",
-    "source": "https://en.wikipedia.org/wiki/Dakar",
-    "city": "Dakar"
-  },
-  "Africa/Mogadishu": {
-    "image": "assets/so.jpg",
-    "source": "https://en.wikipedia.org/wiki/Mogadishu",
-    "city": "Mogadishu"
-  },
-  "Africa/Mbabane": {
-    "image": "assets/sz.jpg",
-    "source": "https://en.wikipedia.org/wiki/Mbabane",
-    "city": "Mbabane"
-  },
-  "Africa/Lome": {
-    "image": "assets/tg.jpg",
-    "source": "https://en.wikipedia.org/wiki/Lom%C3%A9",
-    "city": "Lome"
-  },
-  "America/Port_of_Spain": {
-    "image": "assets/tt.jpg",
-    "source": "https://en.wikipedia.org/wiki/Port_of_Spain",
-    "city": "Port of Spain"
-  },
-  "Pacific/Funafuti": {
-    "image": "assets/tv.jpg",
-    "source": "https://en.wikipedia.org/wiki/Funafuti",
-    "city": "Funafuti"
-  },
-  "Africa/Kampala": {
-    "image": "assets/ug.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kampala",
-    "city": "Kampala"
-  },
-  "Africa/Lusaka": {
-    "image": "assets/zm.jpg",
-    "source": "https://en.wikipedia.org/wiki/Lusaka",
-    "city": "Lusaka"
-  },
-  "Africa/Harare": {
-    "image": "assets/zw.png",
-    "source": "https://en.wikipedia.org/wiki/Harare",
-    "city": "Harare"
-  },
-  "Australia/Sydney": {
-    "image": "assets/cities/australia-sydney.jpg",
-    "source": "https://en.wikipedia.org/wiki/Sydney",
-    "city": "Sydney"
-  },
-  "America/Sao_Paulo": {
-    "image": "assets/cities/america-sao_paulo.jpg",
-    "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
-    "city": "São Paulo"
-  },
-  "Asia/Shanghai": {
-    "image": "assets/cities/asia-shanghai.jpg",
-    "source": "https://en.wikipedia.org/wiki/Shanghai",
-    "city": "Shanghai"
-  },
-  "Asia/Kolkata": {
-    "image": "assets/cities/asia-kolkata.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kolkata",
-    "city": "Kolkata"
-  },
-  "America/Los_Angeles": {
-    "image": "assets/cities/america-los_angeles.jpg",
-    "source": "https://en.wikipedia.org/wiki/Los_Angeles",
-    "city": "Los Angeles"
+    "name": "Minaret of Jam",
+    "city": "Ghor",
+    "image": "assets/landmarks/af.webp",
+    "source": "https://en.wikipedia.org/wiki/Minaret_of_Jam",
+    "code": "AF"
   },
   "Europe/Tirane": {
-    "image": "assets/cities/europe-tirane.jpg",
-    "source": "https://en.wikipedia.org/wiki/Tirana",
-    "city": "Tirane"
+    "name": "Skanderbeg Square",
+    "city": "Tirana",
+    "image": "assets/landmarks/al.webp",
+    "source": "https://en.wikipedia.org/wiki/Skanderbeg_Square",
+    "code": "AL"
   },
-  "Antarctica/Mawson": {
-    "image": "assets/cities/antarctica-mawson.jpg",
-    "source": "https://en.wikipedia.org/wiki/Douglas_Mawson",
-    "city": "Mawson"
+  "Asia/Yerevan": {
+    "name": "Garni Temple",
+    "city": "Garni",
+    "image": "assets/landmarks/am.webp",
+    "source": "https://en.wikipedia.org/wiki/Garni_Temple",
+    "code": "AM"
   },
-  "Antarctica/Rothera": {
-    "image": "assets/cities/antarctica-rothera.jpg",
-    "source": "https://en.wikipedia.org/wiki/Rothera_Research_Station",
-    "city": "Rothera"
+  "America/Argentina/Buenos_Aires": {
+    "name": "Obelisco de Buenos Aires",
+    "city": "Buenos Aires",
+    "image": "assets/landmarks/ar.webp",
+    "source": "https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires",
+    "code": "AR"
   },
-  "Antarctica/Troll": {
-    "image": "assets/cities/antarctica-troll.jpg",
-    "source": "https://en.wikipedia.org/wiki/Troll",
-    "city": "Troll"
+  "America/Argentina/Cordoba": {
+    "name": "Obelisco de Buenos Aires",
+    "city": "Buenos Aires",
+    "image": "assets/landmarks/ar.webp",
+    "source": "https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires",
+    "code": "AR"
   },
   "America/Argentina/Salta": {
-    "image": "assets/cities/america-argentina-salta.jpg",
-    "source": "https://en.wikipedia.org/wiki/Salta",
-    "city": "Salta"
+    "name": "Obelisco de Buenos Aires",
+    "city": "Buenos Aires",
+    "image": "assets/landmarks/ar.webp",
+    "source": "https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires",
+    "code": "AR"
   },
   "America/Argentina/Jujuy": {
-    "image": "assets/cities/america-argentina-jujuy.jpg",
-    "source": "https://en.wikipedia.org/wiki/San_Salvador_de_Jujuy",
-    "city": "Jujuy"
+    "name": "Obelisco de Buenos Aires",
+    "city": "Buenos Aires",
+    "image": "assets/landmarks/ar.webp",
+    "source": "https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires",
+    "code": "AR"
   },
   "America/Argentina/Tucuman": {
-    "image": "assets/cities/america-argentina-tucuman.jpg",
-    "source": "https://en.wikipedia.org/wiki/Tucum%C3%A1n_Province",
-    "city": "Tucuman"
+    "name": "Obelisco de Buenos Aires",
+    "city": "Buenos Aires",
+    "image": "assets/landmarks/ar.webp",
+    "source": "https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires",
+    "code": "AR"
+  },
+  "America/Argentina/Catamarca": {
+    "name": "Obelisco de Buenos Aires",
+    "city": "Buenos Aires",
+    "image": "assets/landmarks/ar.webp",
+    "source": "https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires",
+    "code": "AR"
+  },
+  "America/Argentina/La_Rioja": {
+    "name": "Obelisco de Buenos Aires",
+    "city": "Buenos Aires",
+    "image": "assets/landmarks/ar.webp",
+    "source": "https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires",
+    "code": "AR"
+  },
+  "America/Argentina/San_Juan": {
+    "name": "Obelisco de Buenos Aires",
+    "city": "Buenos Aires",
+    "image": "assets/landmarks/ar.webp",
+    "source": "https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires",
+    "code": "AR"
+  },
+  "America/Argentina/Mendoza": {
+    "name": "Obelisco de Buenos Aires",
+    "city": "Buenos Aires",
+    "image": "assets/landmarks/ar.webp",
+    "source": "https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires",
+    "code": "AR"
+  },
+  "America/Argentina/San_Luis": {
+    "name": "Obelisco de Buenos Aires",
+    "city": "Buenos Aires",
+    "image": "assets/landmarks/ar.webp",
+    "source": "https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires",
+    "code": "AR"
   },
   "America/Argentina/Rio_Gallegos": {
-    "image": "assets/cities/america-argentina-rio_gallegos.jpg",
-    "source": "https://en.wikipedia.org/wiki/R%C3%ADo_Gallegos%2C_Santa_Cruz",
-    "city": "Rio Gallegos"
+    "name": "Obelisco de Buenos Aires",
+    "city": "Buenos Aires",
+    "image": "assets/landmarks/ar.webp",
+    "source": "https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires",
+    "code": "AR"
   },
   "America/Argentina/Ushuaia": {
-    "image": "assets/cities/america-argentina-ushuaia.jpg",
-    "source": "https://en.wikipedia.org/wiki/Ushuaia",
-    "city": "Ushuaia"
+    "name": "Obelisco de Buenos Aires",
+    "city": "Buenos Aires",
+    "image": "assets/landmarks/ar.webp",
+    "source": "https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires",
+    "code": "AR"
+  },
+  "Pacific/Pago_Pago": {
+    "name": "National Park of American Samoa",
+    "city": "Pago Pago",
+    "image": "assets/landmarks/as.webp",
+    "source": "https://en.wikipedia.org/wiki/National_Park_of_American_Samoa",
+    "code": "AS"
+  },
+  "Europe/Vienna": {
+    "name": "Schönbrunn Palace",
+    "city": "Vienna",
+    "image": "assets/landmarks/at.webp",
+    "source": "https://en.wikipedia.org/wiki/Sch%C3%B6nbrunn_Palace",
+    "code": "AT"
+  },
+  "Australia/Lord_Howe": {
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "image": "assets/landmarks/au.webp",
+    "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+    "code": "AU"
+  },
+  "Antarctica/Macquarie": {
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "image": "assets/landmarks/au.webp",
+    "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+    "code": "AU"
   },
   "Australia/Hobart": {
-    "image": "assets/cities/australia-hobart.jpg",
-    "source": "https://en.wikipedia.org/wiki/Hobart",
-    "city": "Hobart"
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "image": "assets/landmarks/au.webp",
+    "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+    "code": "AU"
   },
   "Australia/Melbourne": {
-    "image": "assets/cities/australia-melbourne.jpg",
-    "source": "https://en.wikipedia.org/wiki/Melbourne",
-    "city": "Melbourne"
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "image": "assets/landmarks/au.webp",
+    "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+    "code": "AU"
+  },
+  "Australia/Sydney": {
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "image": "assets/landmarks/au.webp",
+    "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+    "code": "AU"
   },
   "Australia/Broken_Hill": {
-    "image": "assets/cities/australia-broken_hill.jpg",
-    "source": "https://en.wikipedia.org/wiki/Broken_Hill",
-    "city": "Broken Hill"
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "image": "assets/landmarks/au.webp",
+    "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+    "code": "AU"
   },
   "Australia/Brisbane": {
-    "image": "assets/cities/australia-brisbane.jpg",
-    "source": "https://en.wikipedia.org/wiki/Brisbane",
-    "city": "Brisbane"
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "image": "assets/landmarks/au.webp",
+    "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+    "code": "AU"
+  },
+  "Australia/Lindeman": {
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "image": "assets/landmarks/au.webp",
+    "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+    "code": "AU"
   },
   "Australia/Adelaide": {
-    "image": "assets/cities/australia-adelaide.jpg",
-    "source": "https://en.wikipedia.org/wiki/Adelaide",
-    "city": "Adelaide"
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "image": "assets/landmarks/au.webp",
+    "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+    "code": "AU"
+  },
+  "Australia/Darwin": {
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "image": "assets/landmarks/au.webp",
+    "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+    "code": "AU"
   },
   "Australia/Perth": {
-    "image": "assets/cities/australia-perth.jpg",
-    "source": "https://en.wikipedia.org/wiki/Perth",
-    "city": "Perth"
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "image": "assets/landmarks/au.webp",
+    "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+    "code": "AU"
   },
   "Australia/Eucla": {
-    "image": "assets/cities/australia-eucla.jpg",
-    "source": "https://en.wikipedia.org/wiki/Eucla%2C_Western_Australia",
-    "city": "Eucla"
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "image": "assets/landmarks/au.webp",
+    "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+    "code": "AU"
+  },
+  "Asia/Baku": {
+    "name": "Heydar Aliyev Center",
+    "city": "Baku",
+    "image": "assets/landmarks/az.webp",
+    "source": "https://en.wikipedia.org/wiki/Heydar_Aliyev_Center",
+    "code": "AZ"
+  },
+  "America/Barbados": {
+    "name": "Harrison's Cave",
+    "city": "Bridgetown",
+    "image": "assets/landmarks/bb.webp",
+    "source": "https://en.wikipedia.org/wiki/Harrison's_Cave",
+    "code": "BB"
+  },
+  "Asia/Dhaka": {
+    "name": "Lalbagh Fort",
+    "city": "Dhaka",
+    "image": "assets/landmarks/bd.webp",
+    "source": "https://en.wikipedia.org/wiki/Lalbagh_Fort",
+    "code": "BD"
+  },
+  "Europe/Brussels": {
+    "name": "Grand-Place",
+    "city": "Brussels",
+    "image": "assets/landmarks/be.webp",
+    "source": "https://en.wikipedia.org/wiki/Grand-Place",
+    "code": "BE"
+  },
+  "Europe/Sofia": {
+    "name": "Alexander Nevsky Cathedral, Sofia",
+    "city": "Sofia",
+    "image": "assets/landmarks/bg.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Alexander_Nevsky_Cathedral%2C_Sofia",
+    "code": "BG"
+  },
+  "Atlantic/Bermuda": {
+    "name": "Horseshoe Bay, Bermuda",
+    "city": "Southampton",
+    "image": "assets/landmarks/bm.webp",
+    "source": "https://en.wikipedia.org/wiki/Horseshoe_Bay%2C_Bermuda",
+    "code": "BM"
+  },
+  "America/La_Paz": {
+    "name": "Salar de Uyuni",
+    "city": "Uyuni",
+    "image": "assets/landmarks/bo.webp",
+    "source": "https://en.wikipedia.org/wiki/Salar_de_Uyuni",
+    "code": "BO"
+  },
+  "America/Noronha": {
+    "name": "Christ the Redeemer (statue)",
+    "city": "Rio de Janeiro",
+    "image": "assets/landmarks/br.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+    "code": "BR"
   },
   "America/Belem": {
-    "image": "assets/cities/america-belem.jpg",
-    "source": "https://en.wikipedia.org/wiki/Bel%C3%A9m",
-    "city": "Belem"
+    "name": "Christ the Redeemer (statue)",
+    "city": "Rio de Janeiro",
+    "image": "assets/landmarks/br.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+    "code": "BR"
   },
   "America/Fortaleza": {
-    "image": "assets/cities/america-fortaleza.jpg",
-    "source": "https://en.wikipedia.org/wiki/Fortaleza",
-    "city": "Fortaleza"
+    "name": "Christ the Redeemer (statue)",
+    "city": "Rio de Janeiro",
+    "image": "assets/landmarks/br.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+    "code": "BR"
   },
   "America/Recife": {
-    "image": "assets/cities/america-recife.jpg",
-    "source": "https://en.wikipedia.org/wiki/Recife",
-    "city": "Recife"
+    "name": "Christ the Redeemer (statue)",
+    "city": "Rio de Janeiro",
+    "image": "assets/landmarks/br.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+    "code": "BR"
   },
   "America/Araguaina": {
-    "image": "assets/cities/america-araguaina.jpg",
-    "source": "https://en.wikipedia.org/wiki/Aragua%C3%ADna",
-    "city": "Araguaina"
+    "name": "Christ the Redeemer (statue)",
+    "city": "Rio de Janeiro",
+    "image": "assets/landmarks/br.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+    "code": "BR"
   },
   "America/Maceio": {
-    "image": "assets/cities/america-maceio.jpg",
-    "source": "https://en.wikipedia.org/wiki/Macei%C3%B3",
-    "city": "Maceio"
+    "name": "Christ the Redeemer (statue)",
+    "city": "Rio de Janeiro",
+    "image": "assets/landmarks/br.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+    "code": "BR"
+  },
+  "America/Bahia": {
+    "name": "Christ the Redeemer (statue)",
+    "city": "Rio de Janeiro",
+    "image": "assets/landmarks/br.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+    "code": "BR"
+  },
+  "America/Sao_Paulo": {
+    "name": "São Paulo Museum of Art",
+    "city": "São Paulo",
+    "image": "assets/landmarks/america-sao_paulo.webp",
+    "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_Museum_of_Art",
+    "code": "BR"
   },
   "America/Campo_Grande": {
-    "image": "assets/cities/america-campo_grande.jpg",
-    "source": "https://en.wikipedia.org/wiki/Campo_Grande",
-    "city": "Campo Grande"
+    "name": "Christ the Redeemer (statue)",
+    "city": "Rio de Janeiro",
+    "image": "assets/landmarks/br.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+    "code": "BR"
   },
   "America/Cuiaba": {
-    "image": "assets/cities/america-cuiaba.jpg",
-    "source": "https://en.wikipedia.org/wiki/Cuiab%C3%A1",
-    "city": "Cuiaba"
+    "name": "Christ the Redeemer (statue)",
+    "city": "Rio de Janeiro",
+    "image": "assets/landmarks/br.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+    "code": "BR"
+  },
+  "America/Santarem": {
+    "name": "Christ the Redeemer (statue)",
+    "city": "Rio de Janeiro",
+    "image": "assets/landmarks/br.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+    "code": "BR"
   },
   "America/Porto_Velho": {
-    "image": "assets/cities/america-porto_velho.jpg",
-    "source": "https://en.wikipedia.org/wiki/Porto_Velho",
-    "city": "Porto Velho"
+    "name": "Christ the Redeemer (statue)",
+    "city": "Rio de Janeiro",
+    "image": "assets/landmarks/br.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+    "code": "BR"
+  },
+  "America/Boa_Vista": {
+    "name": "Christ the Redeemer (statue)",
+    "city": "Rio de Janeiro",
+    "image": "assets/landmarks/br.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+    "code": "BR"
   },
   "America/Manaus": {
-    "image": "assets/cities/america-manaus.jpg",
-    "source": "https://en.wikipedia.org/wiki/Manaus",
-    "city": "Manaus"
+    "name": "Christ the Redeemer (statue)",
+    "city": "Rio de Janeiro",
+    "image": "assets/landmarks/br.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+    "code": "BR"
   },
   "America/Eirunepe": {
-    "image": "assets/cities/america-eirunepe.jpg",
-    "source": "https://en.wikipedia.org/wiki/Eirunep%C3%A9",
-    "city": "Eirunepe"
+    "name": "Christ the Redeemer (statue)",
+    "city": "Rio de Janeiro",
+    "image": "assets/landmarks/br.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+    "code": "BR"
+  },
+  "America/Rio_Branco": {
+    "name": "Christ the Redeemer (statue)",
+    "city": "Rio de Janeiro",
+    "image": "assets/landmarks/br.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+    "code": "BR"
+  },
+  "Asia/Thimphu": {
+    "name": "Paro Taktsang",
+    "city": "Paro",
+    "image": "assets/landmarks/bt.webp",
+    "source": "https://en.wikipedia.org/wiki/Paro_Taktsang",
+    "code": "BT"
+  },
+  "Europe/Minsk": {
+    "name": "Mir Castle Complex",
+    "city": "Mir",
+    "image": "assets/landmarks/by.webp",
+    "source": "https://en.wikipedia.org/wiki/Mir_Castle_Complex",
+    "code": "BY"
+  },
+  "America/Belize": {
+    "name": "Great Blue Hole",
+    "city": "Belize",
+    "image": "assets/landmarks/bz.webp",
+    "source": "https://en.wikipedia.org/wiki/Great_Blue_Hole",
+    "code": "BZ"
+  },
+  "America/St_Johns": {
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
+  },
+  "America/Halifax": {
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
+  },
+  "America/Glace_Bay": {
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
   },
   "America/Moncton": {
-    "image": "assets/cities/america-moncton.jpg",
-    "source": "https://en.wikipedia.org/wiki/Moncton",
-    "city": "Moncton"
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
+  },
+  "America/Goose_Bay": {
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
   },
   "America/Toronto": {
-    "image": "assets/cities/america-toronto.jpg",
-    "source": "https://en.wikipedia.org/wiki/Toronto",
-    "city": "Toronto"
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
   },
   "America/Iqaluit": {
-    "image": "assets/cities/america-iqaluit.jpg",
-    "source": "https://en.wikipedia.org/wiki/Iqaluit",
-    "city": "Iqaluit"
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
   },
   "America/Winnipeg": {
-    "image": "assets/cities/america-winnipeg.jpg",
-    "source": "https://en.wikipedia.org/wiki/Winnipeg",
-    "city": "Winnipeg"
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
+  },
+  "America/Resolute": {
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
   },
   "America/Rankin_Inlet": {
-    "image": "assets/cities/america-rankin_inlet.jpg",
-    "source": "https://en.wikipedia.org/wiki/Rankin_Inlet",
-    "city": "Rankin Inlet"
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
+  },
+  "America/Regina": {
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
   },
   "America/Swift_Current": {
-    "image": "assets/cities/america-swift_current.jpg",
-    "source": "https://en.wikipedia.org/wiki/Swift_Current",
-    "city": "Swift Current"
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
   },
   "America/Edmonton": {
-    "image": "assets/cities/america-edmonton.jpg",
-    "source": "https://en.wikipedia.org/wiki/Edmonton",
-    "city": "Edmonton"
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
   },
   "America/Cambridge_Bay": {
-    "image": "assets/cities/america-cambridge_bay.jpg",
-    "source": "https://en.wikipedia.org/wiki/Cambridge_Bay",
-    "city": "Cambridge Bay"
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
   },
   "America/Inuvik": {
-    "image": "assets/cities/america-inuvik.jpg",
-    "source": "https://en.wikipedia.org/wiki/Inuvik",
-    "city": "Inuvik"
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
   },
   "America/Vancouver": {
-    "image": "assets/cities/america-vancouver.jpg",
-    "source": "https://en.wikipedia.org/wiki/Vancouver",
-    "city": "Vancouver"
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
   },
   "America/Dawson_Creek": {
-    "image": "assets/cities/america-dawson_creek.jpg",
-    "source": "https://en.wikipedia.org/wiki/Dawson_Creek",
-    "city": "Dawson Creek"
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
+  },
+  "America/Fort_Nelson": {
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
   },
   "America/Whitehorse": {
-    "image": "assets/cities/america-whitehorse.jpg",
-    "source": "https://en.wikipedia.org/wiki/Whitehorse",
-    "city": "Whitehorse"
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
+  },
+  "America/Dawson": {
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
   },
   "Europe/Zurich": {
-    "image": "assets/cities/europe-zurich.jpg",
-    "source": "https://en.wikipedia.org/wiki/Zurich",
-    "city": "Zurich"
+    "name": "Chapel Bridge",
+    "city": "Lucerne",
+    "image": "assets/landmarks/ch.webp",
+    "source": "https://en.wikipedia.org/wiki/Kapellbr%C3%BCcke",
+    "code": "CH"
   },
   "Africa/Abidjan": {
-    "image": "assets/cities/africa-abidjan.jpg",
-    "source": "https://en.wikipedia.org/wiki/Abidjan",
-    "city": "Abidjan"
+    "name": "Basilica of Our Lady of Peace",
+    "city": "Yamoussoukro",
+    "image": "assets/landmarks/ci.webp",
+    "source": "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Peace",
+    "code": "CI"
   },
   "Pacific/Rarotonga": {
-    "image": "assets/cities/pacific-rarotonga.jpg",
-    "source": "https://en.wikipedia.org/wiki/Rarotonga",
-    "city": "Rarotonga"
+    "name": "Aitutaki",
+    "city": "Aitutaki",
+    "image": "assets/landmarks/ck.webp",
+    "source": "https://en.wikipedia.org/wiki/Aitutaki",
+    "code": "CK"
+  },
+  "America/Santiago": {
+    "name": "Moai",
+    "city": "Easter Island",
+    "image": "assets/landmarks/cl.webp",
+    "source": "https://en.wikipedia.org/wiki/Moai",
+    "code": "CL"
   },
   "America/Coyhaique": {
-    "image": "assets/cities/america-coyhaique.jpg",
-    "source": "https://en.wikipedia.org/wiki/Coyhaique",
-    "city": "Coyhaique"
+    "name": "Moai",
+    "city": "Easter Island",
+    "image": "assets/landmarks/cl.webp",
+    "source": "https://en.wikipedia.org/wiki/Moai",
+    "code": "CL"
   },
   "America/Punta_Arenas": {
-    "image": "assets/cities/america-punta_arenas.jpg",
-    "source": "https://en.wikipedia.org/wiki/Punta_Arenas",
-    "city": "Punta Arenas"
+    "name": "Moai",
+    "city": "Easter Island",
+    "image": "assets/landmarks/cl.webp",
+    "source": "https://en.wikipedia.org/wiki/Moai",
+    "code": "CL"
   },
   "Pacific/Easter": {
-    "image": "assets/cities/pacific-easter.jpg",
-    "source": "https://en.wikipedia.org/wiki/Easter",
-    "city": "Easter"
+    "name": "Moai",
+    "city": "Easter Island",
+    "image": "assets/landmarks/cl.webp",
+    "source": "https://en.wikipedia.org/wiki/Moai",
+    "code": "CL"
+  },
+  "Asia/Shanghai": {
+    "name": "Oriental Pearl Tower",
+    "city": "Shanghai",
+    "image": "assets/landmarks/asia-shanghai.webp",
+    "source": "https://en.wikipedia.org/wiki/Oriental_Pearl_Tower",
+    "code": "CN"
   },
   "Asia/Urumqi": {
-    "image": "assets/cities/asia-urumqi.jpg",
-    "source": "https://en.wikipedia.org/wiki/%C3%9Cr%C3%BCmqi",
-    "city": "Urumqi"
+    "name": "Forbidden City",
+    "city": "Beijing",
+    "image": "assets/landmarks/cn.webp",
+    "source": "https://en.wikipedia.org/wiki/Forbidden_City",
+    "code": "CN"
+  },
+  "America/Bogota": {
+    "name": "Las Lajas Sanctuary",
+    "city": "Ipiales",
+    "image": "assets/landmarks/co.webp",
+    "source": "https://en.wikipedia.org/wiki/Sanctuary_of_Las_Lajas",
+    "code": "CO"
+  },
+  "America/Costa_Rica": {
+    "name": "National Theatre of Costa Rica",
+    "city": "San José",
+    "image": "assets/landmarks/cr.webp",
+    "source": "https://en.wikipedia.org/wiki/National_Theatre_of_Costa_Rica",
+    "code": "CR"
+  },
+  "America/Havana": {
+    "name": "El Capitolio",
+    "city": "Havana",
+    "image": "assets/landmarks/cu.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Capitolio_de_Cuba_floor_plan._Havana,_Cuba.jpg",
+    "code": "CU"
+  },
+  "Atlantic/Cape_Verde": {
+    "name": "Cidade Velha",
+    "city": "Cidade Velha",
+    "image": "assets/landmarks/cv.webp",
+    "source": "https://en.wikipedia.org/wiki/Cidade_Velha",
+    "code": "CV"
+  },
+  "Asia/Nicosia": {
+    "name": "Tombs of the Kings (Paphos)",
+    "city": "Paphos",
+    "image": "assets/landmarks/cy.webp",
+    "source": "https://en.wikipedia.org/wiki/Tombs_of_the_Kings_(Paphos)",
+    "code": "CY"
   },
   "Asia/Famagusta": {
-    "image": "assets/cities/asia-famagusta.jpg",
-    "source": "https://en.wikipedia.org/wiki/Famagusta",
-    "city": "Famagusta"
+    "name": "Tombs of the Kings (Paphos)",
+    "city": "Paphos",
+    "image": "assets/landmarks/cy.webp",
+    "source": "https://en.wikipedia.org/wiki/Tombs_of_the_Kings_(Paphos)",
+    "code": "CY"
+  },
+  "Europe/Prague": {
+    "name": "Charles Bridge",
+    "city": "Prague",
+    "image": "assets/landmarks/cz.webp",
+    "source": "https://en.wikipedia.org/wiki/Charles_Bridge",
+    "code": "CZ"
+  },
+  "Europe/Berlin": {
+    "name": "Brandenburg Gate",
+    "city": "Berlin",
+    "image": "assets/landmarks/de.webp",
+    "source": "https://en.wikipedia.org/wiki/Brandenburg_Gate",
+    "code": "DE"
+  },
+  "America/Santo_Domingo": {
+    "name": "Basilica Cathedral of Santa María la Menor",
+    "city": "Santo Domingo",
+    "image": "assets/landmarks/do.webp",
+    "source": "https://en.wikipedia.org/wiki/Cathedral_of_Santo_Domingo",
+    "code": "DO"
+  },
+  "Africa/Algiers": {
+    "name": "Maqam Echahid",
+    "city": "Algiers",
+    "image": "assets/landmarks/dz.webp",
+    "source": "https://en.wikipedia.org/wiki/Maqam_Echahid",
+    "code": "DZ"
   },
   "America/Guayaquil": {
-    "image": "assets/cities/america-guayaquil.jpg",
-    "source": "https://en.wikipedia.org/wiki/Guayaquil",
-    "city": "Guayaquil"
+    "name": "Basilica del Voto Nacional",
+    "city": "Quito",
+    "image": "assets/landmarks/ec.webp",
+    "source": "https://en.wikipedia.org/wiki/Bas%C3%ADlica_del_Voto_Nacional",
+    "code": "EC"
   },
   "Pacific/Galapagos": {
-    "image": "assets/cities/pacific-galapagos.jpg",
-    "source": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands",
-    "city": "Galapagos"
+    "name": "Basilica del Voto Nacional",
+    "city": "Quito",
+    "image": "assets/landmarks/ec.webp",
+    "source": "https://en.wikipedia.org/wiki/Bas%C3%ADlica_del_Voto_Nacional",
+    "code": "EC"
+  },
+  "Europe/Tallinn": {
+    "name": "Alexander Nevsky Cathedral, Tallinn",
+    "city": "Tallinn",
+    "image": "assets/landmarks/ee.webp",
+    "source": "https://en.wikipedia.org/wiki/Alexander_Nevsky_Cathedral%2C_Tallinn",
+    "code": "EE"
+  },
+  "Africa/Cairo": {
+    "name": "Giza pyramid complex",
+    "city": "Giza",
+    "image": "assets/landmarks/eg.webp",
+    "source": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+    "code": "EG"
   },
   "Africa/El_Aaiun": {
-    "image": "assets/cities/africa-el_aaiun.jpg",
+    "name": "Laayoune historic city sights",
+    "city": "Laayoune",
+    "image": "assets/eh.webp",
     "source": "https://en.wikipedia.org/wiki/Laayoune",
-    "city": "El Aaiun"
+    "code": "EH"
+  },
+  "Europe/Madrid": {
+    "name": "Sagrada Família",
+    "city": "Barcelona",
+    "image": "assets/landmarks/es.webp",
+    "source": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+    "code": "ES"
   },
   "Africa/Ceuta": {
-    "image": "assets/cities/africa-ceuta.jpg",
-    "source": "https://en.wikipedia.org/wiki/Ceuta",
-    "city": "Ceuta"
+    "name": "Sagrada Família",
+    "city": "Barcelona",
+    "image": "assets/landmarks/es.webp",
+    "source": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+    "code": "ES"
+  },
+  "Atlantic/Canary": {
+    "name": "Sagrada Família",
+    "city": "Barcelona",
+    "image": "assets/landmarks/es.webp",
+    "source": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+    "code": "ES"
+  },
+  "Europe/Helsinki": {
+    "name": "Helsinki Cathedral",
+    "city": "Helsinki",
+    "image": "assets/landmarks/fi.webp",
+    "source": "https://en.wikipedia.org/wiki/Helsinki_Cathedral",
+    "code": "FI"
+  },
+  "Pacific/Fiji": {
+    "name": "Sri Siva Subramaniya temple",
+    "city": "Nadi",
+    "image": "assets/landmarks/fj.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Srisivasubramaniya_temple_nadi_fiji.jpg",
+    "code": "FJ"
+  },
+  "Atlantic/Stanley": {
+    "name": "Christ Church Cathedral, Stanley",
+    "city": "Stanley",
+    "image": "assets/landmarks/fk.webp",
+    "source": "https://en.wikipedia.org/wiki/Christ_Church_Cathedral_(Falkland_Islands)",
+    "code": "FK"
   },
   "Pacific/Kosrae": {
-    "image": "assets/cities/pacific-kosrae.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kosrae",
-    "city": "Kosrae"
+    "name": "Nan Madol",
+    "city": "Pohnpei",
+    "image": "assets/landmarks/fm.webp",
+    "source": "https://en.wikipedia.org/wiki/Nan_Madol",
+    "code": "FM"
+  },
+  "Atlantic/Faroe": {
+    "name": "Gásadalur",
+    "city": "Gásadalur",
+    "image": "assets/landmarks/fo.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:G%C3%A1sadalur_(51256491640).jpg",
+    "code": "FO"
+  },
+  "Europe/Paris": {
+    "name": "Eiffel Tower",
+    "city": "Paris",
+    "image": "assets/landmarks/fr.webp",
+    "source": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+    "code": "FR"
+  },
+  "Europe/London": {
+    "name": "Tower Bridge",
+    "city": "London",
+    "image": "assets/landmarks/gb.webp",
+    "source": "https://en.wikipedia.org/wiki/Tower_Bridge",
+    "code": "GB"
+  },
+  "Asia/Tbilisi": {
+    "name": "Gergeti Trinity Church",
+    "city": "Stepantsminda",
+    "image": "assets/landmarks/ge.webp",
+    "source": "https://en.wikipedia.org/wiki/Gergeti_Trinity_Church",
+    "code": "GE"
+  },
+  "America/Cayenne": {
+    "name": "Guiana Space Centre",
+    "city": "Kourou",
+    "image": "assets/landmarks/gf.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ariane_5_lifting_off_from_the_Guiana_Space_Centre_in_Kourou,_French_Guiana.jpg",
+    "code": "GF"
+  },
+  "Europe/Gibraltar": {
+    "name": "Rock of Gibraltar",
+    "city": "Gibraltar",
+    "image": "assets/landmarks/gi.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Clouds_covering_the_walls_of_Gibraltar_Rock.jpg",
+    "code": "GI"
+  },
+  "America/Nuuk": {
+    "name": "Ilulissat Icefjord",
+    "city": "Ilulissat",
+    "image": "assets/landmarks/gl.webp",
+    "source": "https://en.wikipedia.org/wiki/Ilulissat_Icefjord",
+    "code": "GL"
+  },
+  "America/Danmarkshavn": {
+    "name": "Ilulissat Icefjord",
+    "city": "Ilulissat",
+    "image": "assets/landmarks/gl.webp",
+    "source": "https://en.wikipedia.org/wiki/Ilulissat_Icefjord",
+    "code": "GL"
   },
   "America/Scoresbysund": {
-    "image": "assets/cities/america-scoresbysund.jpg",
-    "source": "https://en.wikipedia.org/wiki/Ittoqqortoormiit",
-    "city": "Scoresbysund"
+    "name": "Ilulissat Icefjord",
+    "city": "Ilulissat",
+    "image": "assets/landmarks/gl.webp",
+    "source": "https://en.wikipedia.org/wiki/Ilulissat_Icefjord",
+    "code": "GL"
   },
   "America/Thule": {
-    "image": "assets/cities/america-thule.jpg",
-    "source": "https://en.wikipedia.org/wiki/Thule",
-    "city": "Thule"
+    "name": "Ilulissat Icefjord",
+    "city": "Ilulissat",
+    "image": "assets/landmarks/gl.webp",
+    "source": "https://en.wikipedia.org/wiki/Ilulissat_Icefjord",
+    "code": "GL"
+  },
+  "Europe/Athens": {
+    "name": "Parthenon",
+    "city": "Athens",
+    "image": "assets/landmarks/gr.webp",
+    "source": "https://en.wikipedia.org/wiki/Parthenon",
+    "code": "GR"
   },
   "Atlantic/South_Georgia": {
-    "image": "assets/cities/atlantic-south_georgia.jpg",
-    "source": "https://en.wikipedia.org/wiki/South_Georgia",
-    "city": "South Georgia"
+    "name": "Grytviken",
+    "city": "South Georgia",
+    "image": "assets/landmarks/gs.webp",
+    "source": "https://en.wikipedia.org/wiki/Grytviken",
+    "code": "GS"
+  },
+  "America/Guatemala": {
+    "name": "Tikal",
+    "city": "Petén",
+    "image": "assets/landmarks/gt.webp",
+    "source": "https://en.wikipedia.org/wiki/Tikal",
+    "code": "GT"
+  },
+  "Pacific/Guam": {
+    "name": "Two Lovers Point",
+    "city": "Tamuning",
+    "image": "assets/landmarks/gu.webp",
+    "source": "https://en.wikipedia.org/wiki/Two_Lovers_Point",
+    "code": "GU"
+  },
+  "Africa/Bissau": {
+    "name": "Fortaleza de São José da Amura",
+    "city": "Bissau",
+    "image": "assets/landmarks/gw.webp",
+    "source": "https://en.wikipedia.org/wiki/Fortaleza_de_S%C3%A3o_Jos%C3%A9_da_Amura",
+    "code": "GW"
+  },
+  "America/Guyana": {
+    "name": "St. George's Cathedral, Georgetown",
+    "city": "Georgetown",
+    "image": "assets/landmarks/gy.webp",
+    "source": "https://en.wikipedia.org/wiki/St._George's_Cathedral%2C_Georgetown",
+    "code": "GY"
+  },
+  "Asia/Hong_Kong": {
+    "name": "Tian Tan Buddha",
+    "city": "Hong Kong",
+    "image": "assets/landmarks/hk.webp",
+    "source": "https://en.wikipedia.org/wiki/The_Big_Buddha_(Hong_Kong)",
+    "code": "HK"
+  },
+  "America/Tegucigalpa": {
+    "name": "Copán",
+    "city": "Copán Ruinas",
+    "image": "assets/landmarks/hn.webp",
+    "source": "https://en.wikipedia.org/wiki/Cop%C3%A1n",
+    "code": "HN"
+  },
+  "America/Port-au-Prince": {
+    "name": "Citadelle Laferrière",
+    "city": "Cap-Haïtien",
+    "image": "assets/landmarks/ht.webp",
+    "source": "https://en.wikipedia.org/wiki/Citadelle_Laferri%C3%A8re",
+    "code": "HT"
+  },
+  "Europe/Budapest": {
+    "name": "Hungarian Parliament Building",
+    "city": "Budapest",
+    "image": "assets/landmarks/hu.webp",
+    "source": "https://en.wikipedia.org/wiki/Hungarian_Parliament_Building",
+    "code": "HU"
+  },
+  "Asia/Jakarta": {
+    "name": "Borobudur",
+    "city": "Magelang",
+    "image": "assets/landmarks/id.webp",
+    "source": "https://en.wikipedia.org/wiki/Borobudur",
+    "code": "ID"
   },
   "Asia/Pontianak": {
-    "image": "assets/cities/asia-pontianak.jpg",
-    "source": "https://en.wikipedia.org/wiki/Pontianak",
-    "city": "Pontianak"
+    "name": "Borobudur",
+    "city": "Magelang",
+    "image": "assets/landmarks/id.webp",
+    "source": "https://en.wikipedia.org/wiki/Borobudur",
+    "code": "ID"
   },
   "Asia/Makassar": {
-    "image": "assets/cities/asia-makassar.jpg",
-    "source": "https://en.wikipedia.org/wiki/Makassar",
-    "city": "Makassar"
+    "name": "Borobudur",
+    "city": "Magelang",
+    "image": "assets/landmarks/id.webp",
+    "source": "https://en.wikipedia.org/wiki/Borobudur",
+    "code": "ID"
   },
   "Asia/Jayapura": {
-    "image": "assets/cities/asia-jayapura.jpg",
-    "source": "https://en.wikipedia.org/wiki/Jayapura",
-    "city": "Jayapura"
+    "name": "Borobudur",
+    "city": "Magelang",
+    "image": "assets/landmarks/id.webp",
+    "source": "https://en.wikipedia.org/wiki/Borobudur",
+    "code": "ID"
+  },
+  "Europe/Dublin": {
+    "name": "Cliffs of Moher",
+    "city": "County Clare",
+    "image": "assets/landmarks/ie.webp",
+    "source": "https://en.wikipedia.org/wiki/Cliffs_of_Moher",
+    "code": "IE"
+  },
+  "Asia/Jerusalem": {
+    "name": "Western Wall",
+    "city": "Jerusalem",
+    "image": "assets/landmarks/il.webp",
+    "source": "https://en.wikipedia.org/wiki/Western_Wall",
+    "code": "IL"
+  },
+  "Asia/Kolkata": {
+    "name": "Victoria Memorial, Kolkata",
+    "city": "Kolkata",
+    "image": "assets/landmarks/asia-kolkata.webp",
+    "source": "https://en.wikipedia.org/wiki/Victoria_Memorial%2C_Kolkata",
+    "code": "IN"
+  },
+  "Indian/Chagos": {
+    "name": "Diego Garcia",
+    "city": "Diego Garcia",
+    "image": "assets/landmarks/io.webp",
+    "source": "https://en.wikipedia.org/wiki/Diego_Garcia",
+    "code": "IO"
+  },
+  "Asia/Baghdad": {
+    "name": "Great Ziggurat of Ur",
+    "city": "Nasiriyah",
+    "image": "assets/landmarks/iq.webp",
+    "source": "https://en.wikipedia.org/wiki/Ziggurat_of_Ur",
+    "code": "IQ"
+  },
+  "Asia/Tehran": {
+    "name": "Persepolis",
+    "city": "Shiraz",
+    "image": "assets/landmarks/ir.webp",
+    "source": "https://en.wikipedia.org/wiki/Persepolis",
+    "code": "IR"
+  },
+  "Europe/Rome": {
+    "name": "Colosseum",
+    "city": "Rome",
+    "image": "assets/landmarks/it.webp",
+    "source": "https://en.wikipedia.org/wiki/Colosseum",
+    "code": "IT"
+  },
+  "America/Jamaica": {
+    "name": "Dunn's River Falls",
+    "city": "Ocho Rios",
+    "image": "assets/landmarks/jm.webp",
+    "source": "https://en.wikipedia.org/wiki/Dunn's_River_Falls",
+    "code": "JM"
+  },
+  "Asia/Amman": {
+    "name": "Al-Khazneh",
+    "city": "Petra",
+    "image": "assets/landmarks/jo.webp",
+    "source": "https://en.wikipedia.org/wiki/Al-Khazneh",
+    "code": "JO"
+  },
+  "Asia/Tokyo": {
+    "name": "Sensō-ji",
+    "city": "Tokyo",
+    "image": "assets/landmarks/jp.webp",
+    "source": "https://en.wikipedia.org/wiki/Sens%C5%8D-ji",
+    "code": "JP"
+  },
+  "Africa/Nairobi": {
+    "name": "Fort Jesus",
+    "city": "Mombasa",
+    "image": "assets/landmarks/ke.webp",
+    "source": "https://en.wikipedia.org/wiki/Fort_Jesus",
+    "code": "KE"
+  },
+  "Asia/Bishkek": {
+    "name": "Burana Tower",
+    "city": "Tokmok",
+    "image": "assets/landmarks/kg.webp",
+    "source": "https://en.wikipedia.org/wiki/Burana_Tower",
+    "code": "KG"
+  },
+  "Pacific/Tarawa": {
+    "name": "Kiritimati",
+    "city": "Kiritimati",
+    "image": "assets/landmarks/ki.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kiritimati-EO.jpg",
+    "code": "KI"
+  },
+  "Pacific/Kanton": {
+    "name": "Kiritimati",
+    "city": "Kiritimati",
+    "image": "assets/landmarks/ki.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kiritimati-EO.jpg",
+    "code": "KI"
   },
   "Pacific/Kiritimati": {
-    "image": "assets/cities/pacific-kiritimati.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kiritimati",
-    "city": "Kiritimati"
+    "name": "Kiritimati",
+    "city": "Kiritimati",
+    "image": "assets/landmarks/ki.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kiritimati-EO.jpg",
+    "code": "KI"
+  },
+  "Asia/Pyongyang": {
+    "name": "Juche Tower",
+    "city": "Pyongyang",
+    "image": "assets/landmarks/kp.webp",
+    "source": "https://en.wikipedia.org/wiki/Juche_Tower",
+    "code": "KP"
+  },
+  "Asia/Seoul": {
+    "name": "Gyeongbokgung",
+    "city": "Seoul",
+    "image": "assets/landmarks/kr.webp",
+    "source": "https://en.wikipedia.org/wiki/Gyeongbokgung",
+    "code": "KR"
   },
   "Asia/Almaty": {
-    "image": "assets/cities/asia-almaty.jpg",
-    "source": "https://en.wikipedia.org/wiki/Almaty",
-    "city": "Almaty"
+    "name": "Bayterek",
+    "city": "Astana",
+    "image": "assets/landmarks/kz.webp",
+    "source": "https://en.wikipedia.org/wiki/Baiterek_(monument)",
+    "code": "KZ"
   },
   "Asia/Qyzylorda": {
-    "image": "assets/cities/asia-qyzylorda.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kyzylorda",
-    "city": "Qyzylorda"
+    "name": "Bayterek",
+    "city": "Astana",
+    "image": "assets/landmarks/kz.webp",
+    "source": "https://en.wikipedia.org/wiki/Baiterek_(monument)",
+    "code": "KZ"
   },
   "Asia/Qostanay": {
-    "image": "assets/cities/asia-qostanay.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kostanay",
-    "city": "Qostanay"
+    "name": "Bayterek",
+    "city": "Astana",
+    "image": "assets/landmarks/kz.webp",
+    "source": "https://en.wikipedia.org/wiki/Baiterek_(monument)",
+    "code": "KZ"
   },
   "Asia/Aqtobe": {
-    "image": "assets/cities/asia-aqtobe.jpg",
-    "source": "https://en.wikipedia.org/wiki/Aktobe",
-    "city": "Aqtobe"
+    "name": "Bayterek",
+    "city": "Astana",
+    "image": "assets/landmarks/kz.webp",
+    "source": "https://en.wikipedia.org/wiki/Baiterek_(monument)",
+    "code": "KZ"
   },
   "Asia/Aqtau": {
-    "image": "assets/cities/asia-aqtau.jpg",
-    "source": "https://en.wikipedia.org/wiki/Aktau",
-    "city": "Aqtau"
+    "name": "Bayterek",
+    "city": "Astana",
+    "image": "assets/landmarks/kz.webp",
+    "source": "https://en.wikipedia.org/wiki/Baiterek_(monument)",
+    "code": "KZ"
   },
   "Asia/Atyrau": {
-    "image": "assets/cities/asia-atyrau.jpg",
-    "source": "https://en.wikipedia.org/wiki/Atyrau",
-    "city": "Atyrau"
+    "name": "Bayterek",
+    "city": "Astana",
+    "image": "assets/landmarks/kz.webp",
+    "source": "https://en.wikipedia.org/wiki/Baiterek_(monument)",
+    "code": "KZ"
+  },
+  "Asia/Oral": {
+    "name": "Bayterek",
+    "city": "Astana",
+    "image": "assets/landmarks/kz.webp",
+    "source": "https://en.wikipedia.org/wiki/Baiterek_(monument)",
+    "code": "KZ"
+  },
+  "Asia/Beirut": {
+    "name": "Baalbek",
+    "city": "Baalbek",
+    "image": "assets/landmarks/lb.webp",
+    "source": "https://en.wikipedia.org/wiki/Baalbek",
+    "code": "LB"
+  },
+  "Asia/Colombo": {
+    "name": "Sigiriya",
+    "city": "Dambulla",
+    "image": "assets/landmarks/lk.webp",
+    "source": "https://en.wikipedia.org/wiki/Sigiriya",
+    "code": "LK"
+  },
+  "Africa/Monrovia": {
+    "name": "Providence Island, Liberia",
+    "city": "Monrovia",
+    "image": "assets/landmarks/lr.webp",
+    "source": "https://en.wikipedia.org/wiki/Providence_Island%2C_Liberia",
+    "code": "LR"
+  },
+  "Europe/Vilnius": {
+    "name": "Trakai Island Castle",
+    "city": "Trakai",
+    "image": "assets/landmarks/lt.webp",
+    "source": "https://en.wikipedia.org/wiki/Trakai_Island_Castle",
+    "code": "LT"
+  },
+  "Europe/Riga": {
+    "name": "House of the Blackheads (Riga)",
+    "city": "Riga",
+    "image": "assets/landmarks/lv.webp",
+    "source": "https://en.wikipedia.org/wiki/House_of_the_Blackheads_(Riga)",
+    "code": "LV"
+  },
+  "Africa/Tripoli": {
+    "name": "Leptis Magna",
+    "city": "Khoms",
+    "image": "assets/landmarks/ly.webp",
+    "source": "https://en.wikipedia.org/wiki/Leptis_Magna",
+    "code": "LY"
   },
   "Africa/Casablanca": {
-    "image": "assets/cities/africa-casablanca.jpg",
-    "source": "https://en.wikipedia.org/wiki/Casablanca",
-    "city": "Casablanca"
+    "name": "Hassan II Mosque",
+    "city": "Casablanca",
+    "image": "assets/landmarks/ma.webp",
+    "source": "https://en.wikipedia.org/wiki/Hassan_II_Mosque",
+    "code": "MA"
+  },
+  "Europe/Chisinau": {
+    "name": "Orheiul Vechi",
+    "city": "Orhei",
+    "image": "assets/landmarks/md.webp",
+    "source": "https://en.wikipedia.org/wiki/Old_Orhei",
+    "code": "MD"
   },
   "Pacific/Kwajalein": {
-    "image": "assets/cities/pacific-kwajalein.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kwajalein_Atoll",
-    "city": "Kwajalein"
+    "name": "Bikini Atoll",
+    "city": "Bikini Atoll",
+    "image": "assets/landmarks/mh.webp",
+    "source": "https://en.wikipedia.org/wiki/Bikini_Atoll",
+    "code": "MH"
   },
   "Asia/Yangon": {
-    "image": "assets/cities/asia-yangon.jpg",
-    "source": "https://en.wikipedia.org/wiki/Yangon",
-    "city": "Yangon"
+    "name": "Shwedagon Pagoda",
+    "city": "Yangon",
+    "image": "assets/landmarks/mm.webp",
+    "source": "https://en.wikipedia.org/wiki/Shwedagon_Pagoda",
+    "code": "MM"
+  },
+  "Asia/Ulaanbaatar": {
+    "name": "Genghis Khan Equestrian Statue",
+    "city": "Tsonjin Boldog",
+    "image": "assets/landmarks/mn.webp",
+    "source": "https://en.wikipedia.org/wiki/Equestrian_statue_of_Genghis_Khan",
+    "code": "MN"
+  },
+  "Asia/Hovd": {
+    "name": "Genghis Khan Equestrian Statue",
+    "city": "Tsonjin Boldog",
+    "image": "assets/landmarks/mn.webp",
+    "source": "https://en.wikipedia.org/wiki/Equestrian_statue_of_Genghis_Khan",
+    "code": "MN"
+  },
+  "Asia/Macau": {
+    "name": "Ruins of Saint Paul's",
+    "city": "Macau",
+    "image": "assets/landmarks/mo.webp",
+    "source": "https://en.wikipedia.org/wiki/Ruins_of_Saint_Paul's",
+    "code": "MO"
+  },
+  "America/Martinique": {
+    "name": "Jardin de Balata",
+    "city": "Fort-de-France",
+    "image": "assets/landmarks/mq.webp",
+    "source": "https://en.wikipedia.org/wiki/Balata_Garden",
+    "code": "MQ"
+  },
+  "Europe/Malta": {
+    "name": "St. John's Co-Cathedral",
+    "city": "Valletta",
+    "image": "assets/landmarks/mt.webp",
+    "source": "https://en.wikipedia.org/wiki/St_John's_Co-Cathedral",
+    "code": "MT"
+  },
+  "Indian/Mauritius": {
+    "name": "Le Morne Brabant",
+    "city": "Le Morne",
+    "image": "assets/landmarks/mu.webp",
+    "source": "https://en.wikipedia.org/wiki/Le_Morne_Brabant",
+    "code": "MU"
+  },
+  "Indian/Maldives": {
+    "name": "Malé Friday Mosque",
+    "city": "Malé",
+    "image": "assets/landmarks/mv.webp",
+    "source": "https://en.wikipedia.org/wiki/Mal%C3%A9_Friday_Mosque",
+    "code": "MV"
+  },
+  "America/Mexico_City": {
+    "name": "Chichen Itza",
+    "city": "Yucatán",
+    "image": "assets/landmarks/mx.webp",
+    "source": "https://en.wikipedia.org/wiki/Chichen_Itza",
+    "code": "MX"
   },
   "America/Cancun": {
-    "image": "assets/cities/america-cancun.jpg",
-    "source": "https://en.wikipedia.org/wiki/Canc%C3%BAn",
-    "city": "Cancun"
+    "name": "Chichen Itza",
+    "city": "Yucatán",
+    "image": "assets/landmarks/mx.webp",
+    "source": "https://en.wikipedia.org/wiki/Chichen_Itza",
+    "code": "MX"
+  },
+  "America/Merida": {
+    "name": "Chichen Itza",
+    "city": "Yucatán",
+    "image": "assets/landmarks/mx.webp",
+    "source": "https://en.wikipedia.org/wiki/Chichen_Itza",
+    "code": "MX"
   },
   "America/Monterrey": {
-    "image": "assets/cities/america-monterrey.jpg",
-    "source": "https://en.wikipedia.org/wiki/Monterrey",
-    "city": "Monterrey"
+    "name": "Chichen Itza",
+    "city": "Yucatán",
+    "image": "assets/landmarks/mx.webp",
+    "source": "https://en.wikipedia.org/wiki/Chichen_Itza",
+    "code": "MX"
+  },
+  "America/Matamoros": {
+    "name": "Chichen Itza",
+    "city": "Yucatán",
+    "image": "assets/landmarks/mx.webp",
+    "source": "https://en.wikipedia.org/wiki/Chichen_Itza",
+    "code": "MX"
+  },
+  "America/Chihuahua": {
+    "name": "Chichen Itza",
+    "city": "Yucatán",
+    "image": "assets/landmarks/mx.webp",
+    "source": "https://en.wikipedia.org/wiki/Chichen_Itza",
+    "code": "MX"
   },
   "America/Ciudad_Juarez": {
-    "image": "assets/cities/america-ciudad_juarez.jpg",
-    "source": "https://en.wikipedia.org/wiki/Ciudad_Ju%C3%A1rez",
-    "city": "Ciudad Juarez"
+    "name": "Chichen Itza",
+    "city": "Yucatán",
+    "image": "assets/landmarks/mx.webp",
+    "source": "https://en.wikipedia.org/wiki/Chichen_Itza",
+    "code": "MX"
   },
   "America/Ojinaga": {
-    "image": "assets/cities/america-ojinaga.jpg",
-    "source": "https://en.wikipedia.org/wiki/Ojinaga",
-    "city": "Ojinaga"
+    "name": "Chichen Itza",
+    "city": "Yucatán",
+    "image": "assets/landmarks/mx.webp",
+    "source": "https://en.wikipedia.org/wiki/Chichen_Itza",
+    "code": "MX"
   },
   "America/Mazatlan": {
-    "image": "assets/cities/america-mazatlan.jpg",
-    "source": "https://en.wikipedia.org/wiki/Mazatl%C3%A1n",
-    "city": "Mazatlan"
+    "name": "Chichen Itza",
+    "city": "Yucatán",
+    "image": "assets/landmarks/mx.webp",
+    "source": "https://en.wikipedia.org/wiki/Chichen_Itza",
+    "code": "MX"
+  },
+  "America/Bahia_Banderas": {
+    "name": "Chichen Itza",
+    "city": "Yucatán",
+    "image": "assets/landmarks/mx.webp",
+    "source": "https://en.wikipedia.org/wiki/Chichen_Itza",
+    "code": "MX"
   },
   "America/Hermosillo": {
-    "image": "assets/cities/america-hermosillo.jpg",
-    "source": "https://en.wikipedia.org/wiki/Hermosillo",
-    "city": "Hermosillo"
+    "name": "Chichen Itza",
+    "city": "Yucatán",
+    "image": "assets/landmarks/mx.webp",
+    "source": "https://en.wikipedia.org/wiki/Chichen_Itza",
+    "code": "MX"
   },
   "America/Tijuana": {
-    "image": "assets/cities/america-tijuana.jpg",
-    "source": "https://en.wikipedia.org/wiki/Tijuana",
-    "city": "Tijuana"
+    "name": "Chichen Itza",
+    "city": "Yucatán",
+    "image": "assets/landmarks/mx.webp",
+    "source": "https://en.wikipedia.org/wiki/Chichen_Itza",
+    "code": "MX"
   },
   "Asia/Kuching": {
-    "image": "assets/cities/asia-kuching.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kuching",
-    "city": "Kuching"
+    "name": "Petronas Towers",
+    "city": "Kuala Lumpur",
+    "image": "assets/landmarks/my.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Petronas_Towers_at_sunset.JPG",
+    "code": "MY"
+  },
+  "Africa/Maputo": {
+    "name": "Island of Mozambique",
+    "city": "Island of Mozambique",
+    "image": "assets/landmarks/mz.webp",
+    "source": "https://en.wikipedia.org/wiki/Island_of_Mozambique",
+    "code": "MZ"
+  },
+  "Africa/Windhoek": {
+    "name": "Sossusvlei",
+    "city": "Namib Desert",
+    "image": "assets/landmarks/na.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Sossusvlei-view-from-above.jpg",
+    "code": "NA"
+  },
+  "Pacific/Noumea": {
+    "name": "Jean-Marie Tjibaou Cultural Centre",
+    "city": "Nouméa",
+    "image": "assets/landmarks/nc.webp",
+    "source": "https://en.wikipedia.org/wiki/Jean-Marie_Tjibaou_Cultural_Centre",
+    "code": "NC"
   },
   "Pacific/Norfolk": {
-    "image": "assets/cities/pacific-norfolk.jpg",
-    "source": "https://en.wikipedia.org/wiki/Norfolk",
-    "city": "Norfolk"
+    "name": "Kingston and Arthur's Vale Historic Area",
+    "city": "Kingston",
+    "image": "assets/landmarks/nf.webp",
+    "source": "https://en.wikipedia.org/wiki/Kingston_and_Arthur's_Vale_Historic_Area",
+    "code": "NF"
   },
   "Africa/Lagos": {
-    "image": "assets/cities/africa-lagos.jpg",
-    "source": "https://en.wikipedia.org/wiki/Lagos",
-    "city": "Lagos"
+    "name": "National Arts Theatre",
+    "city": "Lagos",
+    "image": "assets/landmarks/ng.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Theatre_Nigeria.jpg",
+    "code": "NG"
+  },
+  "America/Managua": {
+    "name": "Granada Cathedral",
+    "city": "Granada",
+    "image": "assets/landmarks/ni.webp",
+    "source": "https://en.wikipedia.org/wiki/Granada_Cathedral",
+    "code": "NI"
+  },
+  "Asia/Kathmandu": {
+    "name": "Boudhanath",
+    "city": "Kathmandu",
+    "image": "assets/landmarks/np.webp",
+    "source": "https://en.wikipedia.org/wiki/Boudha_Stupa",
+    "code": "NP"
+  },
+  "Pacific/Nauru": {
+    "name": "Buada Lagoon",
+    "city": "Nauru",
+    "image": "assets/landmarks/nr.webp",
+    "source": "https://en.wikipedia.org/wiki/Buada_Lagoon",
+    "code": "NR"
+  },
+  "Pacific/Niue": {
+    "name": "Alofi visitor centre",
+    "city": "Alofi",
+    "image": "assets/nu.webp",
+    "source": "https://en.wikipedia.org/wiki/Alofi",
+    "code": "NU"
   },
   "Pacific/Auckland": {
-    "image": "assets/cities/pacific-auckland.jpg",
-    "source": "https://en.wikipedia.org/wiki/Auckland",
-    "city": "Auckland"
+    "name": "Sky Tower (Auckland)",
+    "city": "Auckland",
+    "image": "assets/landmarks/nz.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Sky_Tower.jpg",
+    "code": "NZ"
+  },
+  "Pacific/Chatham": {
+    "name": "Sky Tower (Auckland)",
+    "city": "Auckland",
+    "image": "assets/landmarks/nz.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Sky_Tower.jpg",
+    "code": "NZ"
   },
   "America/Panama": {
-    "image": "assets/cities/america-panama.jpg",
-    "source": "https://en.wikipedia.org/wiki/Panama_City",
-    "city": "Panama City"
+    "name": "Panama Canal",
+    "city": "Panama City",
+    "image": "assets/landmarks/pa.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Panama_canal_panoramic_view_from_the_top_of_Ancon_hill.jpg",
+    "code": "PA"
+  },
+  "America/Lima": {
+    "name": "Machu Picchu",
+    "city": "Cusco",
+    "image": "assets/landmarks/pe.webp",
+    "source": "https://en.wikipedia.org/wiki/Machu_Picchu",
+    "code": "PE"
+  },
+  "Pacific/Tahiti": {
+    "name": "Mount Otemanu",
+    "city": "Bora Bora",
+    "image": "assets/landmarks/pf.webp",
+    "source": "https://en.wikipedia.org/wiki/Mount_Otemanu",
+    "code": "PF"
+  },
+  "Pacific/Marquesas": {
+    "name": "Mount Otemanu",
+    "city": "Bora Bora",
+    "image": "assets/landmarks/pf.webp",
+    "source": "https://en.wikipedia.org/wiki/Mount_Otemanu",
+    "code": "PF"
+  },
+  "Pacific/Gambier": {
+    "name": "Mount Otemanu",
+    "city": "Bora Bora",
+    "image": "assets/landmarks/pf.webp",
+    "source": "https://en.wikipedia.org/wiki/Mount_Otemanu",
+    "code": "PF"
+  },
+  "Pacific/Port_Moresby": {
+    "name": "Kokoda Track",
+    "city": "Port Moresby",
+    "image": "assets/landmarks/pg.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kokoda_Track.jpg",
+    "code": "PG"
+  },
+  "Pacific/Bougainville": {
+    "name": "Kokoda Track",
+    "city": "Port Moresby",
+    "image": "assets/landmarks/pg.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Kokoda_Track.jpg",
+    "code": "PG"
+  },
+  "Asia/Manila": {
+    "name": "Chocolate Hills",
+    "city": "Bohol",
+    "image": "assets/landmarks/ph.webp",
+    "source": "https://en.wikipedia.org/wiki/Chocolate_Hills",
+    "code": "PH"
   },
   "Asia/Karachi": {
-    "image": "assets/cities/asia-karachi.jpg",
-    "source": "https://en.wikipedia.org/wiki/Karachi",
-    "city": "Karachi"
+    "name": "Badshahi Mosque",
+    "city": "Lahore",
+    "image": "assets/landmarks/pk.webp",
+    "source": "https://en.wikipedia.org/wiki/Badshahi_Mosque",
+    "code": "PK"
+  },
+  "Europe/Warsaw": {
+    "name": "Wawel Castle",
+    "city": "Kraków",
+    "image": "assets/landmarks/pl.webp",
+    "source": "https://en.wikipedia.org/wiki/Wawel_Castle",
+    "code": "PL"
   },
   "America/Miquelon": {
-    "image": "assets/cities/america-miquelon.jpg",
-    "source": "https://en.wikipedia.org/wiki/Miquelon-Langlade",
-    "city": "Miquelon"
+    "name": "Saint-Pierre harbour",
+    "city": "Saint-Pierre",
+    "image": "assets/pm.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint-Pierre%2C_Saint_Pierre_and_Miquelon",
+    "code": "PM"
+  },
+  "Pacific/Pitcairn": {
+    "name": "Bounty Bay",
+    "city": "Adamstown",
+    "image": "assets/landmarks/pn.webp",
+    "source": "https://en.wikipedia.org/wiki/Bounty_Bay",
+    "code": "PN"
+  },
+  "America/Puerto_Rico": {
+    "name": "Castillo San Felipe del Morro",
+    "city": "San Juan",
+    "image": "assets/landmarks/pr.webp",
+    "source": "https://en.wikipedia.org/wiki/Castillo_San_Felipe_del_Morro",
+    "code": "PR"
+  },
+  "Asia/Gaza": {
+    "name": "Dome of the Rock",
+    "city": "Jerusalem",
+    "image": "assets/landmarks/ps.webp",
+    "source": "https://en.wikipedia.org/wiki/Dome_of_the_Rock",
+    "code": "PS"
   },
   "Asia/Hebron": {
-    "image": "assets/cities/asia-hebron.jpg",
-    "source": "https://en.wikipedia.org/wiki/Hebron",
-    "city": "Hebron"
+    "name": "Dome of the Rock",
+    "city": "Jerusalem",
+    "image": "assets/landmarks/ps.webp",
+    "source": "https://en.wikipedia.org/wiki/Dome_of_the_Rock",
+    "code": "PS"
+  },
+  "Europe/Lisbon": {
+    "name": "Belém Tower",
+    "city": "Lisbon",
+    "image": "assets/landmarks/pt.webp",
+    "source": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower",
+    "code": "PT"
+  },
+  "Atlantic/Madeira": {
+    "name": "Belém Tower",
+    "city": "Lisbon",
+    "image": "assets/landmarks/pt.webp",
+    "source": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower",
+    "code": "PT"
+  },
+  "Atlantic/Azores": {
+    "name": "Belém Tower",
+    "city": "Lisbon",
+    "image": "assets/landmarks/pt.webp",
+    "source": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower",
+    "code": "PT"
+  },
+  "Pacific/Palau": {
+    "name": "Rock Islands",
+    "city": "Koror",
+    "image": "assets/landmarks/pw.webp",
+    "source": "https://en.wikipedia.org/wiki/Rock_Islands",
+    "code": "PW"
+  },
+  "America/Asuncion": {
+    "name": "Palacio de los López",
+    "city": "Asunción",
+    "image": "assets/landmarks/py.webp",
+    "source": "https://en.wikipedia.org/wiki/Palacio_de_los_L%C3%B3pez",
+    "code": "PY"
   },
   "Asia/Qatar": {
-    "image": "assets/cities/asia-qatar.jpg",
-    "source": "https://en.wikipedia.org/wiki/Doha",
-    "city": "Doha"
+    "name": "Museum of Islamic Art, Doha",
+    "city": "Doha",
+    "image": "assets/landmarks/qa.webp",
+    "source": "https://en.wikipedia.org/wiki/Museum_of_Islamic_Art%2C_Doha",
+    "code": "QA"
+  },
+  "Europe/Bucharest": {
+    "name": "Palace of the Parliament",
+    "city": "Bucharest",
+    "image": "assets/landmarks/ro.webp",
+    "source": "https://en.wikipedia.org/wiki/Palace_of_the_Parliament",
+    "code": "RO"
+  },
+  "Europe/Belgrade": {
+    "name": "Belgrade Fortress",
+    "city": "Belgrade",
+    "image": "assets/landmarks/rs.webp",
+    "source": "https://en.wikipedia.org/wiki/Belgrade_Fortress",
+    "code": "RS"
   },
   "Europe/Kaliningrad": {
-    "image": "assets/cities/europe-kaliningrad.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kaliningrad",
-    "city": "Kaliningrad"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
+  },
+  "Europe/Moscow": {
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Europe/Simferopol": {
-    "image": "assets/cities/europe-simferopol.jpg",
-    "source": "https://en.wikipedia.org/wiki/Simferopol",
-    "city": "Simferopol"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
+  },
+  "Europe/Kirov": {
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Europe/Volgograd": {
-    "image": "assets/cities/europe-volgograd.jpg",
-    "source": "https://en.wikipedia.org/wiki/Volgograd",
-    "city": "Volgograd"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Europe/Astrakhan": {
-    "image": "assets/cities/europe-astrakhan.jpg",
-    "source": "https://en.wikipedia.org/wiki/Astrakhan",
-    "city": "Astrakhan"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Europe/Saratov": {
-    "image": "assets/cities/europe-saratov.jpg",
-    "source": "https://en.wikipedia.org/wiki/Saratov",
-    "city": "Saratov"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Europe/Ulyanovsk": {
-    "image": "assets/cities/europe-ulyanovsk.jpg",
-    "source": "https://en.wikipedia.org/wiki/Ulyanovsk",
-    "city": "Ulyanovsk"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Europe/Samara": {
-    "image": "assets/cities/europe-samara.jpg",
-    "source": "https://en.wikipedia.org/wiki/Samara",
-    "city": "Samara"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Asia/Yekaterinburg": {
-    "image": "assets/cities/asia-yekaterinburg.jpg",
-    "source": "https://en.wikipedia.org/wiki/Yekaterinburg",
-    "city": "Yekaterinburg"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Asia/Omsk": {
-    "image": "assets/cities/asia-omsk.jpg",
-    "source": "https://en.wikipedia.org/wiki/Omsk",
-    "city": "Omsk"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Asia/Novosibirsk": {
-    "image": "assets/cities/asia-novosibirsk.jpg",
-    "source": "https://en.wikipedia.org/wiki/Novosibirsk",
-    "city": "Novosibirsk"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Asia/Barnaul": {
-    "image": "assets/cities/asia-barnaul.jpg",
-    "source": "https://en.wikipedia.org/wiki/Barnaul",
-    "city": "Barnaul"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Asia/Tomsk": {
-    "image": "assets/cities/asia-tomsk.jpg",
-    "source": "https://en.wikipedia.org/wiki/Tomsk",
-    "city": "Tomsk"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Asia/Novokuznetsk": {
-    "image": "assets/cities/asia-novokuznetsk.jpg",
-    "source": "https://en.wikipedia.org/wiki/Novokuznetsk",
-    "city": "Novokuznetsk"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Asia/Krasnoyarsk": {
-    "image": "assets/cities/asia-krasnoyarsk.jpg",
-    "source": "https://en.wikipedia.org/wiki/Krasnoyarsk",
-    "city": "Krasnoyarsk"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Asia/Irkutsk": {
-    "image": "assets/cities/asia-irkutsk.jpg",
-    "source": "https://en.wikipedia.org/wiki/Irkutsk",
-    "city": "Irkutsk"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
+  },
+  "Asia/Chita": {
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Asia/Yakutsk": {
-    "image": "assets/cities/asia-yakutsk.jpg",
-    "source": "https://en.wikipedia.org/wiki/Yakutsk",
-    "city": "Yakutsk"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Asia/Khandyga": {
-    "image": "assets/cities/asia-khandyga.jpg",
-    "source": "https://en.wikipedia.org/wiki/Khandyga",
-    "city": "Khandyga"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Asia/Vladivostok": {
-    "image": "assets/cities/asia-vladivostok.jpg",
-    "source": "https://en.wikipedia.org/wiki/Vladivostok",
-    "city": "Vladivostok"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Asia/Ust-Nera": {
-    "image": "assets/cities/asia-ust-nera.jpg",
-    "source": "https://en.wikipedia.org/wiki/Ust-Nera",
-    "city": "Ust-Nera"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Asia/Magadan": {
-    "image": "assets/cities/asia-magadan.jpg",
-    "source": "https://en.wikipedia.org/wiki/Magadan",
-    "city": "Magadan"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Asia/Sakhalin": {
-    "image": "assets/cities/asia-sakhalin.jpg",
-    "source": "https://en.wikipedia.org/wiki/Sakhalin",
-    "city": "Sakhalin"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Asia/Srednekolymsk": {
-    "image": "assets/cities/asia-srednekolymsk.jpg",
-    "source": "https://en.wikipedia.org/wiki/Srednekolymsk",
-    "city": "Srednekolymsk"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
   },
   "Asia/Kamchatka": {
-    "image": "assets/cities/asia-kamchatka.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kamchatka_Peninsula",
-    "city": "Kamchatka"
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
+  },
+  "Asia/Anadyr": {
+    "name": "Saint Basil's Cathedral",
+    "city": "Moscow",
+    "image": "assets/landmarks/ru.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+    "code": "RU"
+  },
+  "Asia/Riyadh": {
+    "name": "Al-Masjid an-Nabawi",
+    "city": "Medina",
+    "image": "assets/landmarks/sa.webp",
+    "source": "https://en.wikipedia.org/wiki/Prophet's_Mosque",
+    "code": "SA"
   },
   "Pacific/Guadalcanal": {
-    "image": "assets/cities/pacific-guadalcanal.jpg",
-    "source": "https://en.wikipedia.org/wiki/Guadalcanal",
-    "city": "Guadalcanal"
+    "name": "Guadalcanal American Memorial",
+    "city": "Honiara",
+    "image": "assets/landmarks/sb.webp",
+    "source": "https://en.wikipedia.org/wiki/Guadalcanal_American_Memorial",
+    "code": "SB"
+  },
+  "Africa/Khartoum": {
+    "name": "Meroë",
+    "city": "Meroë",
+    "image": "assets/landmarks/sd.webp",
+    "source": "https://en.wikipedia.org/wiki/Mero%C3%AB",
+    "code": "SD"
+  },
+  "Asia/Singapore": {
+    "name": "Merlion Park",
+    "city": "Singapore",
+    "image": "assets/landmarks/sg.webp",
+    "source": "https://en.wikipedia.org/wiki/Merlion_Park",
+    "code": "SG"
+  },
+  "America/Paramaribo": {
+    "name": "Saint Peter and Paul Cathedral, Paramaribo",
+    "city": "Paramaribo",
+    "image": "assets/landmarks/sr.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Peter_and_Paul_Cathedral%2C_Paramaribo",
+    "code": "SR"
+  },
+  "Africa/Juba": {
+    "name": "John Garang Mausoleum",
+    "city": "Juba",
+    "image": "assets/ss.webp",
+    "source": "https://en.wikipedia.org/wiki/Juba",
+    "code": "SS"
+  },
+  "Africa/Sao_Tome": {
+    "name": "São Sebastião Museum",
+    "city": "São Tomé",
+    "image": "assets/landmarks/st.webp",
+    "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Sebasti%C3%A3o_Museum",
+    "code": "ST"
+  },
+  "America/El_Salvador": {
+    "name": "Monumento al Divino Salvador del Mundo",
+    "city": "San Salvador",
+    "image": "assets/landmarks/sv.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Monumento_al_Salvador_del_Mundo_1.jpg",
+    "code": "SV"
+  },
+  "Asia/Damascus": {
+    "name": "Umayyad Mosque",
+    "city": "Damascus",
+    "image": "assets/landmarks/sy.webp",
+    "source": "https://en.wikipedia.org/wiki/Umayyad_Mosque",
+    "code": "SY"
+  },
+  "America/Grand_Turk": {
+    "name": "Grand Turk coastline",
+    "city": "Grand Turk",
+    "image": "assets/tc.webp",
+    "source": "https://en.wikipedia.org/wiki/Grand_Turk_Island",
+    "code": "TC"
   },
   "Africa/Ndjamena": {
-    "image": "assets/cities/africa-ndjamena.jpg",
-    "source": "https://en.wikipedia.org/wiki/N'Djamena",
-    "city": "Ndjamena"
+    "name": "Lakes of Ounianga",
+    "city": "Ounianga",
+    "image": "assets/landmarks/td.webp",
+    "source": "https://en.wikipedia.org/wiki/Lakes_of_Ounianga",
+    "code": "TD"
+  },
+  "Asia/Bangkok": {
+    "name": "Wat Arun",
+    "city": "Bangkok",
+    "image": "assets/landmarks/th.webp",
+    "source": "https://en.wikipedia.org/wiki/Wat_Arun",
+    "code": "TH"
+  },
+  "Asia/Dushanbe": {
+    "name": "Iskanderkul",
+    "city": "Fann Mountains",
+    "image": "assets/landmarks/tj.webp",
+    "source": "https://en.wikipedia.org/wiki/Iskanderkul",
+    "code": "TJ"
   },
   "Pacific/Fakaofo": {
-    "image": "assets/cities/pacific-fakaofo.jpg",
-    "source": "https://en.wikipedia.org/wiki/Fakaofo",
-    "city": "Fakaofo"
+    "name": "Atafu",
+    "city": "Atafu",
+    "image": "assets/landmarks/tk.webp",
+    "source": "https://en.wikipedia.org/wiki/Atafu",
+    "code": "TK"
+  },
+  "Asia/Dili": {
+    "name": "Cristo Rei of Dili",
+    "city": "Dili",
+    "image": "assets/landmarks/tl.webp",
+    "source": "https://en.wikipedia.org/wiki/Cristo_Rei_of_Dili",
+    "code": "TL"
+  },
+  "Asia/Ashgabat": {
+    "name": "Darvaza gas crater",
+    "city": "Darvaza",
+    "image": "assets/landmarks/tm.webp",
+    "source": "https://en.wikipedia.org/wiki/Darvaza_gas_crater",
+    "code": "TM"
+  },
+  "Africa/Tunis": {
+    "name": "Amphitheatre of El Jem",
+    "city": "El Jem",
+    "image": "assets/landmarks/tn.webp",
+    "source": "https://en.wikipedia.org/wiki/Amphitheatre_of_El_Jem",
+    "code": "TN"
   },
   "Pacific/Tongatapu": {
-    "image": "assets/cities/pacific-tongatapu.jpg",
-    "source": "https://en.wikipedia.org/wiki/Tongatapu",
-    "city": "Tongatapu"
+    "name": "Haʻamonga ʻa Maui",
+    "city": "Tongatapu",
+    "image": "assets/landmarks/to.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ha%CA%BBamonga.jpg",
+    "code": "TO"
   },
   "Europe/Istanbul": {
-    "image": "assets/cities/europe-istanbul.jpg",
-    "source": "https://en.wikipedia.org/wiki/Istanbul",
-    "city": "Istanbul"
+    "name": "Hagia Sophia",
+    "city": "Istanbul",
+    "image": "assets/landmarks/tr.webp",
+    "source": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+    "code": "TR"
   },
-  "America/Detroit": {
-    "image": "assets/cities/america-detroit.jpg",
-    "source": "https://en.wikipedia.org/wiki/Detroit",
-    "city": "Detroit"
+  "Asia/Taipei": {
+    "name": "Taipei 101",
+    "city": "Taipei",
+    "image": "assets/landmarks/tw.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Taipei_101_Mall_view_2019.jpg",
+    "code": "TW"
   },
-  "America/Kentucky/Louisville": {
-    "image": "assets/cities/america-kentucky-louisville.jpg",
-    "source": "https://en.wikipedia.org/wiki/Louisville%2C_Kentucky",
-    "city": "Louisville"
-  },
-  "America/Kentucky/Monticello": {
-    "image": "assets/cities/america-kentucky-monticello.jpg",
-    "source": "https://en.wikipedia.org/wiki/Monticello",
-    "city": "Monticello"
-  },
-  "America/Indiana/Indianapolis": {
-    "image": "assets/cities/america-indiana-indianapolis.jpg",
-    "source": "https://en.wikipedia.org/wiki/Indianapolis",
-    "city": "Indianapolis"
-  },
-  "America/Indiana/Vincennes": {
-    "image": "assets/cities/america-indiana-vincennes.jpg",
-    "source": "https://en.wikipedia.org/wiki/Vincennes",
-    "city": "Vincennes"
-  },
-  "America/Chicago": {
-    "image": "assets/cities/america-chicago.jpg",
-    "source": "https://en.wikipedia.org/wiki/Chicago",
-    "city": "Chicago"
-  },
-  "America/Indiana/Tell_City": {
-    "image": "assets/cities/america-indiana-tell_city.jpg",
-    "source": "https://en.wikipedia.org/wiki/Tell_City%2C_Indiana",
-    "city": "Tell City"
-  },
-  "America/Menominee": {
-    "image": "assets/cities/america-menominee.jpg",
-    "source": "https://en.wikipedia.org/wiki/Menominee",
-    "city": "Menominee"
-  },
-  "America/Denver": {
-    "image": "assets/cities/america-denver.jpg",
-    "source": "https://en.wikipedia.org/wiki/Denver",
-    "city": "Denver"
-  },
-  "America/Boise": {
-    "image": "assets/cities/america-boise.jpg",
-    "source": "https://en.wikipedia.org/wiki/Boise%2C_Idaho",
-    "city": "Boise"
-  },
-  "America/Anchorage": {
-    "image": "assets/cities/america-anchorage.jpg",
-    "source": "https://en.wikipedia.org/wiki/Anchorage%2C_Alaska",
-    "city": "Anchorage"
-  },
-  "America/Juneau": {
-    "image": "assets/cities/america-juneau.jpg",
-    "source": "https://en.wikipedia.org/wiki/Juneau%2C_Alaska",
-    "city": "Juneau"
-  },
-  "America/Sitka": {
-    "image": "assets/cities/america-sitka.jpg",
-    "source": "https://en.wikipedia.org/wiki/Sitka%2C_Alaska",
-    "city": "Sitka"
-  },
-  "Pacific/Honolulu": {
-    "image": "assets/cities/pacific-honolulu.jpg",
-    "source": "https://en.wikipedia.org/wiki/Honolulu",
-    "city": "Honolulu"
-  },
-  "Asia/Samarkand": {
-    "image": "assets/cities/asia-samarkand.jpg",
-    "source": "https://en.wikipedia.org/wiki/Samarkand",
-    "city": "Samarkand"
-  },
-  "Asia/Ho_Chi_Minh": {
-    "image": "assets/cities/asia-ho_chi_minh.jpg",
-    "source": "https://en.wikipedia.org/wiki/Ho_Chi_Minh",
-    "city": "Ho Chi Minh"
-  },
-  "Africa/Johannesburg": {
-    "image": "assets/cities/africa-johannesburg.jpg",
-    "source": "https://en.wikipedia.org/wiki/Johannesburg",
-    "city": "Johannesburg"
-  },
-  "America/Antigua": {
-    "image": "assets/cities/america-antigua.jpg",
-    "source": "https://en.wikipedia.org/wiki/Antigua",
-    "city": "Antigua"
-  },
-  "Antarctica/McMurdo": {
-    "image": "assets/cities/antarctica-mcmurdo.jpg",
-    "source": "https://en.wikipedia.org/wiki/Archibald_McMurdo",
-    "city": "McMurdo"
-  },
-  "America/Kralendijk": {
-    "image": "assets/cities/america-kralendijk.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kralendijk",
-    "city": "Kralendijk"
-  },
-  "America/Blanc-Sablon": {
-    "image": "assets/cities/america-blanc-sablon.jpg",
-    "source": "https://en.wikipedia.org/wiki/Blanc-Sablon",
-    "city": "Blanc-Sablon"
-  },
-  "America/Atikokan": {
-    "image": "assets/cities/america-atikokan.jpg",
-    "source": "https://en.wikipedia.org/wiki/Atikokan",
-    "city": "Atikokan"
-  },
-  "Africa/Lubumbashi": {
-    "image": "assets/cities/africa-lubumbashi.jpg",
-    "source": "https://en.wikipedia.org/wiki/Lubumbashi",
-    "city": "Lubumbashi"
-  },
-  "Africa/Douala": {
-    "image": "assets/cities/africa-douala.jpg",
-    "source": "https://en.wikipedia.org/wiki/Douala",
-    "city": "Douala"
-  },
-  "Indian/Christmas": {
-    "image": "assets/cities/indian-christmas.jpg",
-    "source": "https://en.wikipedia.org/wiki/Christmas",
-    "city": "Christmas"
-  },
-  "Europe/Busingen": {
-    "image": "assets/cities/europe-busingen.jpg",
-    "source": "https://en.wikipedia.org/wiki/B%C3%BCsingen_am_Hochrhein",
-    "city": "Busingen"
-  },
-  "Pacific/Pohnpei": {
-    "image": "assets/cities/pacific-pohnpei.jpg",
-    "source": "https://en.wikipedia.org/wiki/Pohnpei",
-    "city": "Pohnpei"
-  },
-  "Europe/Guernsey": {
-    "image": "assets/cities/europe-guernsey.jpg",
-    "source": "https://en.wikipedia.org/wiki/Guernsey",
-    "city": "Guernsey"
-  },
-  "America/St_Kitts": {
-    "image": "assets/cities/america-st_kitts.jpg",
-    "source": "https://en.wikipedia.org/wiki/Saint_Kitts",
-    "city": "St Kitts"
-  },
-  "Asia/Kuwait": {
-    "image": "assets/cities/asia-kuwait.jpg",
-    "source": "https://en.wikipedia.org/wiki/Kuwait_City",
-    "city": "Kuwait City"
-  },
-  "Africa/Blantyre": {
-    "image": "assets/cities/africa-blantyre.jpg",
-    "source": "https://en.wikipedia.org/wiki/Blantyre",
-    "city": "Blantyre"
-  },
-  "Africa/Dar_es_Salaam": {
-    "image": "assets/cities/africa-dar_es_salaam.jpg",
-    "source": "https://en.wikipedia.org/wiki/Dar_es_Salaam",
-    "city": "Dar es Salaam"
-  },
-  "America/Tortola": {
-    "image": "assets/cities/america-tortola.jpg",
-    "source": "https://en.wikipedia.org/wiki/Tortola",
-    "city": "Tortola"
-  },
-  "Asia/Aden": {
-    "image": "assets/cities/asia-aden.jpg",
-    "source": "https://en.wikipedia.org/wiki/Aden",
-    "city": "Aden"
+  "Europe/Kyiv": {
+    "name": "Saint Sophia Cathedral, Kyiv",
+    "city": "Kyiv",
+    "image": "assets/landmarks/ua.webp",
+    "source": "https://en.wikipedia.org/wiki/Saint_Sophia_Cathedral%2C_Kyiv",
+    "code": "UA"
   },
   "America/New_York": {
-    "image": "assets/cities/america-new_york.jpg",
-    "source": "https://en.wikipedia.org/wiki/New_York_City",
-    "city": "New York City"
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Detroit": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Kentucky/Louisville": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Kentucky/Monticello": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Indiana/Indianapolis": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Indiana/Vincennes": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Indiana/Winamac": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Indiana/Marengo": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Indiana/Petersburg": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Indiana/Vevay": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Chicago": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Indiana/Tell_City": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Indiana/Knox": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Menominee": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/North_Dakota/Center": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/North_Dakota/New_Salem": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/North_Dakota/Beulah": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Denver": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Boise": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Phoenix": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Los_Angeles": {
+    "name": "Hollywood Sign",
+    "city": "Los Angeles",
+    "image": "assets/landmarks/america-los_angeles.webp",
+    "source": "https://en.wikipedia.org/wiki/Hollywood_Sign",
+    "code": "US"
+  },
+  "America/Anchorage": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Juneau": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Sitka": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Metlakatla": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Yakutat": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Nome": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Adak": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "Pacific/Honolulu": {
+    "name": "Statue of Liberty",
+    "city": "New York City",
+    "image": "assets/landmarks/us.webp",
+    "source": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+    "code": "US"
+  },
+  "America/Montevideo": {
+    "name": "Palacio Salvo",
+    "city": "Montevideo",
+    "image": "assets/landmarks/uy.webp",
+    "source": "https://en.wikipedia.org/wiki/Palacio_Salvo",
+    "code": "UY"
+  },
+  "Asia/Samarkand": {
+    "name": "Registan",
+    "city": "Samarkand",
+    "image": "assets/landmarks/uz.webp",
+    "source": "https://en.wikipedia.org/wiki/Registan",
+    "code": "UZ"
+  },
+  "Asia/Tashkent": {
+    "name": "Registan",
+    "city": "Samarkand",
+    "image": "assets/landmarks/uz.webp",
+    "source": "https://en.wikipedia.org/wiki/Registan",
+    "code": "UZ"
+  },
+  "America/Caracas": {
+    "name": "Angel Falls",
+    "city": "Canaima",
+    "image": "assets/landmarks/ve.webp",
+    "source": "https://en.wikipedia.org/wiki/Angel_Falls",
+    "code": "VE"
+  },
+  "Asia/Ho_Chi_Minh": {
+    "name": "Hạ Long Bay",
+    "city": "Hạ Long",
+    "image": "assets/landmarks/vn.webp",
+    "source": "https://en.wikipedia.org/wiki/H%E1%BA%A1_Long_Bay",
+    "code": "VN"
+  },
+  "Pacific/Efate": {
+    "name": "Mount Yasur",
+    "city": "Tanna",
+    "image": "assets/landmarks/vu.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Mount_Yasur_eruption_2006,_Tanna_Island,_Vanuatu,_VAN_0516.jpg",
+    "code": "VU"
+  },
+  "Pacific/Apia": {
+    "name": "To-Sua Ocean Trench",
+    "city": "Upolu",
+    "image": "assets/landmarks/ws.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:To_Sua_Ocean_Trench,_Upolu,_Samoa_-_August_2016.jpg",
+    "code": "WS"
+  },
+  "Africa/Johannesburg": {
+    "name": "Table Mountain",
+    "city": "Cape Town",
+    "image": "assets/landmarks/za.webp",
+    "source": "https://en.wikipedia.org/wiki/Table_Mountain",
+    "code": "ZA"
+  },
+  "America/Antigua": {
+    "name": "Nelson's Dockyard",
+    "city": "English Harbour",
+    "image": "assets/landmarks/ag.webp",
+    "source": "https://en.wikipedia.org/wiki/Nelson's_Dockyard",
+    "code": "AG"
+  },
+  "America/Anguilla": {
+    "name": "Wallblake House",
+    "city": "The Valley",
+    "image": "assets/landmarks/ai.webp",
+    "source": "https://en.wikipedia.org/wiki/Wallblake_House",
+    "code": "AI"
+  },
+  "Africa/Luanda": {
+    "name": "Fortress of São Miguel",
+    "city": "Luanda",
+    "image": "assets/landmarks/ao.webp",
+    "source": "https://en.wikipedia.org/wiki/Fortress_of_S%C3%A3o_Miguel",
+    "code": "AO"
+  },
+  "America/Aruba": {
+    "name": "California Lighthouse",
+    "city": "Noord",
+    "image": "assets/landmarks/aw.webp",
+    "source": "https://en.wikipedia.org/wiki/California_Lighthouse",
+    "code": "AW"
+  },
+  "Europe/Mariehamn": {
+    "name": "Kastelholm Castle",
+    "city": "Sund",
+    "image": "assets/landmarks/ax.webp",
+    "source": "https://en.wikipedia.org/wiki/Kastelholm_Castle",
+    "code": "AX"
+  },
+  "Europe/Sarajevo": {
+    "name": "Stari Most",
+    "city": "Mostar",
+    "image": "assets/landmarks/ba.webp",
+    "source": "https://en.wikipedia.org/wiki/Stari_Most",
+    "code": "BA"
+  },
+  "Africa/Ouagadougou": {
+    "name": "Grand Mosque of Bobo-Dioulasso",
+    "city": "Bobo-Dioulasso",
+    "image": "assets/landmarks/bf.webp",
+    "source": "https://en.wikipedia.org/wiki/Grand_Mosque_of_Bobo-Dioulasso",
+    "code": "BF"
+  },
+  "Asia/Bahrain": {
+    "name": "Bahrain World Trade Center",
+    "city": "Manama",
+    "image": "assets/landmarks/bh.webp",
+    "source": "https://en.wikipedia.org/wiki/Bahrain_World_Trade_Center",
+    "code": "BH"
+  },
+  "Africa/Bujumbura": {
+    "name": "Living Museum of Bujumbura",
+    "city": "Bujumbura",
+    "image": "assets/landmarks/bi.webp",
+    "source": "https://en.wikipedia.org/wiki/Living_Museum_of_Bujumbura",
+    "code": "BI"
+  },
+  "Africa/Porto-Novo": {
+    "name": "Royal Palaces of Abomey",
+    "city": "Abomey",
+    "image": "assets/landmarks/bj.webp",
+    "source": "https://en.wikipedia.org/wiki/Royal_Palaces_of_Abomey",
+    "code": "BJ"
+  },
+  "America/St_Barthelemy": {
+    "name": "Gustavia, Saint Barthélemy",
+    "city": "Gustavia",
+    "image": "assets/landmarks/bl.webp",
+    "source": "https://en.wikipedia.org/wiki/Gustavia",
+    "code": "BL"
+  },
+  "Asia/Brunei": {
+    "name": "Omar Ali Saifuddien Mosque",
+    "city": "Bandar Seri Begawan",
+    "image": "assets/landmarks/bn.webp",
+    "source": "https://en.wikipedia.org/wiki/Omar_Ali_Saifuddien_Mosque",
+    "code": "BN"
+  },
+  "America/Kralendijk": {
+    "name": "Bonaire National Marine Park",
+    "city": "Kralendijk",
+    "image": "assets/landmarks/bq.webp",
+    "source": "https://en.wikipedia.org/wiki/Bonaire_National_Marine_Park",
+    "code": "BQ"
+  },
+  "America/Nassau": {
+    "name": "Atlantis Paradise Island",
+    "city": "Nassau",
+    "image": "assets/landmarks/bs.webp",
+    "source": "https://en.wikipedia.org/wiki/Atlantis_Paradise_Island",
+    "code": "BS"
+  },
+  "Africa/Gaborone": {
+    "name": "Okavango Delta",
+    "city": "Maun",
+    "image": "assets/landmarks/bw.webp",
+    "source": "https://en.wikipedia.org/wiki/Okavango_Delta",
+    "code": "BW"
+  },
+  "America/Blanc-Sablon": {
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
+  },
+  "America/Atikokan": {
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
+  },
+  "America/Creston": {
+    "name": "CN Tower",
+    "city": "Toronto",
+    "image": "assets/landmarks/ca.webp",
+    "source": "https://en.wikipedia.org/wiki/CN_Tower",
+    "code": "CA"
+  },
+  "Indian/Cocos": {
+    "name": "Cocos (Keeling) Islands",
+    "city": "West Island",
+    "image": "assets/landmarks/cc.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Chart_of_Cocos_Keeling_Islands.png",
+    "code": "CC"
+  },
+  "Africa/Kinshasa": {
+    "name": "Virunga National Park",
+    "city": "Goma",
+    "image": "assets/landmarks/cd.webp",
+    "source": "https://en.wikipedia.org/wiki/Virunga_National_Park",
+    "code": "CD"
+  },
+  "Africa/Lubumbashi": {
+    "name": "Virunga National Park",
+    "city": "Goma",
+    "image": "assets/landmarks/cd.webp",
+    "source": "https://en.wikipedia.org/wiki/Virunga_National_Park",
+    "code": "CD"
+  },
+  "Africa/Bangui": {
+    "name": "Boali",
+    "city": "Boali",
+    "image": "assets/landmarks/cf.webp",
+    "source": "https://en.wikipedia.org/wiki/Boali",
+    "code": "CF"
+  },
+  "Africa/Brazzaville": {
+    "name": "Basilique Sainte-Anne-du-Congo",
+    "city": "Brazzaville",
+    "image": "assets/landmarks/cg.webp",
+    "source": "https://en.wikipedia.org/wiki/Basilica_of_Sainte-Anne-du-Congo_in_Brazzaville",
+    "code": "CG"
+  },
+  "Africa/Douala": {
+    "name": "Reunification Monument",
+    "city": "Yaoundé",
+    "image": "assets/landmarks/cm.webp",
+    "source": "https://en.wikipedia.org/wiki/Reunification_Monument",
+    "code": "CM"
+  },
+  "America/Curacao": {
+    "name": "Queen Emma Bridge",
+    "city": "Willemstad",
+    "image": "assets/landmarks/cw.webp",
+    "source": "https://en.wikipedia.org/wiki/Queen_Emma_Bridge",
+    "code": "CW"
+  },
+  "Indian/Christmas": {
+    "name": "Christmas Island National Park",
+    "city": "Christmas Island",
+    "image": "assets/landmarks/cx.webp",
+    "source": "https://en.wikipedia.org/wiki/Christmas_Island_National_Park",
+    "code": "CX"
+  },
+  "Europe/Busingen": {
+    "name": "Brandenburg Gate",
+    "city": "Berlin",
+    "image": "assets/landmarks/de.webp",
+    "source": "https://en.wikipedia.org/wiki/Brandenburg_Gate",
+    "code": "DE"
+  },
+  "Africa/Djibouti": {
+    "name": "Lake Assal (Djibouti)",
+    "city": "Tadjoura",
+    "image": "assets/landmarks/dj.webp",
+    "source": "https://en.wikipedia.org/wiki/Lake_Assal_(Djibouti)",
+    "code": "DJ"
+  },
+  "Europe/Copenhagen": {
+    "name": "The Little Mermaid (statue)",
+    "city": "Copenhagen",
+    "image": "assets/landmarks/dk.webp",
+    "source": "https://en.wikipedia.org/wiki/The_Little_Mermaid_(statue)",
+    "code": "DK"
+  },
+  "America/Dominica": {
+    "name": "Boiling Lake",
+    "city": "Morne Trois Pitons",
+    "image": "assets/landmarks/dm.webp",
+    "source": "https://en.wikipedia.org/wiki/Boiling_Lake",
+    "code": "DM"
+  },
+  "Africa/Asmara": {
+    "name": "Fiat Tagliero Building",
+    "city": "Asmara",
+    "image": "assets/landmarks/er.webp",
+    "source": "https://en.wikipedia.org/wiki/Fiat_Tagliero_Building",
+    "code": "ER"
+  },
+  "Africa/Addis_Ababa": {
+    "name": "Church of Saint George, Lalibela",
+    "city": "Lalibela",
+    "image": "assets/landmarks/et.webp",
+    "source": "https://en.wikipedia.org/wiki/Church_of_Saint_George%2C_Lalibela",
+    "code": "ET"
+  },
+  "Pacific/Chuuk": {
+    "name": "Nan Madol",
+    "city": "Pohnpei",
+    "image": "assets/landmarks/fm.webp",
+    "source": "https://en.wikipedia.org/wiki/Nan_Madol",
+    "code": "FM"
+  },
+  "Pacific/Pohnpei": {
+    "name": "Nan Madol",
+    "city": "Pohnpei",
+    "image": "assets/landmarks/fm.webp",
+    "source": "https://en.wikipedia.org/wiki/Nan_Madol",
+    "code": "FM"
+  },
+  "Africa/Libreville": {
+    "name": "Libreville seafront",
+    "city": "Libreville",
+    "image": "assets/ga.webp",
+    "source": "https://en.wikipedia.org/wiki/Libreville",
+    "code": "GA"
+  },
+  "America/Grenada": {
+    "name": "Fort George, Grenada",
+    "city": "St. George's",
+    "image": "assets/landmarks/gd.webp",
+    "source": "https://en.wikipedia.org/wiki/Fort_George%2C_Grenada",
+    "code": "GD"
+  },
+  "Europe/Guernsey": {
+    "name": "Castle Cornet",
+    "city": "Saint Peter Port",
+    "image": "assets/landmarks/gg.webp",
+    "source": "https://en.wikipedia.org/wiki/Castle_Cornet",
+    "code": "GG"
+  },
+  "Africa/Accra": {
+    "name": "Cape Coast Castle",
+    "city": "Cape Coast",
+    "image": "assets/landmarks/gh.webp",
+    "source": "https://en.wikipedia.org/wiki/Cape_Coast_Castle",
+    "code": "GH"
+  },
+  "Africa/Banjul": {
+    "name": "Arch 22",
+    "city": "Banjul",
+    "image": "assets/landmarks/gm.webp",
+    "source": "https://en.wikipedia.org/wiki/Arch_22",
+    "code": "GM"
+  },
+  "Africa/Conakry": {
+    "name": "Grand Mosque of Conakry",
+    "city": "Conakry",
+    "image": "assets/landmarks/gn.webp",
+    "source": "https://en.wikipedia.org/wiki/Grand_Mosque_of_Conakry",
+    "code": "GN"
+  },
+  "America/Guadeloupe": {
+    "name": "Fort Delgrès",
+    "city": "Basse-Terre",
+    "image": "assets/landmarks/gp.webp",
+    "source": "https://en.wikipedia.org/wiki/Fort_Delgr%C3%A8s",
+    "code": "GP"
+  },
+  "Africa/Malabo": {
+    "name": "St. Elizabeth's Cathedral, Malabo",
+    "city": "Malabo",
+    "image": "assets/landmarks/gq.webp",
+    "source": "https://en.wikipedia.org/wiki/St._Elizabeth's_Cathedral%2C_Malabo",
+    "code": "GQ"
+  },
+  "Europe/Zagreb": {
+    "name": "Walls of Dubrovnik",
+    "city": "Dubrovnik",
+    "image": "assets/landmarks/hr.webp",
+    "source": "https://en.wikipedia.org/wiki/Walls_of_Dubrovnik",
+    "code": "HR"
+  },
+  "Europe/Isle_of_Man": {
+    "name": "Laxey Wheel",
+    "city": "Laxey",
+    "image": "assets/landmarks/im.webp",
+    "source": "https://en.wikipedia.org/wiki/Laxey_Wheel",
+    "code": "IM"
+  },
+  "Atlantic/Reykjavik": {
+    "name": "Hallgrímskirkja",
+    "city": "Reykjavík",
+    "image": "assets/landmarks/is.webp",
+    "source": "https://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja",
+    "code": "IS"
+  },
+  "Europe/Jersey": {
+    "name": "Mont Orgueil",
+    "city": "Gorey",
+    "image": "assets/landmarks/je.webp",
+    "source": "https://en.wikipedia.org/wiki/Mont_Orgueil",
+    "code": "JE"
+  },
+  "Asia/Phnom_Penh": {
+    "name": "Angkor Wat",
+    "city": "Siem Reap",
+    "image": "assets/landmarks/kh.webp",
+    "source": "https://en.wikipedia.org/wiki/Angkor_Wat",
+    "code": "KH"
+  },
+  "Indian/Comoro": {
+    "name": "Mount Karthala",
+    "city": "Grande Comore",
+    "image": "assets/landmarks/km.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Karthala_volcano-Comoros.jpg",
+    "code": "KM"
+  },
+  "America/St_Kitts": {
+    "name": "Brimstone Hill Fortress National Park",
+    "city": "Saint Kitts",
+    "image": "assets/landmarks/kn.webp",
+    "source": "https://en.wikipedia.org/wiki/Brimstone_Hill_Fortress_National_Park",
+    "code": "KN"
+  },
+  "Asia/Kuwait": {
+    "name": "Kuwait Towers",
+    "city": "Kuwait City",
+    "image": "assets/landmarks/kw.webp",
+    "source": "https://en.wikipedia.org/wiki/Kuwait_Towers",
+    "code": "KW"
+  },
+  "America/Cayman": {
+    "name": "Seven Mile Beach, Grand Cayman",
+    "city": "George Town",
+    "image": "assets/landmarks/ky.webp",
+    "source": "https://en.wikipedia.org/wiki/Seven_Mile_Beach%2C_Grand_Cayman",
+    "code": "KY"
+  },
+  "Asia/Vientiane": {
+    "name": "Pha That Luang",
+    "city": "Vientiane",
+    "image": "assets/landmarks/la.webp",
+    "source": "https://en.wikipedia.org/wiki/Pha_That_Luang",
+    "code": "LA"
+  },
+  "America/St_Lucia": {
+    "name": "Pitons (Saint Lucia)",
+    "city": "Soufrière",
+    "image": "assets/landmarks/lc.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Pitons_at_Soufriere_Saint_Lucia.jpg",
+    "code": "LC"
+  },
+  "Europe/Vaduz": {
+    "name": "Vaduz Castle",
+    "city": "Vaduz",
+    "image": "assets/landmarks/li.webp",
+    "source": "https://en.wikipedia.org/wiki/Vaduz_Castle",
+    "code": "LI"
+  },
+  "Africa/Maseru": {
+    "name": "Maletsunyane Falls",
+    "city": "Semonkong",
+    "image": "assets/landmarks/ls.webp",
+    "source": "https://en.wikipedia.org/wiki/Maletsunyane_Falls",
+    "code": "LS"
+  },
+  "Europe/Luxembourg": {
+    "name": "Adolphe Bridge",
+    "city": "Luxembourg City",
+    "image": "assets/landmarks/lu.webp",
+    "source": "https://en.wikipedia.org/wiki/Adolphe_Bridge",
+    "code": "LU"
+  },
+  "Europe/Monaco": {
+    "name": "Casino de Monte-Carlo",
+    "city": "Monte Carlo",
+    "image": "assets/landmarks/mc.webp",
+    "source": "https://en.wikipedia.org/wiki/Monte_Carlo_Casino",
+    "code": "MC"
+  },
+  "Europe/Podgorica": {
+    "name": "Our Lady of the Rocks",
+    "city": "Kotor",
+    "image": "assets/landmarks/me.webp",
+    "source": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Rocks",
+    "code": "ME"
+  },
+  "America/Marigot": {
+    "name": "Fort Louis (Saint Martin)",
+    "city": "Marigot",
+    "image": "assets/landmarks/mf.webp",
+    "source": "https://en.wikipedia.org/wiki/Fort_Louis_(Saint_Martin)",
+    "code": "MF"
+  },
+  "Indian/Antananarivo": {
+    "name": "Avenue of the Baobabs",
+    "city": "Morondava",
+    "image": "assets/landmarks/mg.webp",
+    "source": "https://en.wikipedia.org/wiki/Avenue_of_the_Baobabs",
+    "code": "MG"
+  },
+  "Pacific/Majuro": {
+    "name": "Bikini Atoll",
+    "city": "Bikini Atoll",
+    "image": "assets/landmarks/mh.webp",
+    "source": "https://en.wikipedia.org/wiki/Bikini_Atoll",
+    "code": "MH"
+  },
+  "Europe/Skopje": {
+    "name": "Church of Saint John at Kaneo",
+    "city": "Ohrid",
+    "image": "assets/landmarks/mk.webp",
+    "source": "https://en.wikipedia.org/wiki/Church_of_St._John_at_Kaneo",
+    "code": "MK"
+  },
+  "Africa/Bamako": {
+    "name": "Great Mosque of Djenné",
+    "city": "Djenné",
+    "image": "assets/landmarks/ml.webp",
+    "source": "https://en.wikipedia.org/wiki/Great_Mosque_of_Djenn%C3%A9",
+    "code": "ML"
+  },
+  "Pacific/Saipan": {
+    "name": "American Memorial Park",
+    "city": "Saipan",
+    "image": "assets/landmarks/mp.webp",
+    "source": "https://en.wikipedia.org/wiki/American_Memorial_Park",
+    "code": "MP"
+  },
+  "Africa/Nouakchott": {
+    "name": "Chinguetti Mosque",
+    "city": "Chinguetti",
+    "image": "assets/landmarks/mr.webp",
+    "source": "https://en.wikipedia.org/wiki/Chinguetti_Mosque",
+    "code": "MR"
+  },
+  "America/Montserrat": {
+    "name": "Soufrière Hills",
+    "city": "Montserrat",
+    "image": "assets/landmarks/ms.webp",
+    "source": "https://en.wikipedia.org/wiki/Soufri%C3%A8re_Hills",
+    "code": "MS"
+  },
+  "Africa/Blantyre": {
+    "name": "Lake Malawi",
+    "city": "Cape Maclear",
+    "image": "assets/landmarks/mw.webp",
+    "source": "https://en.wikipedia.org/wiki/Lake_Malawi",
+    "code": "MW"
+  },
+  "Asia/Kuala_Lumpur": {
+    "name": "Petronas Towers",
+    "city": "Kuala Lumpur",
+    "image": "assets/landmarks/my.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Petronas_Towers_at_sunset.JPG",
+    "code": "MY"
+  },
+  "Africa/Niamey": {
+    "name": "Agadez Mosque",
+    "city": "Agadez",
+    "image": "assets/landmarks/ne.webp",
+    "source": "https://en.wikipedia.org/wiki/Agadez_Mosque",
+    "code": "NE"
+  },
+  "Europe/Amsterdam": {
+    "name": "Rijksmuseum",
+    "city": "Amsterdam",
+    "image": "assets/landmarks/nl.webp",
+    "source": "https://en.wikipedia.org/wiki/Rijksmuseum",
+    "code": "NL"
+  },
+  "Europe/Oslo": {
+    "name": "Oslo Opera House",
+    "city": "Oslo",
+    "image": "assets/landmarks/no.webp",
+    "source": "https://en.wikipedia.org/wiki/Oslo_Opera_House",
+    "code": "NO"
+  },
+  "Asia/Muscat": {
+    "name": "Sultan Qaboos Grand Mosque",
+    "city": "Muscat",
+    "image": "assets/landmarks/om.webp",
+    "source": "https://en.wikipedia.org/wiki/Sultan_Qaboos_Grand_Mosque",
+    "code": "OM"
+  },
+  "Indian/Reunion": {
+    "name": "Piton de la Fournaise",
+    "city": "Réunion",
+    "image": "assets/landmarks/re.webp",
+    "source": "https://en.wikipedia.org/wiki/Piton_de_la_Fournaise",
+    "code": "RE"
+  },
+  "Africa/Kigali": {
+    "name": "Kigali Genocide Memorial",
+    "city": "Kigali",
+    "image": "assets/landmarks/rw.webp",
+    "source": "https://en.wikipedia.org/wiki/Kigali_Genocide_Memorial",
+    "code": "RW"
+  },
+  "Indian/Mahe": {
+    "name": "Anse Source d'Argent",
+    "city": "La Digue",
+    "image": "assets/landmarks/sc.webp",
+    "source": "https://en.wikipedia.org/wiki/Anse_Source_d'Argent",
+    "code": "SC"
+  },
+  "Europe/Stockholm": {
+    "name": "Stockholm Palace",
+    "city": "Stockholm",
+    "image": "assets/landmarks/se.webp",
+    "source": "https://en.wikipedia.org/wiki/Stockholm_Palace",
+    "code": "SE"
+  },
+  "Atlantic/St_Helena": {
+    "name": "Jacob's Ladder (Saint Helena)",
+    "city": "Jamestown",
+    "image": "assets/landmarks/sh.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Jacob%27s_Ladder_behind_HM_Prison_in_Jamestown_Saint_Helena.jpg",
+    "code": "SH"
+  },
+  "Europe/Ljubljana": {
+    "name": "Lake Bled",
+    "city": "Bled",
+    "image": "assets/landmarks/si.webp",
+    "source": "https://en.wikipedia.org/wiki/Lake_Bled",
+    "code": "SI"
+  },
+  "Arctic/Longyearbyen": {
+    "name": "Svalbard Global Seed Vault",
+    "city": "Longyearbyen",
+    "image": "assets/landmarks/sj.webp",
+    "source": "https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault",
+    "code": "SJ"
+  },
+  "Europe/Bratislava": {
+    "name": "Bratislava Castle",
+    "city": "Bratislava",
+    "image": "assets/landmarks/sk.webp",
+    "source": "https://en.wikipedia.org/wiki/Bratislava_Castle",
+    "code": "SK"
+  },
+  "Africa/Freetown": {
+    "name": "Banana Islands",
+    "city": "Freetown",
+    "image": "assets/landmarks/sl.webp",
+    "source": "https://en.wikipedia.org/wiki/Banana_Islands",
+    "code": "SL"
+  },
+  "Europe/San_Marino": {
+    "name": "Guaita",
+    "city": "San Marino",
+    "image": "assets/landmarks/sm.webp",
+    "source": "https://en.wikipedia.org/wiki/Guaita",
+    "code": "SM"
+  },
+  "Africa/Dakar": {
+    "name": "African Renaissance Monument",
+    "city": "Dakar",
+    "image": "assets/landmarks/sn.webp",
+    "source": "https://en.wikipedia.org/wiki/African_Renaissance_Monument",
+    "code": "SN"
+  },
+  "Africa/Mogadishu": {
+    "name": "Laas Geel",
+    "city": "Hargeisa",
+    "image": "assets/landmarks/so.webp",
+    "source": "https://en.wikipedia.org/wiki/Laas_Geel",
+    "code": "SO"
+  },
+  "America/Lower_Princes": {
+    "name": "Maho Beach",
+    "city": "Sint Maarten",
+    "image": "assets/landmarks/sx.webp",
+    "source": "https://en.wikipedia.org/wiki/Maho_Beach",
+    "code": "SX"
+  },
+  "Africa/Mbabane": {
+    "name": "Mlilwane Wildlife Sanctuary",
+    "city": "Lobamba",
+    "image": "assets/landmarks/sz.webp",
+    "source": "https://en.wikipedia.org/wiki/Mlilwane_Wildlife_Sanctuary",
+    "code": "SZ"
+  },
+  "Indian/Kerguelen": {
+    "name": "Port-aux-Français",
+    "city": "Kerguelen Islands",
+    "image": "assets/landmarks/tf.webp",
+    "source": "https://en.wikipedia.org/wiki/Port-aux-Fran%C3%A7ais",
+    "code": "TF"
+  },
+  "Africa/Lome": {
+    "name": "Koutammakou",
+    "city": "Koutammakou",
+    "image": "assets/landmarks/tg.webp",
+    "source": "https://en.wikipedia.org/wiki/Koutammakou",
+    "code": "TG"
+  },
+  "America/Port_of_Spain": {
+    "name": "Temple in the Sea",
+    "city": "Waterloo",
+    "image": "assets/landmarks/tt.webp",
+    "source": "https://en.wikipedia.org/wiki/Temple_in_the_Sea",
+    "code": "TT"
+  },
+  "Pacific/Funafuti": {
+    "name": "Funafuti Conservation Area",
+    "city": "Funafuti",
+    "image": "assets/landmarks/tv.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:LiggingFongafale-dorp.JPG",
+    "code": "TV"
+  },
+  "Africa/Dar_es_Salaam": {
+    "name": "Stone Town",
+    "city": "Zanzibar",
+    "image": "assets/landmarks/tz.webp",
+    "source": "https://en.wikipedia.org/wiki/Stone_Town",
+    "code": "TZ"
+  },
+  "Africa/Kampala": {
+    "name": "Kasubi Tombs",
+    "city": "Kampala",
+    "image": "assets/landmarks/ug.webp",
+    "source": "https://en.wikipedia.org/wiki/Kasubi_Tombs",
+    "code": "UG"
+  },
+  "Pacific/Midway": {
+    "name": "Midway Atoll National Wildlife Refuge",
+    "city": "Midway Atoll",
+    "image": "assets/landmarks/um.webp",
+    "source": "https://en.wikipedia.org/wiki/Midway_Atoll",
+    "code": "UM"
+  },
+  "Pacific/Wake": {
+    "name": "Midway Atoll National Wildlife Refuge",
+    "city": "Midway Atoll",
+    "image": "assets/landmarks/um.webp",
+    "source": "https://en.wikipedia.org/wiki/Midway_Atoll",
+    "code": "UM"
+  },
+  "Europe/Vatican": {
+    "name": "St. Peter's Basilica",
+    "city": "Vatican City",
+    "image": "assets/landmarks/va.webp",
+    "source": "https://en.wikipedia.org/wiki/St._Peter's_Basilica",
+    "code": "VA"
+  },
+  "America/St_Vincent": {
+    "name": "La Soufrière (volcano)",
+    "city": "Saint Vincent",
+    "image": "assets/landmarks/vc.webp",
+    "source": "https://en.wikipedia.org/wiki/La_Soufri%C3%A8re_(Saint_Vincent)",
+    "code": "VC"
+  },
+  "America/Tortola": {
+    "name": "The Baths",
+    "city": "Virgin Gorda",
+    "image": "assets/landmarks/vg.webp",
+    "source": "https://en.wikipedia.org/wiki/The_Baths",
+    "code": "VG"
+  },
+  "America/St_Thomas": {
+    "name": "Trunk Bay",
+    "city": "St. John",
+    "image": "assets/landmarks/vi.webp",
+    "source": "https://en.wikipedia.org/wiki/Trunk_Bay",
+    "code": "VI"
+  },
+  "Pacific/Wallis": {
+    "name": "Talietumu",
+    "city": "Wallis",
+    "image": "assets/landmarks/wf.webp",
+    "source": "https://en.wikipedia.org/wiki/Talietumu",
+    "code": "WF"
+  },
+  "Asia/Aden": {
+    "name": "Old City of Sana'a",
+    "city": "Sana'a",
+    "image": "assets/landmarks/ye.webp",
+    "source": "https://en.wikipedia.org/wiki/Old_City_of_Sanaa",
+    "code": "YE"
+  },
+  "Indian/Mayotte": {
+    "name": "Dziani Dzaha",
+    "city": "Petite-Terre",
+    "image": "assets/landmarks/yt.webp",
+    "source": "https://en.wikipedia.org/wiki/Dziani_Dzaha",
+    "code": "YT"
+  },
+  "Africa/Lusaka": {
+    "name": "Victoria Falls",
+    "city": "Livingstone",
+    "image": "assets/landmarks/zm.webp",
+    "source": "https://en.wikipedia.org/wiki/Victoria_Falls",
+    "code": "ZM"
+  },
+  "Africa/Harare": {
+    "name": "Great Zimbabwe",
+    "city": "Masvingo",
+    "image": "assets/landmarks/zw.webp",
+    "source": "https://en.wikipedia.org/wiki/Great_Zimbabwe",
+    "code": "ZW"
+  },
+  "Antarctica/Casey": {
+    "name": "Casey Station",
+    "city": "Antarctica",
+    "code": "AQ",
+    "image": "assets/landmarks/antarctica-casey.webp",
+    "source": "https://en.wikipedia.org/wiki/Casey_Station"
+  },
+  "Antarctica/Davis": {
+    "name": "Davis Station",
+    "city": "Antarctica",
+    "code": "AQ",
+    "image": "assets/landmarks/antarctica-davis.webp",
+    "source": "https://en.wikipedia.org/wiki/Davis_Station"
+  },
+  "Antarctica/Mawson": {
+    "name": "Mawson Station",
+    "city": "Antarctica",
+    "code": "AQ",
+    "image": "assets/landmarks/antarctica-mawson.webp",
+    "source": "https://en.wikipedia.org/wiki/Mawson_Station"
+  },
+  "Antarctica/Palmer": {
+    "name": "Palmer Station",
+    "city": "Antarctica",
+    "code": "AQ",
+    "image": "assets/landmarks/antarctica-palmer.webp",
+    "source": "https://en.wikipedia.org/wiki/Palmer_Station"
+  },
+  "Antarctica/Rothera": {
+    "name": "Rothera Research Station",
+    "city": "Antarctica",
+    "code": "AQ",
+    "image": "assets/landmarks/antarctica-rothera.webp",
+    "source": "https://en.wikipedia.org/wiki/Rothera_Research_Station"
+  },
+  "Antarctica/Troll": {
+    "name": "Troll (research station)",
+    "city": "Antarctica",
+    "code": "AQ",
+    "image": "assets/landmarks/antarctica-troll.webp",
+    "source": "https://en.wikipedia.org/wiki/Troll_(research_station)"
+  },
+  "Antarctica/Vostok": {
+    "name": "Vostok Station",
+    "city": "Antarctica",
+    "code": "AQ",
+    "image": "assets/landmarks/antarctica-vostok.webp",
+    "source": "https://en.wikipedia.org/wiki/Vostok_Station"
+  },
+  "Antarctica/McMurdo": {
+    "name": "McMurdo Station",
+    "city": "Antarctica",
+    "code": "AQ",
+    "image": "assets/landmarks/antarctica-mcmurdo.webp",
+    "source": "https://en.wikipedia.org/wiki/McMurdo_Station"
+  },
+  "Antarctica/DumontDUrville": {
+    "name": "Dumont d'Urville Station",
+    "city": "Antarctica",
+    "code": "AQ",
+    "image": "assets/landmarks/antarctica-dumontdurville.webp",
+    "source": "https://en.wikipedia.org/wiki/Dumont_d'Urville_Station"
+  },
+  "Antarctica/Syowa": {
+    "name": "Showa Station (Antarctica)",
+    "city": "Antarctica",
+    "code": "AQ",
+    "image": "assets/landmarks/antarctica-syowa.webp",
+    "source": "https://en.wikipedia.org/wiki/Syowa_Station_(Antarctica)"
   }
 }

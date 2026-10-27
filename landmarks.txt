@@ -1,0 +1,246 @@
+CN|Forbidden City|Beijing
+JP|Sensō-ji|Tokyo
+SG|Merlion Park|Singapore
+US|Statue of Liberty|New York City
+GB|Tower Bridge|London
+FR|Eiffel Tower|Paris
+DE|Brandenburg Gate|Berlin
+AU|Sydney Opera House|Sydney
+IN|Taj Mahal|Agra
+BR|Christ the Redeemer (statue)|Rio de Janeiro
+CA|CN Tower|Toronto
+AE|Burj Khalifa|Dubai
+ZA|Table Mountain|Cape Town
+EG|Giza pyramid complex|Giza
+KR|Gyeongbokgung|Seoul
+MX|Chichen Itza|Yucatán
+AR|Obelisco de Buenos Aires|Buenos Aires
+CL|Moai|Easter Island
+PE|Machu Picchu|Cusco
+CO|Las Lajas Sanctuary|Ipiales
+VE|Angel Falls|Canaima
+EC|Church of the Society of Jesus, Quito|Quito
+BO|Salar de Uyuni|Uyuni
+PY|Palacio de los López|Asunción
+UY|Palacio Salvo|Montevideo
+GY|St. George's Cathedral, Georgetown|Georgetown
+SR|Saint Peter and Paul Cathedral, Paramaribo|Paramaribo
+CU|Capitolio|Havana
+DO|Basilica Cathedral of Santa María la Menor|Santo Domingo
+HT|Citadelle Laferrière|Cap-Haïtien
+JM|Dunn's River Falls|Ocho Rios
+BS|Atlantis Paradise Island|Nassau
+BB|Harrison's Cave|Bridgetown
+TT|Temple in the Sea|Waterloo
+CR|National Theatre of Costa Rica|San José
+PA|Panama Canal|Panama City
+GT|Tikal|Petén
+HN|Copán|Copán Ruinas
+SV|El Rosario Church|San Salvador
+NI|Granada Cathedral|Granada
+BZ|Great Blue Hole|Belize
+AG|Nelson's Dockyard|English Harbour
+DM|Boiling Lake|Morne Trois Pitons
+GD|Fort George, Grenada|St. George's
+KN|Brimstone Hill Fortress National Park|Saint Kitts
+LC|Pitons|Soufrière
+VC|Saint Vincent Botanical Gardens|Kingstown
+RU|Saint Basil's Cathedral|Moscow
+UA|Saint Sophia Cathedral, Kyiv|Kyiv
+BY|Mir Castle Complex|Mir
+PL|Wawel Castle|Kraków
+CZ|Charles Bridge|Prague
+SK|Bratislava Castle|Bratislava
+HU|Hungarian Parliament Building|Budapest
+RO|Palace of the Parliament|Bucharest
+BG|Alexander Nevsky Cathedral, Sofia|Sofia
+MD|Orheiul Vechi|Orhei
+RS|Belgrade Fortress|Belgrade
+BA|Stari Most|Mostar
+HR|Walls of Dubrovnik|Dubrovnik
+SI|Lake Bled|Bled
+ME|Our Lady of the Rocks|Kotor
+AL|Skanderbeg Square|Tirana
+MK|Church of Saint John at Kaneo|Ohrid
+GR|Parthenon|Athens
+CY|Tombs of the Kings (Paphos)|Paphos
+MT|St. John's Co-Cathedral|Valletta
+IT|Colosseum|Rome
+VA|St. Peter's Basilica|Vatican City
+SM|Guaita|San Marino
+ES|Sagrada Família|Barcelona
+PT|Belém Tower|Lisbon
+AD|Casa de la Vall|Andorra la Vella
+MC|Casino de Monte-Carlo|Monte Carlo
+CH|Chapel Bridge|Lucerne
+AT|Schönbrunn Palace|Vienna
+LI|Vaduz Castle|Vaduz
+NL|Rijksmuseum|Amsterdam
+BE|Grand-Place|Brussels
+LU|Adolphe Bridge|Luxembourg City
+IE|Cliffs of Moher|County Clare
+IS|Hallgrímskirkja|Reykjavík
+NO|Oslo Opera House|Oslo
+SE|Stockholm Palace|Stockholm
+DK|The Little Mermaid (statue)|Copenhagen
+FI|Helsinki Cathedral|Helsinki
+EE|Alexander Nevsky Cathedral, Tallinn|Tallinn
+LV|House of the Blackheads (Riga)|Riga
+LT|Trakai Island Castle|Trakai
+TR|Hagia Sophia|Istanbul
+GE|Gergeti Trinity Church|Stepantsminda
+AM|Garni Temple|Garni
+AZ|Heydar Aliyev Center|Baku
+KZ|Bayterek|Astana
+KG|Burana Tower|Tokmok
+UZ|Registan|Samarkand
+TM|Darvaza gas crater|Darvaza
+TJ|Iskanderkul|Fann Mountains
+MN|Genghis Khan Equestrian Statue|Tsonjin Boldog
+KP|Juche Tower|Pyongyang
+TW|Taipei 101|Taipei
+HK|Tian Tan Buddha|Hong Kong
+MO|Ruins of Saint Paul's|Macau
+TH|Wat Arun|Bangkok
+VN|Hạ Long Bay|Hạ Long
+KH|Angkor Wat|Siem Reap
+LA|Pha That Luang|Vientiane
+MM|Shwedagon Pagoda|Yangon
+MY|Petronas Towers|Kuala Lumpur
+ID|Borobudur|Magelang
+PH|Chocolate Hills|Bohol
+BN|Omar Ali Saifuddien Mosque|Bandar Seri Begawan
+TL|Cristo Rei of Dili|Dili
+BD|Lalbagh Fort|Dhaka
+PK|Badshahi Mosque|Lahore
+LK|Sigiriya|Dambulla
+NP|Boudhanath|Kathmandu
+BT|Paro Taktsang|Paro
+MV|Malé Friday Mosque|Malé
+AF|Minaret of Jam|Ghor
+IR|Persepolis|Shiraz
+IQ|Great Ziggurat of Ur|Nasiriyah
+IL|Western Wall|Jerusalem
+PS|Dome of the Rock|Jerusalem
+JO|Al-Khazneh|Petra
+LB|Baalbek|Baalbek
+SY|Umayyad Mosque|Damascus
+SA|Al-Masjid an-Nabawi|Medina
+QA|Museum of Islamic Art, Doha|Doha
+BH|Bahrain World Trade Center|Manama
+OM|Sultan Qaboos Grand Mosque|Muscat
+KW|Kuwait Towers|Kuwait City
+YE|Old City of Sana'a|Sana'a
+MA|Hassan II Mosque|Casablanca
+DZ|Maqam Echahid|Algiers
+TN|Amphitheatre of El Jem|El Jem
+LY|Leptis Magna|Khoms
+SD|Meroë|Meroë
+SS|John Garang Mausoleum|Juba
+ET|Church of Saint George, Lalibela|Lalibela
+ER|Fiat Tagliero Building|Asmara
+DJ|Lake Assal (Djibouti)|Tadjoura
+SO|Laas Geel|Hargeisa
+KE|Fort Jesus|Mombasa
+TZ|Stone Town|Zanzibar
+UG|Kasubi Tombs|Kampala
+RW|Kigali Genocide Memorial|Kigali
+BI|Living Museum of Bujumbura|Bujumbura
+CD|Virunga National Park|Goma
+CG|Basilique Sainte-Anne-du-Congo|Brazzaville
+CF|Notre-Dame of Bangui Cathedral|Bangui
+CM|Reunification Monument|Yaoundé
+GA|St. Michael's Church, Libreville|Libreville
+GQ|St. Elizabeth's Cathedral, Malabo|Malabo
+ST|São Sebastião Museum|São Tomé
+NG|National Theatre (Nigeria)|Lagos
+GH|Cape Coast Castle|Cape Coast
+CI|Basilica of Our Lady of Peace|Yamoussoukro
+LR|Providence Island, Liberia|Monrovia
+SL|Cotton Tree (Sierra Leone)|Freetown
+GN|Grand Mosque of Conakry|Conakry
+GW|Fortaleza de São José da Amura|Bissau
+SN|African Renaissance Monument|Dakar
+GM|Arch 22|Banjul
+ML|Great Mosque of Djenné|Djenné
+BF|Grand Mosque of Bobo-Dioulasso|Bobo-Dioulasso
+NE|Agadez Mosque|Agadez
+TD|Lakes of Ounianga|Ounianga
+BJ|Door of No Return (Ouidah)|Ouidah
+TG|Koutammakou|Koutammakou
+MR|Chinguetti Mosque|Chinguetti
+CV|Fortaleza Real de São Filipe|Cidade Velha
+AO|Fortress of São Miguel|Luanda
+ZM|Victoria Falls|Livingstone
+ZW|Great Zimbabwe|Masvingo
+MW|Lake Malawi|Cape Maclear
+MZ|Fort São Sebastião|Island of Mozambique
+BW|Okavango Delta|Maun
+NA|Sossusvlei|Namib Desert
+LS|Maletsunyane Falls|Semonkong
+SZ|Mlilwane Wildlife Sanctuary|Lobamba
+MG|Avenue of the Baobabs|Morondava
+MU|Le Morne Brabant|Le Morne
+SC|Anse Source d'Argent|La Digue
+KM|Mount Karthala|Grande Comore
+NZ|Sky Tower (Auckland)|Auckland
+FJ|Sri Siva Subramaniya temple|Nadi
+PG|Kokoda Track|Port Moresby
+SB|Tenaru Falls|Honiara
+VU|Mount Yasur|Tanna
+WS|To-Sua Ocean Trench|Upolu
+TO|Haʻamonga ʻa Maui|Tongatapu
+TV|Funafuti Conservation Area|Funafuti
+KI|Kiritimati|Kiritimati
+NR|Buada Lagoon|Nauru
+FM|Nan Madol|Pohnpei
+MH|Bikini Atoll|Bikini Atoll
+PW|Rock Islands|Koror
+AW|California Lighthouse|Noord
+AI|Shoal Bay (Anguilla)|Shoal Bay
+BM|Horseshoe Bay, Bermuda|Southampton
+KY|Seven Mile Beach, Grand Cayman|George Town
+TC|Grace Bay|Providenciales
+VG|The Baths|Virgin Gorda
+VI|Trunk Bay|St. John
+PR|Castillo San Felipe del Morro|San Juan
+CW|Queen Emma Bridge|Willemstad
+SX|Maho Beach|Sint Maarten
+MF|Fort Louis (Saint Martin)|Marigot
+BL|Gustavia, Saint Barthélemy|Gustavia
+BQ|Fort Oranje, Bonaire|Kralendijk
+GP|Fort Delgrès|Basse-Terre
+MQ|Bibliothèque Schœlcher|Fort-de-France
+GF|Guiana Space Centre|Kourou
+PM|L'Arche Museum and Archives|Saint-Pierre
+MS|Soufrière Hills|Montserrat
+FK|Christ Church Cathedral, Stanley|Stanley
+GS|Grytviken|South Georgia
+GL|Ilulissat Icefjord|Ilulissat
+FO|Múlafossur|Gásadalur
+SJ|Svalbard Global Seed Vault|Longyearbyen
+AX|Kastelholm Castle|Sund
+GI|Rock of Gibraltar|Gibraltar
+GG|Castle Cornet|Saint Peter Port
+JE|Mont Orgueil|Gorey
+IM|Laxey Wheel|Laxey
+RE|Piton de la Fournaise|Réunion
+YT|Dziani Dzaha|Petite-Terre
+SH|Jacob's Ladder, Saint Helena|Jamestown
+IO|Diego Garcia|Diego Garcia
+CC|Cocos (Keeling) Islands|West Island
+CX|Christmas Island National Park|Christmas Island
+NF|Kingston and Arthur's Vale Historic Area|Kingston
+NC|Jean-Marie Tjibaou Cultural Centre|Nouméa
+PF|Mount Otemanu|Bora Bora
+WF|Talietumu|Wallis
+AS|National Park of American Samoa|Pago Pago
+GU|Two Lovers Point|Tamuning
+MP|The Grotto (Saipan)|Saipan
+CK|Aitutaki|Aitutaki
+NU|Talava Arches|Niue
+TK|Atafu|Atafu
+PN|Bounty Bay|Adamstown
+UM|Midway Atoll National Wildlife Refuge|Midway Atoll
+TF|Port-aux-Français|Kerguelen Islands
+EH|Spanish Cathedral, Laayoune|Laayoune
