@@ -1,0 +1,1254 @@
+{
+  "generatedAt": "2026-10-27T01:38:43.879Z",
+  "windowDays": 7,
+  "countries": {
+    "CN": {
+      "updatedAt": "2026-10-27T01:38:46.039Z",
+      "feedUrl": "https://news.google.com/rss/search?q=%E4%B8%AD%E5%9B%BD%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "articles": [
+        {
+          "title": "通讯｜中国陶瓷工艺出海马来西亚焕新姿",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc093VDVjRXlvcUR1QnJobnY1cWEwdjhza01tbGRBQVk4emlBb2tjWVZlTTdtTllNRVdYTHQzc254cmJJNkIxdWc4OHRJM3IwVUhwZlk2OG0yTjY1WGtjNVppS0lkeER2NjBwSGVQZFY3SjJOWEQzUURfQkw4VkpIQg?oc=5",
+          "publishedAt": "2026-10-27T00:51:46.000Z",
+          "source": "新华网"
+        },
+        {
+          "title": "中国印尼将举行反恐联合训练，分析：北京有意制衡菲律宾",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTDhrdHp2Y0tFUWVsVGlXUkVnVzQwUEFpLW00MzhJMWpxcEpWTWIxLVJaeGJhSlhxU2tpdVF6dm5aMnFKaWpSY2s1LVZLNTlkMmNQYkFIQTdqSXRzc3lHcE9TNnp6Q1ZFU19ub1lybVJpeGhoWWU3dXZnamE5UldNQm01Uk5uOFpwNldzT3RCbmVqenFsTnc4aEpOd0JvZXA5VUVob3ZWUjRvLVVxTy1ZM3BoZ0tLUdIBuAFBVV95cUxOUTNfWDZubGhyLXRtOUVkYUFsSkdST3BsdDdnNG5XZlBRZWkxem1XdWllZ005ZU1mci1XSnNSWWllTERnRmlHRl83eDVFajBhdm1Nb3JzeUhqNzk1UWk4WmhwVm95TGRrbnlyb2NGQVB6dlpPc1FaNm9NakNqaTNMdm5YREV5MjBrQjFPZDhuQ1BCVmJOLVdiaVl3OHVLeHNrSzVXR2FYTnJ2Y0o1eGRJN1V3ZldvWVZ3?oc=5",
+          "publishedAt": "2026-10-26T20:08:52.000Z",
+          "source": "美国之音"
+        },
+        {
+          "title": "这届网球“中国赛季”，凭啥“圈粉”又“吸金”",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkt4N2Y2TnVnSm1yRy1NNmRuX2FTY2N4MFVaSHNiMTNtS29LbmtTVGZTaEFTZTJVZW5lSk8tUGF1Q1RTU3F0UUlsM25CUXE4ZlVOYkFWRy1RQnFGa3ZEcmdfOHRoMTM3VGNEd1hEZW5YS3ZvVExHZlBQOVJnNHEzcQ?oc=5",
+          "publishedAt": "2026-10-26T13:52:44.000Z",
+          "source": "新华网"
+        },
+        {
+          "title": "中共二十大五中全会：强化治理措施 为习近平第四任期铺路？",
+          "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOQWN0Umlaa2NKYWwtbHNDczBZRF9iQnFsQ3pndEtNa2VYUkhxOGxiMjYzNHBJOEJEaUgwdHRYNkZ3VmNHZXdfS1o1dV9henQwWTVua2tING0tUlBFY3JaaWttNDRqa0RIdGxXMmlkX3R6WXdJQU14U0xheUJBakVTVjd4WGZjRmlRejd0QVBuYWVnRi1MOW50R3NpU1JRQl9FUXZLWGs3WS1WUTI0aWp5MXg1cHl4T0pMbEpWU3BaeXFieXpDNTZOaWdzanJqQmhZaGotM2FpT1ZCMU81SFdSQ2pIT0NWSXRCTFJyNlp0cmxsLTFiVExkV1R3UmsxemNQM0w2bmptaF9vd1hjcnlPVGpJcTVhcXFLTG9BQkF0dEVzaXAtMDg4TXplYVYxeGZoLWdKT0d6UVJRcl9fM24tTHNfYkRvTU9URGZOcXFLb3owNFBiME5WOTNZVU5EYjdpNnZHU0xFSFFTaVpBb1NVVGRBeEpYV0laR2tSdWoxOWxaQTNYdDM3NjhuZDZTUQ?oc=5",
+          "publishedAt": "2026-10-26T10:25:48.000Z",
+          "source": "RFI"
+        },
+        {
+          "title": "外交部组织驻华使节参观纪念中国工农红军长征胜利90周年主题展览",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hSFIxbURHajZxVk13QjM0dTlTVlpCeUxqVU9KTjBBX2piX1B5Uy1SQXc1WUpNSEkwemdFRTBkTFVlUTNXVUNhUWVVNmFjbm90eFNEbEFEd1lMVktUTmhQSXNDU1RPVFVtNmt3MTFMTzhpQQ?oc=5",
+          "publishedAt": "2026-10-26T10:15:00.000Z",
+          "source": "中华人民共和国外交部"
+        },
+        {
+          "title": "打卡不迷路！中国特色金融文化开放周点位详情来啦（下篇）",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNelFoVnJHZS1HWDQtaEFiTTVDdDFvUWkxODhMWWdtWHZNN1c4c3VleXlhN3JydGtfeVhrLUxvZUs0SkcwTWVxcDZTc0tfYTMzNUpmQU8xSGRPSk43YUdCay1rUjBvV3BjWENfaG4wMkh4NVlYS1RHUTNCcUZlLVpMTUN3?oc=5",
+          "publishedAt": "2026-10-26T09:18:31.000Z",
+          "source": "中共上海市委金融委员会办公室"
+        },
+        {
+          "title": "秀我中国丨奔跑天津卫，读懂一座城",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13bkU3OTZjc093Y1Q2MG8yUVBCYjR2QWI5X1NPZTl4dUU4bVEzb1RfdFlqTnNKeDVmem1rZ1l4WXVNdnd0X2NvQ0pzdVdLbVFLRTNfZjA4NXhEOGRFWUdzOGdPU1BodDI5bkt0VS03Z2RTYloyYnNZ?oc=5",
+          "publishedAt": "2026-10-26T07:24:37.000Z",
+          "source": "新华网"
+        },
+        {
+          "title": "中国政府非洲事务特别代表刘显法出席庆祝赞比亚独立日招待会",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORmJRUG5ud2F3MkJhMzkyT0lXaUNiRExfMEJBeUgzTHNrTmltSG9mUW1xV2N2R190QWNLVXFwQWU4aE9td3ZCWjhic3N3SHNtVUh6VzVKTlgzNGlRWjJKeXM2QWlWNmM5YWw5RmY1RTF4M1E5YkdvT0xOd21SSVN0ZHloVVk?oc=5",
+          "publishedAt": "2026-10-26T07:04:00.000Z",
+          "source": "中华人民共和国外交部"
+        },
+        {
+          "title": "外媒聚焦二十届五中全会：为中国式现代化提供坚强政治保证",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtUm5wMnVoNGJ2U0hkR2NoeDllaUU0ekMxSHpnNG5KNlJmLWFsWkhXc1pYX1pWUzY2QjVRdU9aX240MjFmdkhsT0RPQmlpRUtISHFXUFVOTl9VWjI1R1BMOEhHazU1dGlW?oc=5",
+          "publishedAt": "2026-10-26T06:42:58.000Z",
+          "source": "中国新闻网"
+        },
+        {
+          "title": "《中国幼儿百科全书》在京发布",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUmlJaWhrVDB0OWdwVFNpdE0zMml1YW1teF91MkZkdGQzeURMRERkYjF4Mm1lS3BmWm1iamdUOVpSSVBZWldsTl85Ti1rbUpYZ3Q1SFBRci1PMjFCQUs5TDdUUXpGbUJCekZVcmp5cUNfMnJPVDJ0SU5pMEJiVTV4Tkktaw?oc=5",
+          "publishedAt": "2026-10-26T06:40:55.000Z",
+          "source": "新华网"
+        },
+        {
+          "title": "新华社消息丨中国共产党第二十届中央委员会第五次全体会议在北京开始举行",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaW4zbFowb0UtSWVHN3hlV3FnUTRleTBSczVYUTMtRW4zS3RFN2I4Nm54bUV0U09odl8xVUVyQmY3Zlo2bExHRUFqbTFIVFNLdUlKRHBMaEFvVy13cHhlSHo5SzR5b1NTbWRFdHVrcUVlbmo2azRZZWlVRkhTay0yWUN2MlU5UmdwaEFOV0F3?oc=5",
+          "publishedAt": "2026-10-26T04:07:36.000Z",
+          "source": "新华网"
+        },
+        {
+          "title": "中国共产党第二十届中央委员会第五次全体会议在北京开始举行",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zbjBQSE5VQWxZTEczQlJJV183NzRaTEgtQ3V1V05vVkNka0Z3Z3A2QVJ1TnhoZzJ0cnNfcV9qSU9ZTXZ4aHh1OUlvNGR4NnRSUmpGSEJiYl9jVW5tWlVZQzJYVDZ0aDhEaWhsMFpBQlBzMWYzV280?oc=5",
+          "publishedAt": "2026-10-26T04:00:55.000Z",
+          "source": "新华网"
+        }
+      ]
+    },
+    "JP": {
+      "updatedAt": "2026-10-27T01:38:46.815Z",
+      "feedUrl": "https://news.google.com/rss/search?q=%E6%97%A5%E6%9C%AC%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "articles": [
+        {
+          "title": "每日消息（共同社） - 日本《能源白皮书》指出要防备突发事态",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xWUdFcEZ5cnp5eDVpMmJBc1FqaUxIMzFxT0ZKZlV2dE15Rk1iR2xjNWlJZGhLdzNITW4zSkpBTlE1UFN5SDZXaFZqTDV5cGptR3diX1JwZGdsOExZZl9CQlhiOGNydWxUU1hVdw?oc=5",
+          "publishedAt": "2026-10-27T00:54:34.000Z",
+          "source": "客观日本"
+        },
+        {
+          "title": "科学研究 - 日本东北大学开发出基于新原理的生物传感器，仅需约30秒即可测定靶蛋白浓度",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQdEV4cjFfQWM4QWUtYlY3MmNlSk5EZlI2TWlScHJyV0Y2Z0JkVFhQaHg5U1VqclNjaXVWV043QmdTdmYwZm9IZzBOakZ1eWNjTWJ0Y2ZDbnZETWw0UkJGdzlUNUtnYlA5LWVhNXFmTzdCanVEZTN1Qw?oc=5",
+          "publishedAt": "2026-10-27T00:54:34.000Z",
+          "source": "客观日本"
+        },
+        {
+          "title": "「财经观察」日本担忧：“欧洲优先”正在排挤我们",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mNlJMeUVjbGc2cWVMU2t3cUNXdk1Tc1Jfd3VFcHBkSExUcGFSVVgwZDlrLUxBZEtQMjExaEJMbkNYRnBKc2dHZ0pXeHNLWTJXU1NnZlAzbGdQekxSYlVjVHRJZFE0dkVpMHN1Wk92QkZOQ196OEFYUg?oc=5",
+          "publishedAt": "2026-10-27T00:46:29.000Z",
+          "source": "新浪财经"
+        },
+        {
+          "title": "日本担忧：“欧洲优先”正在排挤我们",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2hKR2l6cjBRTHN0SnFPdWN3NFJJTm5xdFFMQXZFMHlUWnhIdVVQNGE3bGhZcnkxWXlhUTZyUzRfeWN0NWozc05HVWM1Z09sbWJZRkZ3U0RuX2Fhamk4WmduZDlDcUJBbjNXT2RiMDhUNmtjTFdiTTRHWkpVYjUxemtXRkVERFZRMmZQUDhn?oc=5",
+          "publishedAt": "2026-10-27T00:43:00.000Z",
+          "source": "手机新浪网"
+        },
+        {
+          "title": "日本9月服务业生产者价格指数同比涨3.7% 创2024年6月以来新高_环球股市",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vUmhXZmp2YkxCMkc3ejMzd2otb0pIOVZxcEdRN0hXeS00TlpabEowNE9USHV4RzcyR08wdjRjbTJOSHEtNzVWMEd1RHNMNWZMbUxQZ0wyUlVkVDBoOG9tMw?oc=5",
+          "publishedAt": "2026-10-27T00:00:39.000Z",
+          "source": "证券之星"
+        },
+        {
+          "title": "春秋航空日本公司品牌设计焕新 主打樱花主题",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41d2g0THphY0oyUGF0SDc3Qk5rVEE0X3hQalFXV01WTFl5ZlNDV1RmbTFFYzJwaTNtbUt5c3NpeXBPc2NuRlZCWTJ5Wnl6aWlxRzZBaW9mcw?oc=5",
+          "publishedAt": "2026-10-27T00:00:00.000Z",
+          "source": "共同网"
+        },
+        {
+          "title": "日本Sakana AI宣布将从零自研本土大模型",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90dFFtSEJKU3pIcXdleFgtWXFGWEZaZzRPc1BoUC01eEc2RWdDTEZLNE5yZHc1TTU4NEpCSF8xS3RmN1lyT1V6MkdsNEpla203VW1yYXZ3OU52MzlEUktnRVBn?oc=5",
+          "publishedAt": "2026-10-26T23:36:39.000Z",
+          "source": "观点网"
+        },
+        {
+          "title": "【财经观察】日本担忧：“欧洲优先”正在排挤我们",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIbHZvajFsRWdvMGVvYmVnQ1BwNGFQZnY3YTl0WFdoVHMzYV9aSy1VMGVZajBXNUNVY2l4Nl9nemdfMm5ZUHJUTzN6YkV0NnFzbHBpUWtBZE5IcUlDTjFYVEhJN09MNHd4cXdKenBkMkEtMm9NNHo5WQ?oc=5",
+          "publishedAt": "2026-10-26T22:31:58.000Z",
+          "source": "新浪财经"
+        },
+        {
+          "title": "中方对日本前首相福田康夫逝世表示沉痛哀悼",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPclNCZE9waG5rbklzRU82ZUlxS0dJa0hJQU9qX3VOQ2FUNHAyMkZtSDBrZ2RyNDdOdUVhQVFibkZyNEtCaWxpcU5wcmVUbERVLTZadmZlaHV5VkdWU3BTbm1HT0owZE8xMExWbllWaEFMb0xBcnBGZFB2VjVVRkFOZEtR?oc=5",
+          "publishedAt": "2026-10-26T21:09:56.000Z",
+          "source": "天津日报"
+        },
+        {
+          "title": "“有信义和担当”的日本老一辈政治家福田康夫逝世，中方再敲打日本当政者",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qVVlaMGplUGhGd1FqZ29KbEdibnJxSW1QaTNrX3dXM04zZl9EYzU1MGI1eDlvX01EbU5sTjRZcDZWU2FfcjJrZ2U4MlR2bWtsZklydlFrQVZiZXBVOXJvMjNJTFFpRnpEWkNSckxKY2lWZlJ0Z0w2Mw?oc=5",
+          "publishedAt": "2026-10-26T20:24:42.000Z",
+          "source": "新浪财经"
+        },
+        {
+          "title": "日本前首相福田康夫逝世",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDJocm14dDRqSThpX091TFBzMUk5bTJLbTJPeFpLZ3BYWUJIN24xV0FGRTc1WF9rVGkxeGV3cUh5bXB4N2FDOTQ2c3lQRnRWWDh5VmNRdnpIeUg3emNRNHg2YTdwbEhNMDFkVG1wQ2FJNFlzTGVEVzJ1VzY3OFQxazAyVldISmNGRnlDbXUxQ1JVT25FbUFpTnMyRFA5YjZWRkFxSVFBajM2Z9IBrAFBVV95cUxPZGpJbURSUGM5UG9NX1c4bVFuaDdDZWdPYndzR1UwRzBYQ3NyalZKb0lFX1ZfcVA5X0FRSllRTWlFakVRU1BFeTV2R3c1RzIydWZkUy1XWEY4cVlkQk5IM1JBNW9zM0V2WjRkb2NwNWxzWWI1LS1JNFdodTdFd0kwa0EtR0RCTVd4UXAyb2VTcXM4M3N4eHNsRUtfTG9vU2pPb0QyVFZlc25ySE9k?oc=5",
+          "publishedAt": "2026-10-26T16:54:32.000Z",
+          "source": "美国之音"
+        },
+        {
+          "title": "21评论丨日本央行的“不加息”信号说给谁听？",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VSEUzRkw2RmN6MEJNV3RscjFGTEgyTnNjNU5XOC04QkFLZ1hUdnhIM0MybTE4OEFsb3RadmVndDNWeTlvcU9VUFlBR0pqVV9tem9ZQlVuUDZ5S0hyQV9XeG5mQl9lX0ZzanJFUkpZM1dJYmlyQkNSLQ?oc=5",
+          "publishedAt": "2026-10-26T16:41:35.000Z",
+          "source": "新浪财经"
+        }
+      ]
+    },
+    "SG": {
+      "updatedAt": "2026-10-27T01:38:47.751Z",
+      "feedUrl": "https://news.google.com/rss/search?q=%E6%96%B0%E5%8A%A0%E5%9D%A1%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "articles": [
+        {
+          "title": "Brand Finance：2025年全球出行品牌榜|新加坡|疫情|品牌价值|排名|生态系统_手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVclBnU2NsZmtHTlJKMzVTSkJsbVJmanM4LWdrX2dlWnJpUkxNVlZEeGRNaU9QdHNla3RJR2N6Zko5bHBOU1hBdjdSRklESV81R2FDb2E3eU5RcFlEN1M5ZTk0Z2VtY1Zrdmg0dG9CWkFITmxqVWhXeGNhVmZDYVk?oc=5",
+          "publishedAt": "2026-10-26T18:50:08.000Z",
+          "source": "finance.sina.com.cn"
+        },
+        {
+          "title": "新加坡亚残运会代表团凯旋 梁振伟赞运动员表现超越自我",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPWFlualZwZTRZVF9uLWFrWE5QQk5rZm5NSk1pUGRlLWctVUdSdDRPREJsSmp5RXRyenlXRnhQMmxmMHBnOVBmYmt5RHp1OGhubERsVEdwME5oYnJxM3NtNEtqQXJ5WWRzSnd3?oc=5",
+          "publishedAt": "2026-10-26T14:34:28.000Z",
+          "source": "联合早报"
+        },
+        {
+          "title": "“别教我做事”，印尼为何突然呛声新加坡？",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xdHpZcWxmd2d4RlBPaVo0UDdsUm1VUXpCNGthSnFQWktEZWwza3hEZEhwYXd2YTJaUFJqaVdRTDRBOHptNERLMnJCWTlGUFhuczMwU0JfSE5ES043N0xvZWxSX3FwX21xcDYwLUVrckw0S1k?oc=5",
+          "publishedAt": "2026-10-26T14:01:00.000Z",
+          "source": "观察者网"
+        },
+        {
+          "title": "新加坡MICE 产业的底牌：不卖场地，卖“生态”",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xbGhjcU1PZEhqV2kxOUszbW5vLWlVbk5lR2d4dHBUbFBXcHdIZmoxajRrUldVa1pUV0NyRDBqdW1sTzlkTW1KMjVoUlViVUdsUzd6dUpBQVktX1cyMXphWlZITW1SUkhzTDNOTG1oYmNMM3M?oc=5",
+          "publishedAt": "2026-10-26T13:23:46.000Z",
+          "source": "潮新闻客户端"
+        },
+        {
+          "title": "印尼削减对新加坡供气",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRUtZdUJvRy1KUG41LUR2a05NV1N6WDFKTDZCVHg0M0dzUXgwUHRKXzBMTEhkbnAzaGtReFZRSlM1dXcyUEFITEcwQ1haaV9JbjNYTVJ3dkh6YWVLTFIyWTBTY2hTcDc2LTY1S0NRMTFaV3FFWXpIcU9JcEJVR0FxVzFEZEkxVzd4ZGtna2JzdmxVWXptQkZYNE45dk5UY3VhR3hmOURKUlVCVS1SWjRSNEJsV2hRN2lTM3c2TnZlOXVfNlRsRncxeWp0bFJJOTM5Zy0xeXNRMHlyeW5vS3ZHQllB?oc=5",
+          "publishedAt": "2026-10-26T13:07:30.000Z",
+          "source": "新浪军事"
+        },
+        {
+          "title": "【红蚂蚁】新加坡被印尼“断气” 鸡蛋真的不能放同一篮子",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KOTBqbFU4QXZqTGZUSHdZV1BOX2FweDNOWk5SdGZHcXp5dGVKMTlYS005NlVMWW9tOERwODJ2cWluczNHU1pwNnloRXhRRVRLSlBtcDZjazZadXU3VG96QzU2T3d4d0NMOUJfcWIzdw?oc=5",
+          "publishedAt": "2026-10-26T12:56:02.000Z",
+          "source": "联合早报"
+        },
+        {
+          "title": "中国议题是重点：德国总理出访新日韩",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbUJMOXFzbGZKd0hUUXhNZlBvUXlqUHEyTlBkWUJrRnVMaENYNi1hU3g1c0VYNUdnWjlIWG1wU0llSUlPMXdiMzhwVk9VZUVKcEc5bHAzdGp6clN6YjRGejFraHZwMVVFcGY1V0FxLUgtRDlITFVJWkV0WEUyejh1Nkc3NlJhQVNLMTBXaG1wVmFta3U4NGpMUC00bVNBWEo2TFpBcGVxa2Z2d1BFREUxVkcwd0FTcTRnLUFoWE02NkJ4cVpLY3FOSzBzNHplaE1tYVJ5VEh6ak5EckhFOEx5amc0bUIyMEdDZG5pTHUydktVRVVDeEhFSVNLNFZwX3c5c3M0RzNWU2fSAYgCQVVfeXFMUEF0U1VTc0RkOUU4RldjRVUyNXc3MmZZUHh5QzJOMHd3QUhTWnNfUmdGY2hHXzdZbjdDcktrZ2lYMHVBbkhnX3ZoNklaZ3NNay1GZloxX0Y2MWF1SXZJak1mRWVlamxkTTZiNC10ZklpaUNTV0VUWkFUVnRUZ1F2WWdpdmlNdkozbVJlbXg4SFlGWTdFTnZ5eUg1MWFKLUlOTF8xV1VQZWtFbmNxMlNqemd4Yl96ellCcGNoQy14MzRNQm9TbGdCb0tMbGdJTmxFNzhYRXZhTzRtampyckUyTUppa0RiQ3hwaGJPUFloRTlheUN1S1B2OE5BRmEyQjRfQ0wxZ21Bemst?oc=5",
+          "publishedAt": "2026-10-26T12:47:10.000Z",
+          "source": "DW.com"
+        },
+        {
+          "title": "跨境烟霾还没散，印尼削减对新加坡天然气供应",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zekd1Z2o0Y1hkVVpkVmpiZzJWN0doTG1oSkRDTGYtN19sUW5wclowQ0VhM3lYTEUtenc2cWJvSG9yUE9kVUpIRXkyVTMtME5LVkxOck1iQk9obmNrS0R3c09zSmo0UUloWXo3emRSbnRjcnlaNGNuMA?oc=5",
+          "publishedAt": "2026-10-26T12:24:25.000Z",
+          "source": "新浪财经"
+        },
+        {
+          "title": "印尼能源部长： 对新加坡减供天然气未违反合同",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04RlM3SzNiUzlsME1MdGFQTnN3T0I3a2tRcGQzYVFaS0k2UEdrX29Dd1JRT1pZY25MMDExNjFIZkFpMUttUm5ERmNKRkpqazdlWHZLU2ZyVk5BNkZtWmF4MXp0U2xGMjhoR3VZdWc2eE1IdjVWeWFR?oc=5",
+          "publishedAt": "2026-10-26T12:14:00.000Z",
+          "source": "Shangbao Indonesia"
+        },
+        {
+          "title": "跨境烟霾还没散，印尼又削减对新加坡天然气供应",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHYtYWcxTGNBUUc3ZVpUa2s3WEJIQ3gwYnJRWGh6a2FOeWRDQWY2T2lIVUsxdjhORmZ4b0JBNnJNZTltNFNkRGNYOTF6Y1BvMVZ3WGp4c0dkdEZXM01VRzkwUWVZQ2liNGtYanhTWnlMWkIyN0lkcnQ5eGp4ZHRnZ1pHNVhGT2VaTFNZ?oc=5",
+          "publishedAt": "2026-10-26T11:57:00.000Z",
+          "source": "Sohu"
+        },
+        {
+          "title": "新华健康丨固生堂深化国际学术交流 推动中医药高质量出海",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNDg5WFpILWlac0N4ZGE4dVdadVJNVWY5V0JuSUxubFE4VThSM1NhMFFqQkJUblNNTUZBamducTdodWFiVDllczdkWm5TMk90SVNGZjU0V1RzaWhENDkyZF9ha0YyMlQ1OGUtZmNQQ2U2Z2lCYmpLb0lYVmM1Nktueg?oc=5",
+          "publishedAt": "2026-10-26T11:56:04.000Z",
+          "source": "经济参考报"
+        },
+        {
+          "title": "画廊 规划性溢流：新加坡如何平衡洪涝、运河与公共空间 - 1",
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNQWJvNFk1RFhLOUlwcXlkVm1FSE1MNUM2a2VNaHV2WTBIVFNRcnBtWXlZOE9PczF2Z3dtcHRPMFFsVlBYZThZMTZoR05OZUx5Rmhha0VRS0xxQUJheWIzRDV4SGVLZVUxNG1ISEJKbHR1NG1rSmtyZm5TV3VUX2VWcjhJSWIxNFZJVTBRNnNJdjZyMGN5a0gyMTYybVg3NWVyVi1pZDVQa1BwbUxNTWktSkc2TkEzZ1RKekpfdGMtWEUxVEtzTm5hRTNYUUdQQTlqc2ZQY2J3cmZ3amNDdzFuSWQyY1pMckJVSmRhTTE1bWU1dmZuZjZ2MnFSeWpaLVlUQ3VVVXY2SDhqc0Q2YkkwQ3p6aHNmS0RyRWptekZfaU5sRUQxaDVtU25nSDFhbkdFamNpUjNTRDlpd3Y2T29iRXo3VlUxYjQ?oc=5",
+          "publishedAt": "2026-10-26T11:50:50.000Z",
+          "source": "ArchDaily"
+        }
+      ]
+    },
+    "US": {
+      "updatedAt": "2026-10-27T01:38:48.500Z",
+      "feedUrl": "https://news.google.com/rss/search?q=%E7%BE%8E%E5%9B%BD%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "articles": [
+        {
+          "title": "中国U17女足力克美国队晋级世界杯16强 “今天我们的球队太争气了！”",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FSGNMcXY0TkR3d2IxVGk4SFlTN2tNQU9wVEpSZHljaU4tamZuTXpjN2t4clI2dEdqaThQXzRKalVlako5NWs5WC1PMUJyZFpiOWtRUXZ5LVhEVnYxR0E4U0pSNFZWUQ?oc=5",
+          "publishedAt": "2026-10-27T01:34:14.000Z",
+          "source": "华奥星空"
+        },
+        {
+          "title": "美国声称孔子学院“威胁国家安全”，中方：反对针对孔子学院的抹黑和污名化，中美教育交流合作不应该受到干扰和破坏",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0SkZWNU5Hb2xTbnU5bjF0NDZaaGNFaFdtZkM1SlNuYkJmQjl1WWJITmVOTXpVSG9uVTdOTDJnTGt2eERrLXNYTnZNaUc2TEt3WHNMTmlxQXpITDU1ZVE?oc=5",
+          "publishedAt": "2026-10-27T01:27:27.000Z",
+          "source": "京报网"
+        },
+        {
+          "title": "密歇根州联邦参议员选举白热化，特朗普和奥巴马为各自阵营候选人造势",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGlMYXRER0RseDAyTG0zTG9ScGdpVDlMbWpHdnRyWVNXajRkcWduOVFaWUttLU5KMmpTcm1LMFhzQnQxLUl4ZTRYb0w3SHhScTVDR0dkMXZ0R2liMmpib1ZRRUlLVmFIWlRQbVBORGFoYzZVUy0tRlJZU0NkdHd6UWpOdkc5Q1Y1OTNVLU1kUDBnVnVoUm83NTQ0a3djTXE0VW1CcmVicWs4NlZKVV81dlhCb0FFQl840gG7AUFVX3lxTE5DdFFjeUQ4c252X1hpRmRaSExBQ1dzUFp1ejdjWXljQkdtMkxmWG1UelJtSkY5Y3Y5WVBBd1Q2d1dlNnluMVZZSGJpQ1dWWmpTTWFudTR5YUtSb3ZQM0xIRUljRUs3Q1RvN2NHZEdBN2hRZENOMGZLQzdSMGlrTC1VZXFnRG1XbTZYVkF2Q19QeG9MR2J2d21DMjdodERtOFNXWi1PeHg4VG55b3BDNHFwYWdVSmc1RlNWRkE?oc=5",
+          "publishedAt": "2026-10-27T01:03:16.000Z",
+          "source": "美国之音"
+        },
+        {
+          "title": "三星SDI与美国AOP签署1GWh储能供货合同累计合作规模达1.5GWh",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DTjc2aWpVRllvbDhvenlJNlhqb0VaaVE2b1ZlYi1ORFZsM2RFZkRJQTdTNm9NazBrUnVTQnhmSXRiRkpDdV82aXhtazBDYXczWGotQ2o3cnRQZW40NTU3VQ?oc=5",
+          "publishedAt": "2026-10-27T01:00:42.000Z",
+          "source": "碳索储能网"
+        },
+        {
+          "title": "内塔尼亚胡超大展板打“美国牌”，宣传获得特朗普背书",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCQ1lzc1MtRU01QmphejZWZmlpblNuYWplVFVPNHVQaWVwTl9sbWtUWjBUTkZpaEVZOThyUDVVTlRQVlpUTXNWT0NDSzA?oc=5",
+          "publishedAt": "2026-10-27T00:59:17.000Z",
+          "source": "凤凰网"
+        },
+        {
+          "title": "美国密歇根大学Robert Axelrod教授谈如何推动中美合作",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvTjdhTVZPWFlsOGR4VFNjVzNTcmJ6WmRVeEVVTVFwcW92cDBCdzJ6YVhoc0p6UnVheDZMRnRicGZKLWZJMXhEODhHQnF0OTgxeXNVbWFSdC1RLVNXOWFMb09B?oc=5",
+          "publishedAt": "2026-10-27T00:48:21.000Z",
+          "source": "复旦大学"
+        },
+        {
+          "title": "维珍银河首架德尔塔级飞船10月28日抵达美国太空港",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iS3A4RWZTNlJ1cjBzei0zUzZPaklJTURFd3dSOGo1MmNreTNJbHdCQVVqcWh6QUhscGNjVWc2NkdIYktRMTlaeTBiZVg4TUVsODRYMHVleXlTMlNvbEpuTVBn?oc=5",
+          "publishedAt": "2026-10-27T00:46:57.000Z",
+          "source": "观点网"
+        },
+        {
+          "title": "特朗普重返白宫后，如何从五方面改变美国移民政策？",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Qak0yUGU1QU5jdVNBdDBCUnNiNlV6ajBrZEcyejYyZ0FiVkNCWHJDbk5rSTBOd0NlYnRkSEdudU9qQm1RVElmLUkwQVU3cGJHQll0dnF0QlNKU2VoSktKamxIcDVwbk3SAWxBVV95cUxPRElUUnRuZEY0RjJRdWI4Y2JUdVBMck9UX0VlR1Nlc2xsZ3FWVWNXRC1lVHo1d0puTWw3NGdaQ3psQnpwWkpQaG1ITFZXc0lsRTIzcFNJdm9UUEhFRUg0QzFHYTdTZ2N1Z05xc3A?oc=5",
+          "publishedAt": "2026-10-27T00:32:43.000Z",
+          "source": "BBC"
+        },
+        {
+          "title": "美国大模型第一股Anthropic交表：两年半收入规模扩大400倍，与亚马逊、谷歌等云厂商“亦敌亦友”",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UVkFlSGtHRzI5MS1TN00tdWtiYlg1LVEyOW0zX0NfZFdydnhjYnZGVFhqMWNHNWc3UkhwZ2xEak1lRlJVUlhXMGtqQjhlbHlXSVJETThMR1pNWG9hZ1J5TGlibndmMWdoTXA2V3VvUkt4d09qalpNWGhkWWlHVXc?oc=5",
+          "publishedAt": "2026-10-27T00:22:51.000Z",
+          "source": "手机新浪网"
+        },
+        {
+          "title": "美国上演“老登股”行情：可口可乐礼来创新高，伯克希尔收复巴菲特“交棒”后所有失地",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU25CY2g1VmJ2aVBndzRZRmVSWVdfQ1lUMzBjRU5vbUhQWHdvUll2UHBjMUItckUxajFkVl9aYmZpRXBkNTl5azNXTkZ4VkVmMTVKVGFxT1NKU25RbzdxQlc3Y2pPcHlpQWJNMTJXVVUxbjhqNm52TDg5VXNlVXhUVFEtX2MtTmYyVk1n?oc=5",
+          "publishedAt": "2026-10-27T00:14:00.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "惠誉评级：美国9月46%CPI分项通胀超3% 或致利率更久保持高位",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpTTRlZi0zVU1EcmV2QnM1VGxmMU9GMFVqVWRDSW0tZndXelZHQ3JZNVJYSkJhenNMc3EyN2E2M0F0NUdxRl91UXQtQkRhaFFVNDZXNVJ1LUtsSTBFUkVDaGdn?oc=5",
+          "publishedAt": "2026-10-27T00:12:48.000Z",
+          "source": "观点网"
+        },
+        {
+          "title": "美国司法部再次起诉FBI前局长科米",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNb0Q0RVlxSXlJbHh5RmwzQWp0ay1XUlZjQ0hXSWFWODh0aTlvS1ZJaG5rNzdtWmJ1TTNsQmZpQTBVd0d0b1djUEZidUNNLUN0eGhQemNxRzVjeV9XSGltMmlYdWc2MXFGS0g0T0JLYmhfYl90R3lnaG5MWjNqLWdMNEdYSk5YcWNfRHNSV25hdU1uZUlsNHNkMW9ib1dFcEpFZEdWQTlicENWSVRwVVU5ZzY3cTl4Z1o0eXlZOE5rZTRLRFY1ckVDRVU3NkM3TDUza25MZzEyMGhzT2lfb09GZG1xMHNZUFpWbnRZSlhPbGZkNUlMbEhsMWZ3?oc=5",
+          "publishedAt": "2026-10-27T00:05:00.000Z",
+          "source": "华尔街日报中文网"
+        }
+      ]
+    },
+    "GB": {
+      "updatedAt": "2026-10-27T01:38:49.215Z",
+      "feedUrl": "https://news.google.com/rss/search?q=%E8%8B%B1%E5%9B%BD%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "articles": [
+        {
+          "title": "郑新业副校长会见英国利兹大学常务副校长余海岁",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYQkc4QTZTS0NFUG8zQXR2RUhQUlJyS3FXMkZlZG4wNlF1TEYyZHBwMHVrUEoxMFNwa2R3RlZ5REJ6MEc4RVhNMkZtb01WWFJRSFlMaWdiZHUwYmFr?oc=5",
+          "publishedAt": "2026-10-27T01:05:02.000Z",
+          "source": "人大新闻网"
+        },
+        {
+          "title": "英国消费者为何青睐中国车--国际",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qY2NGMTlHcUY2MEFiSmVyeFNPUGk5N2FtREhoajZTeUY2WE9FN2lYZXVGLUlLZzlaODRyZUozN1dLYkZJNUpGeVhaNzRlUVZCdzlNcklVX0xxU01lYmpLd2FjVXk5U3ZUbEsw?oc=5",
+          "publishedAt": "2026-10-27T01:01:00.000Z",
+          "source": "人民网"
+        },
+        {
+          "title": "加拿大牵头防务银行，英国不加入",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UZzhGSUJIVXZCOUhSSlYzcm94V0M1cGNNZTdFc1BoM0hOc3RrcmlmUzVyZ0lLeTFHZElRSTJIMTJXMy16c3A0Q1A0bFBneDU1Z2tDZzNBRXdLTlNzS3VfWkZWekUyWldHQ3kxVVFZYjAyWUhpMHdlcA?oc=5",
+          "publishedAt": "2026-10-27T00:44:56.000Z",
+          "source": "新浪财经"
+        },
+        {
+          "title": "英国突然发布“战争预警”，动员民众早做准备，预言“三年之内必有一场大战”",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3BGOV9nVFVlY2s5R0tFcDNuOVFlUmFCbEhqbElpTlJuME1La3RGOGJxSlBrTGhCdkRMeGJRUXdWUG5paVQ3YmZFT0IweENacVREVGVSaG5xaDRheVYxS3RqbU9EMXRtTm1NZmRKcU5mV1NzQWtIZFhuWVlMOVVidGQwRGlMLUxQZkpUWA?oc=5",
+          "publishedAt": "2026-10-27T00:44:00.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "英国不加入加牵头的防务银行 双方决定独立运营",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VaFdzSkpuc29UbTBNNnpGMWJka3lnREh6bDdvVVJoUEdicDlRaG1NX0ZqZzVoWUhERExSaEctOXBZVTRLSzhMei1pSXZVcEJpSndDaWRtMXk3b3prYWFSUl9PdlNESFFGM2ljSjBiWTk?oc=5",
+          "publishedAt": "2026-10-27T00:34:48.000Z",
+          "source": "中华网"
+        },
+        {
+          "title": "AI生物安全迎重磅催化！AI制药赛道升温 14股业绩倍增可期(名单)",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeFAzc0JoTFlSTDNxQVVFclk2RlE1bW5RSnN6MlFaSzhtY01EZ1FoM2EySExtQjliM3ZPMG9GNDdYbktzY2h6b1VmX0hSWEZvSDA4WkNJUjVqc296NUJMcEJhTzNPalM3RE5pMW5MTzhXYjM4VkpTWF9nTHpYcTdpcWRn?oc=5",
+          "publishedAt": "2026-10-27T00:34:00.000Z",
+          "source": "手机新浪网"
+        },
+        {
+          "title": "视界｜走进英国伦敦格林尼治皇家天文台",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeVk3Q0lUaUVscng0VjdSYi1PVjVPYkU5aS1xeUlFcGVhd3NZd0ZmNHByZ2JIdWdpclVaOXRmUkJsUTc4M29oMV9Wakc1dlhOdXAyN1RBdU8wSHRaamJMYVFqNTRZSkFxYllRZGpzM1RZX1BiQWJ0bVc0bXVPMlJwMzUybk5KWW1f?oc=5",
+          "publishedAt": "2026-10-27T00:33:07.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "Jo Malone最值得买的香味推荐？3个维度说透本命香选择+FAQ",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdUlUQncxRWE5S1pNOV9qWnNNYnJURmdFS1VCbERzMFlRSVpjNllKRjBYbkU0MmlwNEJzWGhyQnZrUHhhaW5fN2NreF96Sndqb0thbGhBVlBIcFJlODl1X1VCYy1LVXdWaDRXcGlZUFd6LXBnc29uMEJXb2FpTlFRWkQxOA?oc=5",
+          "publishedAt": "2026-10-27T00:32:00.000Z",
+          "source": "手机新浪网"
+        },
+        {
+          "title": "英国海上贸易行动办公室：伊拉克法奥东南方向一船只起火",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOTlVQXF0ckJYLUxVQWUxSG9yYUlBd21nc3RRTGNfSjRUVzN2dUFJQzhKd2FOY1NqY3gydm9RYlZ6R0xhcE43MlM4MUJBaFdDczB0NW5uaWpBcTVaQV9RS0ZJREV1WFlsUlBnZzFFZDBNQ3ZZdTR5dnUtWmRZNUpBczNtNFdjMzY4Z2pjUUNpVQ?oc=5",
+          "publishedAt": "2026-10-27T00:05:58.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "英国10月BRC商店价格指数同比 2.1%，前值",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mYi1uRlJjQ0w5QkMwREJKeGUtTTF5LVRDby1uMkZlZUh1OG5VV190V3hVdnY2MXZwcVBTX05nXzdZRjl0QUozWXFFMA?oc=5",
+          "publishedAt": "2026-10-27T00:01:07.000Z",
+          "source": "手机新浪网"
+        },
+        {
+          "title": "Francisella halioticida在英国与爱尔兰蓝贻贝中的监测、遗传多样性与毒力特征",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rbVVOTEZEUnBuSGxPaF8zWDM2SHlvQVY2bFg1N3dhTTZOVHpNTmk4cWQtQW5wdkxJcUFfR3lXRlZfd3RQZlZ0azhlamRNVV9EX3UtRnRpNEhrVXAtLXdjX1NyRFdlZTI5NG5UaThn?oc=5",
+          "publishedAt": "2026-10-26T23:59:59.000Z",
+          "source": "生物通"
+        },
+        {
+          "title": "专访英国航空倪诺飞：大湾区出行需求潜力广阔，继续加注亚太市场-证券之星",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SNGNtcVg3Zm9RcE4yTHlXOEVNblYyalVoeWduVUlxS2N2ZTBMWmNqZzJ1SFQ2OFFmUGN0cWx5ckxHSFRhUktKeVdOM25nVjFtQjVETzdya2xWbGtNTkE?oc=5",
+          "publishedAt": "2026-10-26T23:46:46.000Z",
+          "source": "证券之星"
+        }
+      ]
+    },
+    "FR": {
+      "updatedAt": "2026-10-27T01:38:50.001Z",
+      "feedUrl": "https://news.google.com/rss/search?q=%E6%B3%95%E5%9B%BD%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "articles": [
+        {
+          "title": "冯彦哲/黄东萍夺得法国羽毛球公开赛混双冠军",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSHl1M0p1TVg5NXVIZWZneGZNdUNtNlBmM3pJQm1SZ2hQRFgzNmU5RzlWRzl5bWktTE54SkJsZk9SNDJad1pVNElhRXRzb0lIeWZHUENHcl9wU181d0ZoaU5YQ24yZGhaNGROQVZSd3pCd2Z1dDFkM052am93Zm9BRTR3cURjNXdSZkdkSUQtLXJRTlVzMWdreE9n?oc=5",
+          "publishedAt": "2026-10-27T01:31:37.000Z",
+          "source": "新华网客户端"
+        },
+        {
+          "title": "法国南特圣纳泽尔工商会代表团到访深圳，搭建中法经贸人才纽带",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UcHZ4XzJMdENXN1RkQzk5X0lRc1FaZ2xqdzZvWE54Z3Nkam9sVXJZeVFJWjlzamlvRXRrZFptU1R0Qm1URUtNaFNWbXNDLWR0Ymk0RW1wSnZQNEEtTjV2emlKb3Y4SWc?oc=5",
+          "publishedAt": "2026-10-27T01:00:30.000Z",
+          "source": "泰山财经"
+        },
+        {
+          "title": "法国信用从“核心”滑向“外围”，新一轮欧债危机卷土重来？",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00TGctM0xVN2NHZ0hBbEJXQUVTUkZ4eHMwTDVaMjVqM05KVmxIVTR1elhKVmFsRndxSFlOOEZfX2xzRlRMYUNmM3YzZFdCWVBjdVR3Y1p6ZlZINlpQNzA4QnNfMTNRalVtVUZWcmI0Sm1HakpJcjlJOA?oc=5",
+          "publishedAt": "2026-10-27T00:35:28.000Z",
+          "source": "新浪财经"
+        },
+        {
+          "title": "“凤凰组合”夺得法国羽毛球公开赛混双冠军",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5seS1wMkhwV3FhdTBJNjBqMnlDZWZXcUt3QVo0Q2hyM29tR2xON3pQeF9rZEx1VEFyQXdEZFYzbm95QXNmejZvdDhVNlJwU29yV2N6SmxobkFHTGRsal90VnhYTV90STdiUG9GRGJxYw?oc=5",
+          "publishedAt": "2026-10-27T00:25:00.000Z",
+          "source": "泉州网"
+        },
+        {
+          "title": "《法国足球》总监：今年金球奖前两名的差距比2024年的还小",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tNWRPRUNTaUNGNkhPdG5uaFpKWFgtYl8wUU53QVhXZmtZUVlfRGp6Tzk5Ml9BU3VzWnE3cmpxZHNBczVUUlVQcXRMak83eXg4NUZNT2l2Yw?oc=5",
+          "publishedAt": "2026-10-27T00:17:00.000Z",
+          "source": "懂球帝"
+        },
+        {
+          "title": "法国学生不满教育改革方案表明续抗议",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLWtPSTVYRHdxWEFXbkdRRkEtTXhlYnRuUjNCTW14RUdoMmxJc3lFTHJKTU9CaEFSd0h3MjlKdDJwYktpZkxSa080Uld5SE50N1pmYnZpcFROYmVEanoxSWYwS0s1WTZRRnRMNWxNb0Mycl9oRndQUUNZSlhOaWl3d3ZlYw?oc=5",
+          "publishedAt": "2026-10-27T00:14:00.000Z",
+          "source": "TDM"
+        },
+        {
+          "title": "欧美避险情绪渐消！全球债市决战“超级央行周”",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Vc08wcjhDTEVweUh1dlBZejVJbHMtbUhFY0M1dGRkVjAzY0tkVTc2Slg4YW9WMVdBYUt1d0Nyem8yMkRqVm14bg?oc=5",
+          "publishedAt": "2026-10-26T23:50:00.000Z",
+          "source": "财联社"
+        },
+        {
+          "title": "法国抗议持续，2027大选临近，各政党借动乱争夺选票",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Tb0xJMUx4Y0VjM2VhcVVMeF9FV1hqNlZTTjNxU3BIdnNXaTdTbHFjZ25nYmQ0U1I5eUJLcElUZ3NmVS1KUG16bXFhQ0ExdVFSeEE?oc=5",
+          "publishedAt": "2026-10-26T23:43:01.000Z",
+          "source": "凤凰网"
+        },
+        {
+          "title": "法国为平息学生抗议作出让步",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUVnVExnU2ptY2R6OEVnWFEwanRYQmtLeWRlMDhkZV9HZWd5b1FjcnpnNzlHZDdPNFh1LWk0Z0lWUDRub0JNRnhOeTl5ZHdqcGZZWDZPZFZDZGFnN2w4TThsaXdDeWJja3VaVEZrSVluRXA1MURBU1h1TlZON1BCUlZ5a1lDdktvcE5KcVV4QjJXZw?oc=5",
+          "publishedAt": "2026-10-26T23:28:00.000Z",
+          "source": "华尔街日报中文网"
+        },
+        {
+          "title": "法国世界报 - 中国的“毒贷款”如何将赞比亚推入债务危机",
+          "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNOE03VVFRZEtrQVhiQTdIeEtVRG9ScTFCajhYc0FDa2hya18xZmExSWhlZHFlSUdoeThLc3RFcVJJWEthUVlGbWM4bGFFaU9iZTNDdndQejhGNHZTX01fem1rY09ERUpIMUswUTE2NFFDa0hLRXkwTDdBZm1iZzQ5OHBpaWRNUVV0M3BjbWxrMjhkVDRaaFZCSjZxenEtcldiY3FpenJSbTl1YXVSOC1ENkthMHMwWWhXczZUYlBCbjNIX0tBSUJFRUx3V3d1MWk0emRZVlRtSDRrU2lNMmhaanFKWVptVUNwUmV2aUljR2VXR3dETEZZMlI1QUNJZE83MVBOeElzVDE2SURvNDh4Sk81em5FMGlSZ0oxWWJ6eGxTdlg3MkdUOWZZcXBSN0RHYno1WmpLaURkS09KLTM4R1NqMVpkZzRWX2dhN1dCWEF0eElXaWtuTkN3ckRMVU95WFU0blN5M0d4NEpqemtndWlRN3VpMXhHcDM2VmViU21VYUw5R0J2WTJoeUw5emc?oc=5",
+          "publishedAt": "2026-10-26T22:47:54.000Z",
+          "source": "RFI"
+        },
+        {
+          "title": "法国总统马克龙称10月31日的示威活动仍然存在风险",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmR2xTdVJRRXdMQXp3ejNfZUgtREJVS3VXcVB3bU9QU3lQdGdlLVlFd1F3OFFfZ1NCb2Z0QTNNSDFqY0FZX25uNG5LT1ktSTE2VVl5S2k1RHR0OXZnY3U1M3FUU0M4eEEzZVFRT1hJZnBoZ0trdjdEYQ?oc=5",
+          "publishedAt": "2026-10-26T22:42:02.000Z",
+          "source": "新浪财经"
+        },
+        {
+          "title": "美官员称美军已准备好再次打击伊朗 马克龙承认未能预判法国多地骚乱",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDNvVlJrT2VjLVJsSXRyd2NQWHo2Mmt3U1pWQjBFZTBLZEl2VWtwRFZuQ2xxTmNwMy0yM3RUUGVLUjhMR2hialM1N2UwV3RWc0l3LVQ3MVR6c25CekVkVGZzUXpSZkh2ZjJITEZTZkp4Wnl0cmQyMUZTZ1dPMG0wbnhVczJnaWZjWnZZQzZkRQ?oc=5",
+          "publishedAt": "2026-10-26T22:41:00.000Z",
+          "source": "21财经"
+        }
+      ]
+    },
+    "DE": {
+      "updatedAt": "2026-10-27T01:38:50.793Z",
+      "feedUrl": "https://news.google.com/rss/search?q=%E5%BE%B7%E5%9B%BD%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "articles": [
+        {
+          "title": "官方：拜仁将在德国杯以及对多特的联赛前为凯恩举办致敬仪式",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VYjlmS2h2bmp3b0JtRkVOc1R4Q2RNYkZwM3NaYVc5WjZBa0d3WVN1a1FMRXBoZWpCTUw3ZlRvaDhuR0QydnM2VTl2bzQ4RTREdjVOMEpHM2FzY1VLdjBwdA?oc=5",
+          "publishedAt": "2026-10-27T00:56:26.000Z",
+          "source": "企鹅体育"
+        },
+        {
+          "title": "一辆特斯拉Cybertruck在德国上路被拦 警方直接扣留",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTnVld094ZGhJc01oel9Rc2hTSjF2cFYtR1RXem5VLWlPUExmVWJvODlnMW9ROXJ6REctOWt0c1Y3RUl3X1h5MWRhOWh2Wk5FQ3VYbVlEY3JDV3ZfNzM0SV9BUk0wZ2NrTTJfaFZ0aVVnSnlYMW9HNll1a25Wa3Q2aGRReWlfZmVM?oc=5",
+          "publishedAt": "2026-10-27T00:51:00.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "海外生活记：罐头瓶子带你看德国旅行",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1B5NlRIejlIR1UwQUxjclJJYTZZYkZ6SHFhMUFjNXhKWWRyVmEwR3ZqcjBJeUFLd2MydXE0eFM3UERLQklJMDdHTnhXc0h1T0p4MjNuODA4eXRxdHdvTkw5RWVLekpubjgwanIxUThPZUNTSGh2ZTNQLXdYcDY4ak1xcVljTGJBTXBaVQ?oc=5",
+          "publishedAt": "2026-10-27T00:15:17.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "德国2型糖尿病患者使用替尔泊肽的真实世界特征与治疗模式分析",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55enhVa3BvMzNWT3Y1NkkyTG1iTG9YdEV3cFFQckRNVUEyTW5QbjAxYjNCZml2aDlZVUpnVXVOOXJPTk02Vl9MRlpzLVN2VTZZcTFkMTZTWklJN1JvQWt3cmxrRGE4M1NUdGE0Tkln?oc=5",
+          "publishedAt": "2026-10-26T23:59:59.000Z",
+          "source": "生物通"
+        },
+        {
+          "title": "德国总统时隔8年再次访华",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KM01sSkpEaHVxdFpFN3lDSW1xc2ZWM0ZXYlNSWmtDZWFlcm1NbVJxamRRQnZOTnUtNE5pdkVvZE1zYVdhVGNwbnRXc3U?oc=5",
+          "publishedAt": "2026-10-26T23:52:54.000Z",
+          "source": "凤凰网"
+        },
+        {
+          "title": "德国总统施泰因迈尔今起对我国进行国事访问",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mZ3NfYmNpSVVFYjFGZnd0SzVaeUdQaFRkbTRrSHZ4U00wSElSNXZ3RXpKRWhTLVBxUzJERDZvanF1MW1HSHAxVVg5UFRMdmtYMnJrNkRPSGFoOVg2NUhNWGhoeUNpQTh6bTc0ZFVFNzRrTWYwVG5Qa2FYRlZkQ28?oc=5",
+          "publishedAt": "2026-10-26T23:35:18.000Z",
+          "source": "人民日报"
+        },
+        {
+          "title": "今日凌晨，德国总统抵达安徽开启访华行程",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwTzFqVXdrWENsdGliS1pMV3pJSVAxRDBTQU5ta19CbnBSd2R0R3dqM0hQVDJRYVpudS1uY2pFQ2dUcEFWWWlUTUZjN2FhYU1jd1VNUkpLeEpTb2RIVTZEZVZJa1J4X3d4YUYtMHkzNTVyX1E?oc=5",
+          "publishedAt": "2026-10-26T23:28:00.000Z",
+          "source": "观察者网"
+        },
+        {
+          "title": "德国能源转型进入新阶段",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rdWZMUlFMa05qQUNPUGhKR0ZpSF8tWXNnTVViZ2d0TXhyNVJmU215VDdEZFZtekd6aW5Qbkc2a0xZV0dNRzFqTm54X1Fla21pbUNHd1NJU01oc2p6aF9pMWN4dVk5X3hzRlhObm53UThwRTg3WFdYSDlzcENwSUk?oc=5",
+          "publishedAt": "2026-10-26T23:06:29.000Z",
+          "source": "人民日报"
+        },
+        {
+          "title": "罗体介绍德国新国脚舍尔汉特：职业生涯起步不顺；伊镇关注他",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00R29fLXYycjRXMUl1UDJJekxZWVRyMVVSaXBETFZGWWo2TkYxc1dESFVfZk5uOUJxcEYtRXhDc01EZGVwYW5vR0d1NmI3YVBqODhndVBTUQ?oc=5",
+          "publishedAt": "2026-10-26T22:26:00.000Z",
+          "source": "懂球帝"
+        },
+        {
+          "title": "德国总统施泰因迈尔今起对我国进行国事访问--国际",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QREZuTXJqR0o1YVZBWWN3Mk9FYzdmMV9PQmdveGxJZGVFVWVnSWdaM21FSDd6VUVRamJZcUlxcEx3Y29fVVdXc281dFNEUmFaVm1QWVZkd2s0OG5GQUZxOFhReW5tNmhjQTE4?oc=5",
+          "publishedAt": "2026-10-26T22:16:00.000Z",
+          "source": "人民网"
+        },
+        {
+          "title": "Weihenstephan近65%的营收来自德国以外市场",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkttV29yaUpNVlQ1aVotV09MSUZqSHE3ZnVrMVBuU2VvNnBJcEJ0MkkyYzFTVEpYb0pNVnJEOUNwbWtJWlZLTWpneWFGTVc4ektmVnc0NFRkRDFhNlUteURCTGZESUZCZFYyVUhnc1h1eDhrM0xkUVpVS3BLMkdIcVhKUzh3d1JKU21xdzc3U2g5aWdSNkxMS1NWd3Q2STBFbWhYdDhfWU52dWtsemRrM9IBtgFBVV95cUxOYnFLSE9OdXMyVV9IUFo0RU9RMXpFOEhVS0I1SzZHZEZTQ0JrX1N4cVBGdGs4LWp4S2pCWWthbFQxWmhHMU1EaGhVUGRPbTBoTUhGRUUzMnFkVllnM08wcEYtTDBVWEhLcGtZckp4OFBuNnVMM1MxX09QSGNYaGpPUEpaU1ZwaFZoSjFRZHBoN3lUdFk1dmowbEtEVnlUSTYxOWlWdHloN3o3ZXgwWXRsclRHOHJKZw?oc=5",
+          "publishedAt": "2026-10-26T21:44:05.000Z",
+          "source": "Vinetur"
+        },
+        {
+          "title": "进口车 9月销量榜：同比腰斩，日本德国领跑",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3QUU3SmY5YWFMbFFXNUFoZk1RdkkxaVF2eE8tQ0tEVk16OXhRTExBUUNReGlnNUVFVHlmdEFTQjhDeDdtNlJTQVozbWx4RkhGTEtpU0d1N1oxNkk?oc=5",
+          "publishedAt": "2026-10-26T18:50:14.000Z",
+          "source": "网通社"
+        }
+      ]
+    },
+    "AU": {
+      "updatedAt": "2026-10-27T01:38:51.524Z",
+      "feedUrl": "https://news.google.com/rss/search?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "articles": [
+        {
+          "title": "兆科眼科-B(06622.HK)生产基地获得澳大利亚治疗用品管理局GMP认证",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbzZUMjh0M1g4d1FQeHdXaTM1RlVYNGF5Z1BFajZ2YlBFVEMteHRLUEt4cDk2QzBNZmNqNnJ4aDlJcjgwdy1yZ1p2NVRxWTVHOHJPRWRPNUtTUDJBWUlYUnpyREZIb2JSajZkLVdWVUJ3aHpwSlQ3SHlQNlo2Vm9mQU5zbWp4LUk0bjJCNQ?oc=5",
+          "publishedAt": "2026-10-27T00:50:27.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "兆科眼科-B(06622.HK)南沙生产基地获澳大利亚治疗用品管理局GMP认证",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmozZGtaR05vb0h4bU9ZZ01NMkQyWVgzcnJ0RWZXS2dhT3U1empqUng4UzVmQzUxS0lLZ3dGbHFDclgzcVVaVlJfZkRSS01LLVR2MFQydjJaQ2FFMTlqcnlLLUZQYXQ1Mzg4UUJaYl9NQmx0ZnhRRmh0OWZzQkhUY1BhRUlWUmxQSm45R0kzZlZDdw?oc=5",
+          "publishedAt": "2026-10-27T00:49:44.000Z",
+          "source": "https://m.capwhale.com/"
+        },
+        {
+          "title": "兆科眼科-B生产基地获得澳大利亚治疗用品管理局GMP认证",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWGgxV2xrQ2szanhXUkJrSk5rdXI1WkRVaW9TYmROaGdDbTdsd21NVG9SQmF3MWU5MkVsazFTa1dHcU1UTFRObGtsSmM5OE1GM1NMX0t4SExWRWFjS040Y2lCaEdzdjQzQU8xUWF4VklFNXJpbmNiT0J5NVBwVVktTU13bDhWQWY2UmhsdzlWQUdxeVRiUmVlLWlHNmJjSzZpdDVxbWV5U0JNVkxjZWxQT3JGeXJ1Qld0enNIcXFqbWwwajdYcWVjQ2ttV3dOQ3c3SEFkTVhYbDNwcDJUenFsX1U1QlRUQQ?oc=5",
+          "publishedAt": "2026-10-27T00:44:16.000Z",
+          "source": "新浪财经"
+        },
+        {
+          "title": "澳大利亚奶农詹姆斯·汉森在昆士兰州洪水中遇难",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjhNZTRnSkpQMXZIV3l3UnVjczNGdnNaVVgzZTNpVWJvWGJpU3ZDa0lpSGdaa0l6cWdtZnp5REt4Y1lJdkVZeEt1T2FVQ0xodGtud3NzVFVzeGxwMXdMbnR0UkthQkFzUjRyb1hoQ3FLZWRnM2NaNHBFY1pLUmVsLV83TDFGWW9WY0VhdFl5QmF2eXRVZzRQZjBvTWJWOEJvU1RPSlQzWk9Ha2ZqZVZsX2JhazdJS0RjTnNrbkdFZy1jNDFi?oc=5",
+          "publishedAt": "2026-10-27T00:40:07.000Z",
+          "source": "Dairynews.today"
+        },
+        {
+          "title": "澳大利亚CPI前瞻：核心通胀料连续超预期，加息定价已过半_外汇动态报道",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52eXQxRE1OUUJrTTE5Z1J0eWIweDRrejl5Z05qRHhLQnl2dWRsejRVa3FFclBDcHBZUDZrQmRvTEZ2em43bWxBdE1UX2tjZVZFU19pY3FleGo?oc=5",
+          "publishedAt": "2026-10-27T00:26:56.000Z",
+          "source": "汇通网"
+        },
+        {
+          "title": "澳大利亚CPI前瞻：核心通胀料连续超预期，加息定价已过半",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbF81UlJkMHdZY2kwNERIdnRDLWNFbVRUTUJiWXllZGhIZ3ZBZFppVE5KOEtRTWg4b2lBVVVUZVF2dk0wYV8xZVdLbkU1VnJsb0JzVWlCV2hSWHVjMk5WYmNFamt1eEJzNWE1YlN5NG9SMFBoQTdEUVlKcmNJTWVadW9HeHVlUEdueVlNdk5nYURLMHdOU3BuVGxWY281QW16TFdBblZtVll6QVNPZWJvVlVVcElncEhuZjdRQ3p6TTU4OENldEdaUklCamJnQmp2SDZsVkNFQVlscjZQZjVV?oc=5",
+          "publishedAt": "2026-10-27T00:26:00.000Z",
+          "source": "新浪财经"
+        },
+        {
+          "title": "广交会遇上“APEC时间”亚太客商 在珠江畔找到了什么？",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNak12Sld1QnVqRGxuYTNRYkhRZWdCbVV6S1ZYaUV0X1djajFOS2NTZ2xqOE1PSktiMUwzMUFUc0pZTDRWc21WYTdxN19rbndjY0xDUkY1WTlkN1dnR3pvc2NmVWktUkxTbzctV09jNVJVbmZlampQamRUQmJkSi1iNkNWVS1mODJw?oc=5",
+          "publishedAt": "2026-10-26T23:48:13.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "南澳大利亚州附近海域发生 4.9 级地震。",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtTXo4ejFhYnppbVZvNFJpeVc4Y01WMTEwZFpyckI3VTZVa0t5Ym1pUHRNTWE5NnFwUW9XUzhxTlVJd0JPUzFfNzIycw?oc=5",
+          "publishedAt": "2026-10-26T21:23:52.000Z",
+          "source": "手机新浪网"
+        },
+        {
+          "title": "零售商下架美国葡萄酒后，南澳大利亚州对加拿大出口增长38.6%",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNXJjbGZ2Nl9DaVlvZE9jcWRhR1k5NEh0cldaSDhqSlJtcmwtQlZxSWp5LVItX2FKRFZBYVFzMjk2VzZGX1pETDdJNWlNbEpGNWhUYkRsQl9ORHRseGdkYm1WdHhGSzlvV29JWWQ0RVk0SWhQYWc5TFZGaUZKT05pUGlSS3JsMWNqbnFSdVR2bFpYa3V3cFVzLUJ0UUpNTGFQLTlteFd6bGFnZnZCb1FHblp2anpmVllXTG1GUWRDbW4tZkN2R281NU5n0gHPAUFVX3lxTE5LSjdQeDdSSFY0LTQya3Mtd0xIMUU3ZEYtY21VdURRRkwxRHA0ZVdrVk54d1QwOXlsOHVVTGFBaWhrMnJxdFVCb2xmcWUtd3k0SEpUQ1pjTlhJb2xyMEdWR08yczJkSXFyd0pNTkZ3Y0FDOVZGdDlDS2xwb2VlaWVoenl3b0ctak9wUWF2TlNuZDlEeTkyb2dzX3lWdGgtRzRIcnc5SkxRb2lseFcyd0ttOEdONmlNZmkydkhoQ2Zic2RMZlp0Y19lU2kxUGtCaw?oc=5",
+          "publishedAt": "2026-10-26T20:49:46.000Z",
+          "source": "Vinetur"
+        },
+        {
+          "title": "澳大利亚拉响最高警报！AI网络攻击来袭，中俄朝被指瞄准关键基础设施",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4dVlxRjVWUmhfTUdWSkZ0TlVnTFFvVEM3VnFHT1lsdmtvV1J5c05RYUx3OWpDRzlWVjBqRGdNMEpTc21paE9IeVpkNnRqZmhwdEZBSXplTVJoaVhmdjdxd181VVAtdG8?oc=5",
+          "publishedAt": "2026-10-26T20:05:07.000Z",
+          "source": "1688澳洲新闻网"
+        },
+        {
+          "title": "澳大利亚女子称AI眼镜可替代导盲犬——ABC",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaERWb1FWdTlxUUNBa2xjazBTSzE3VkY5LTlTdEhJREc0THdNZWd5OWhOLUVzMWgtck5zSnZfaUh5RXQ5MEVqTUc2WGx1bnhtMVFYbDloUXJWc3VaOWZ3bFNURVQwQ3hoMmU3eDZ1Zmh3QkNVRjdoNWJEUUpBS0JLLUhfVHY4bGUzNXBoaF9qUUtpb2tnTjFvc0drNnI5QjBTLVlvbm5ndjQyRV9iS0c5SXBNbERKOEdrMUVQZ0pJemw3RWVXSUE?oc=5",
+          "publishedAt": "2026-10-26T19:07:00.000Z",
+          "source": "UA.NEWS"
+        },
+        {
+          "title": "昆士兰中心称失去300万美元资金支持—— 澳大利亚广播公司新闻",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTHpWMzh2RFB0VllTa1VYb0dzWnliZkZwZGRrOGFlZFdDZHBpQUZaZzFrcHFVT2Zla3h1U3JXVUQ4YWdEdkJ4WDh2UjZtamlGY3I0ekVkNG4ycEdvVkFuUjBWVVllck5LNDE2MUVBWG5taGxJcDFqd3NaVUgzUlozcnQyTUFFTGc0VHpCRHFCRmRSR0E1RDNCSFkxelZMTkdsaGY2cW8tSVhTYzRBWmx3?oc=5",
+          "publishedAt": "2026-10-26T18:15:00.000Z",
+          "source": "UA.NEWS"
+        }
+      ]
+    },
+    "IN": {
+      "updatedAt": "2026-10-27T01:38:52.257Z",
+      "feedUrl": "https://news.google.com/rss/search?q=%E5%8D%B0%E5%BA%A6%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "articles": [
+        {
+          "title": "印媒：中国的空警-3000预警机，能否在不进入领空的情况下支援巴基斯坦？",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWk94MU5MSU5CdlVRY0doYjBlVVJPRFNhWVZOZWFWTHNvaXV6QWw1RFFuNHpFaU94YkhpbGZFZWQ4VURJNUtQNHdnYVVHUm12bzM4RzNtTXI4VDIwZ3QyTkQzOEpuOXVTYWl5UFNjQlgyTzhXUjVNTU9pMkFidkd2LUoweGQ3NjRtbFNDcWljYw?oc=5",
+          "publishedAt": "2026-10-27T00:20:20.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "基于系统差距分析的印度楝DUS性状鉴定进展与未来研究优先方向",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kWXdSU2ItRzMwdUcwaDFyTDJZVndOMGFYUkkxQnZ2SExXLVNOSVNCZHRGX2NPRlgya3B5TWZFTWlFWG9LeDg1eUx3Y1pTQ0hnel90TDBIOFVFOHNuUGI1d05NaV9meTJYZENkQ21B?oc=5",
+          "publishedAt": "2026-10-26T23:59:59.000Z",
+          "source": "生物通"
+        },
+        {
+          "title": "印度称中方军队“破坏了边境地区和平”，对此棉花絮建议让他们了解历史真相先",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jdjBpNmM2UGtDQTRtbkIzdzlLTUFmZWJScE4xLTI4c0EtTk82TmhEa0hPZ3RpU2ZtNmxrZkxLblBONkw1RkFadC1oZVUwLWpBOHI4cmFJMzltaEE?oc=5",
+          "publishedAt": "2026-10-26T23:35:22.000Z",
+          "source": "风闻"
+        },
+        {
+          "title": "产区减产叠加库存告急！印度拟延长棉花免税进口期，全球棉市将迎何种风暴？",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMTBRVmdiQ1JXczJUbmVsWHFJcWhtQWI4WjQ4MV9Hc1BrOWhpRTlPTF9RTHl0ckpOWDFudmVRc1lsMXZKVnN4YWY1S1FXSzBxbzlFdllzSUQ0Yjd4blYzTk1rdjVlOUNHcHhVSkduTHVpdGlkZjVFWE9sSEdmb2ZfcTJmTkFMbWVjTU82LTRXbFhJdkMtQTA1dUNSeU9may1xWnRnY0Y0UFBGQ05Tcng3RUgxSmJ1dGxZSmVONi1TdFlyektOenlpaC1Kem16ODVFYjZKeE1JQzI4S0E?oc=5",
+          "publishedAt": "2026-10-26T23:12:27.000Z",
+          "source": "新浪财经"
+        },
+        {
+          "title": "🎥色情电影印度xxx xxx",
+          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNYnFRYU1sZm0yS1B2SDNoeGh3OE9pT3dGWkNuQUJTSVZiYnJLVTJuOXZmTUN3MnVVdHY3RWpOWEdwS3JBdXd0Y3hmNXN0S2Z3ZGF0LTZRUGdPejBSVHJpZW1fcDA3MFFlcDhHaU5hSkY5SFF2Q3g4V2d0Ulhmb1NOeGVkQWRGalZkMkdCR0dXc0RldVRHWmN2SVZhV0ljNlR0TGE2UzktOGk3ZmluOUh6QWJ2ajFvZzhwcWNCM3l4VTN5ai01b19wZ1M3VTcwSmsyQmJhcWpDOWVROTVORlY3MzY4WklxNlRlcEFyWU9DdUViNTQ1cEF0Q1JLTE9fQXpwa1laS29UQzBoVGtCNGlMMy0zbE5JSEs4VEhWNjY5Si15aVIxN2V3WTQ5eDVwSk1FX1hvSEsyZUR0M2IyUHlmeS13?oc=5",
+          "publishedAt": "2026-10-26T20:10:23.000Z",
+          "source": "NYC Health + Hospitals"
+        },
+        {
+          "title": "印度指责中国军队破坏边境和平，外交部：中方在边境地区开展正常的巡逻管控活动，维护领土主权和边境地区稳定",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GTzBadmRDMzlVWk10VWZKOG9SQVpvajhER3FJZk5BcHZtWFUwV0xfYVhaZlh1RkRDVFdJWWVNWEVzNzExVFlJUjg3WkEyVHdOX3MwekJJZ0tfdVhPNnBIQm40RGQxcEJhcFJFVUp6a1ktVE9vNWc?oc=5",
+          "publishedAt": "2026-10-26T18:10:00.000Z",
+          "source": "新浪财经"
+        },
+        {
+          "title": "倍耐力2027年历首发印度主题，三摄影师共绘53版",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55Q19WREJGbzIxemdYZ3EwM1cweW9JYk1zaDc5WExxOWQ2aXBrLXVldW93X2J6UXVSUlF5dDRuSEctNGN4NjQ2YW1IbGtUczdaQVE2MGdzYll3Z3c?oc=5",
+          "publishedAt": "2026-10-26T16:15:31.000Z",
+          "source": "汽车之家"
+        },
+        {
+          "title": "倍耐力2027年历新德里发布，首集三摄影师聚焦印度",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92amtPQVZXRVVZaGJkYkZmeEFjRGxhMV8wRUYyNlBPTUU3QUc2dGZCR0M4bUxxNVhYZjM0Umpka1hXLW5KaERYU2k0QlZXNWw2VHg4UmpwV1R2ZFk?oc=5",
+          "publishedAt": "2026-10-26T16:10:04.000Z",
+          "source": "汽车之家"
+        },
+        {
+          "title": "【视频】大众暂停在印度电动车合资项目",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wSi1KNm5fM1NwU1RzN3NHMTF2UjRwSHNCYnFpNU1ERGI5TVNLY1dfS3V0bVdEbHMwUzh5Sno0eHpfY2F3VjczWkRlY25nRjRPZUZISk11elRuR3c?oc=5",
+          "publishedAt": "2026-10-26T15:21:51.000Z",
+          "source": "汽车之家"
+        },
+        {
+          "title": "vivo X500系列被曝11月底前登陆印度 搭载天玑芯片",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMjMyWW9NbXp6TWVJUmVfbDJ2SkZfZ2llclNZbFFuU1BLb0stTXZiZG5mX082OXNWM0RVeDIxaXl5WEkwZnNVWDNLalFtUnhEVXh4VTRYZXBvbU5lTEQzOTZIMC1tQUZIUE1BenFmWm9MTUpOdjVSRnRhcmU0RzB2MTJHQUFVRGk5?oc=5",
+          "publishedAt": "2026-10-26T14:44:00.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "消息：胜科印度子公司拟上市筹资近5亿元 最早12月启动",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NUnRPT0h3ZllMdm1hT2xzY0U5NWZjTzdmTmtCY1hVT3p2MVdON0lyaDJXdVN0cjBSTWtDekpqQmNvdkllVW5Hd2FNTlFfMHFHWVJiTGl5STVFY2tWVXc0YTluczdhSklxSVlzX3pTSmRnQ2s?oc=5",
+          "publishedAt": "2026-10-26T13:29:40.000Z",
+          "source": "联合早报"
+        },
+        {
+          "title": "皮尤调查显示印度国际形象下滑：美澳好感度走低，四方安全对话承压",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CYmh1MlpjNWlpSjRwSEdEU25HQ0kwUGZDM1dLU2dnSUJmNTdLLUdHVGFVZ19XT2UzQW9zS2F6bjlZNURUbl9COUI2a2tlMnlIMFBadQ?oc=5",
+          "publishedAt": "2026-10-26T13:03:18.000Z",
+          "source": "虎嗅网"
+        }
+      ]
+    },
+    "BR": {
+      "updatedAt": "2026-10-27T01:38:53.083Z",
+      "feedUrl": "https://news.google.com/rss/search?q=%E5%B7%B4%E8%A5%BF%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "articles": [
+        {
+          "title": "观天下·人物丨卢拉：踏过苦难 续写传奇",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XRmREU3l1ZEhMa1hvYkItQWtGUXVEdl9RYk5RaFVYVTF0NC15eEY2elh2a1VnNUh1Z3pZRWxzZjZscU1GblJLdE9Rcll0NEpPNHRCWGRMc004d2lZWmhGTzJkNDBxR0ExMjdCdmtUVGJ5cGh4bXBlaDBENmxjMm8?oc=5",
+          "publishedAt": "2026-10-27T00:16:14.000Z",
+          "source": "新华网"
+        },
+        {
+          "title": "巴西主要股指收跌近14%，六年多来首次触发熔断机制",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZGlkTWRnVGZqMW1hVWlyR1UtRzdiQXl6ZkVrYm9ITGg5eDc3ZTZrUkt4U01pNzJFUzRUY3J0U3NMck5CaUZlMVZvUjZhTlg0SFhfSmE3eXp0bkplZkRHSzRnOVNYWGFMMUIwSHIyZGFtMEpWcTAzSUZ6czdpTGtlVDFOc2N1STBTQ1BuUUNDRQ?oc=5",
+          "publishedAt": "2026-10-26T23:51:00.000Z",
+          "source": "21财经"
+        },
+        {
+          "title": "卢拉在紧张的巴西总统决选中赢得第四个任期",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUxRVlBMdTcxMW51OFVtLXNYTllfQV9qWlhobHlSZnptdjRKcEk0MHZoUzh2WURlNlZra1FrWFUzYUMwS1h1VjNIdnFwZGNGUkVKbGkxVGxkeGlNMDRpcXdCTlQycmZneXNvaGFySGRfaDlsSmx1U2dXWVF1M1l2TnNrME1BRmhINW96MEJkcTd3VWI0endhUVg1RWlMb2dCaXV0RFVUTldnT2E1WllWbDNTTnFoV1k1d2ZZ0gG7AUFVX3lxTFB1TFFWUEx1NzExbnU4VW0tc1hOWV9BX2paWGhseVJmem12NEpwSTQwdmhTOHZZRGU2VmtrUWtYVTNhQzBLWHVWM0h2cXBkY0ZSRUpsaTFUbGR4aU0wNGlxd0JOVDJyZmd5c29oYXJIZF9oOWxKbHVTZ1dZUXUzWXZOc2swTUFGaEg1b3owQmRxN3dVYjR6d2FRWDVFaUxvZ0JpdXREVVROV2dPYTVaWVZsM1NOcWhXWTV3Zlk?oc=5",
+          "publishedAt": "2026-10-26T22:49:36.000Z",
+          "source": "美国之音"
+        },
+        {
+          "title": "巴西大选结果引爆市场抛售！股市重挫14%触发熔断，雷亚尔暴跌近8%-市场参考",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40V1pUR1hIaGlOTmZPVUxqZDQ4aWM4NFNmV0daQ3lETGhDb1hZcVJsaVgxVk1mYnJuU05FanA4TERjWjFLX0hXZkxUcUYtM0U?oc=5",
+          "publishedAt": "2026-10-26T22:32:32.000Z",
+          "source": "金十数据"
+        },
+        {
+          "title": "卢拉连任，外交部表态：愿同巴西共同努力推进中巴命运共同体建设",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oSktnYS1LdjhKSThMTGVKVGRHbTk5VmFVRmVKZXRwNENGbFpVbUptMEl5OFVPVWdBZTQ4MWE4TDFTMk5Pcmh4MmctWVd5R09zZDFQSVlXeXU3TlN4Y21aN214T1FuamQ1Y2xmb1E0U2VHZw?oc=5",
+          "publishedAt": "2026-10-26T22:13:00.000Z",
+          "source": "手机新浪网"
+        },
+        {
+          "title": "卢拉意外连任引发巴西资产暴跌 OpenAI公布数学、计算机、物理领域新成果 | 环球市场",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsbC1IMzFKRFByS1VsNDczNnhic29IdVo3WlJKbHB1VG51all6Q0FYVl9PNFVvNjNNdXF2MGpnYl9pVUxGWmhKdw?oc=5",
+          "publishedAt": "2026-10-26T21:39:00.000Z",
+          "source": "财联社"
+        },
+        {
+          "title": "卢拉逆袭吓坏巴西市场：股指跌超10%、部分个股跌60%，雷亚尔跌幅21世纪最大，60亿美元股权融资搁浅",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rSmxoanF6TXNNYXhJX0l5MG9scmFzcVRmYldOdFNLTnJDeWRhN2c3NUF1S3ZkSExEbnMzeVNpYzFiSGJhNEJ1Q2g1WGh2UmhBZGRJ?oc=5",
+          "publishedAt": "2026-10-26T20:26:42.000Z",
+          "source": "华尔街见闻"
+        },
+        {
+          "title": "2026巴西大选：卢拉何以逆转",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85TUdPRTVVVy0yeG5xNm05em9ZSVYxLS16MU9DbU1NSjMtc05rUWMtNEd0T0RsTlFzMnB0c1BoZ1hxWTUtMDdsZURHcHN5SEcwS3RIQ1NpRVR1MFVPOWkxMQ?oc=5",
+          "publishedAt": "2026-10-26T18:50:00.000Z",
+          "source": "光明网"
+        },
+        {
+          "title": "巴西大选冲击雷亚尔 大豆、咖啡和糖价齐跌",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUm13YzJ4b0F5Y09hSmRIbjRVOGdjQ1U1cHRBWVpldFBfMTVESGVHWVFrazA2bGkwODdBWVJPTnVSVE9ueGd5dkpSY093dFE2RU5aN1VGbjNGSlUtRzVhdFB2SDhpMnZsb19lSjlMVURYS2RlY1JsZURMclhJaUFpNEhkTll4cnBHQmhzMG9Nbw?oc=5",
+          "publishedAt": "2026-10-26T17:11:58.000Z",
+          "source": "新浪财经"
+        },
+        {
+          "title": "新闻人物｜逆转获胜，第四次当选巴西总统的卢拉",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LTEhHVDVlTVZBYU1CcGlkaWlYQzZhU1ctSVlMTm9vclBpYnZ5dFNPRkd5TVlnaVh1c3NDY0xtNWRVT0stMWY5UmpEQ3BhSHdWWXhvT3ZjRHN1UHlZaUE?oc=5",
+          "publishedAt": "2026-10-26T15:35:52.000Z",
+          "source": "京报网"
+        },
+        {
+          "title": "卢拉胜选后 巴西股市跳水17%",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaHRsT3ZRcHNDZGVqSjl3blplWmxWR2FmOUFxOGREdFA3X09QaXc0bjYzaFVqMF9TTVVrcEdFVFJIWnNsWHNPMldFT2todXhtTUJYM29QdE1QNThkLUlDN1h5LUF1YnBZTnZCV1Axcjl4T2IzN0Y2OWVJaFlSXzlhalZ3NE5fbGJLaG5UOWs0YmhxMXM0eFNJaXpWcU9QOW55eUJpaUNyYmg3YXRiUkZsanh4bklqMmVvUjZ0NjVBbGFHcTBIYVlxNFNodXgxZG1r0gHQAUFVX3lxTE5odGxPdlFwc0NkZWpKOXduWmVabFZHYWY5QXE4ZER0UDdfT1BpdzRuNjNoVWowX1NNVWtwR0VUUkhac2xYc08yV0VPa2h1eG1NQlgzb1B0TVA1OGQtSUM3WHktQXVicFlOdkJXUDFyOXhPYjM3RjY5ZUloWVJfOWFqVnc0Tl9sYktoblQ5azRiaHExczR4U0lpelZxT1A5bnl5QmlpQ3JiaDdhdGJSRmxqeHhuSWoyZW9SNnQ2NUFsYUdxMEhhWXE0U2h1eDFkbWs?oc=5",
+          "publishedAt": "2026-10-26T15:21:25.000Z",
+          "source": "DW.com"
+        },
+        {
+          "title": "81岁卢拉逆转取胜，巴西年轻人的功劳？",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05N3NPa2JPOGY5dkVpS2FWSWVFZzNYWjZLbHZGdkZKZ1R2V0NGVGs5cHk1aGNZQmx5T0lxMFd2YjhvanpFZmd3M3g3b2NvZ1ZFZUpISDBkZjhqajNBNG1jNkJmNDQ?oc=5",
+          "publishedAt": "2026-10-26T14:18:00.000Z",
+          "source": "新京报"
+        }
+      ]
+    },
+    "CA": {
+      "updatedAt": "2026-10-27T01:38:53.842Z",
+      "feedUrl": "https://news.google.com/rss/search?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "articles": [
+        {
+          "title": "加拿大就稳定币新规征求意见：禁付收益、非银行发行方须将储备存入本国金融机构",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XTk5vblJEdHNrel82SElLZ2txdUFKMWtRRTdWZS1KRGNhcnBxTmMzVUlGeWdxZEZUV3JEOWczVTMtZnJaRlo4Ym1vbVhxaXlndEhNOHU5TE1lUzJ2SDdyUlc3Zk1QNXZjZUlDX2x0VHdwdUZNUUlldw?oc=5",
+          "publishedAt": "2026-10-27T01:29:50.000Z",
+          "source": "FX168财经"
+        },
+        {
+          "title": "联邦将公布未来三年移民目标 民调：48%加拿大人认为移民人数过",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3X1JqTjljdVJCamg3SFlXYi1ENDV0S2owYlVlSnpWUnhtMmxkdlU4RnZuaDhwd21wYjd3YnFLckxtWWN4b1hXb25UWkhsZzBS?oc=5",
+          "publishedAt": "2026-10-27T01:13:28.000Z",
+          "source": "VanPeople"
+        },
+        {
+          "title": "加拿大按揭续期：选错一步每月多付千元",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hRU1RMWRyYVg2NURTazFuRmtyUVNPaXh3SXN3Y05KVzNtbjVfQWNMbFBfUXI3WFdIU2l4dmZlV3A1WVRSMjJWMTgtZVVVak9OTmhZOU0wblp2RHRBWnRN?oc=5",
+          "publishedAt": "2026-10-27T01:10:06.000Z",
+          "source": "温哥华港湾"
+        },
+        {
+          "title": "加拿大牵头防务银行，英国不加入",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UZzhGSUJIVXZCOUhSSlYzcm94V0M1cGNNZTdFc1BoM0hOc3RrcmlmUzVyZ0lLeTFHZElRSTJIMTJXMy16c3A0Q1A0bFBneDU1Z2tDZzNBRXdLTlNzS3VfWkZWekUyWldHQ3kxVVFZYjAyWUhpMHdlcA?oc=5",
+          "publishedAt": "2026-10-27T00:44:56.000Z",
+          "source": "新浪财经"
+        },
+        {
+          "title": "英国不加入加牵头的防务银行 双方决定独立运营",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VaFdzSkpuc29UbTBNNnpGMWJka3lnREh6bDdvVVJoUEdicDlRaG1NX0ZqZzVoWUhERExSaEctOXBZVTRLSzhMei1pSXZVcEJpSndDaWRtMXk3b3prYWFSUl9PdlNESFFGM2ljSjBiWTk?oc=5",
+          "publishedAt": "2026-10-27T00:34:48.000Z",
+          "source": "中华网"
+        },
+        {
+          "title": "Tesla调整加拿大官网Model 3续航与加速参数 美国产车型或重返加拿大市场",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeW5aVHBEWWRDeVNXa243em5FYzQySnJBMWstdDJvdmR5R1BqN29rNmo4ejJFcWVLVU0wSHN2dzdrTlBpMDJvVkZGT3FHYjVLTkNRTndqRDZ4N2hMZGlMRi14cGZfUEZVSzRzM3p4VWZsUTFGOFp1bDdEOEFJLV9GOFNmemtHdW42T2ZlMTlzVWw5NEpBWThQeHktQUs4NXdh?oc=5",
+          "publishedAt": "2026-10-27T00:14:02.000Z",
+          "source": "디지털투데이"
+        },
+        {
+          "title": "特朗普：加拿大方面迫切想要达成协议，不必担心。这类棘手差事向来都得由我来处理。",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBbGF2OTJpcEc0VHR4WEpTN0tzd2RfME4xQW9ZRXpiS053NTFrZkhZTWtPNk5od2o1cWpLRFp1RHZZc2dnaG5xaVhWYw?oc=5",
+          "publishedAt": "2026-10-27T00:10:51.000Z",
+          "source": "手机新浪网"
+        },
+        {
+          "title": "美加磋商减免钢铁和汽车关税的协议，或于中期选举前达成",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWHkwUDZYT2EyNnFSOEdjb3lpZEJ3Znd4OUdTeHBMNDV3bDJ5MG5yWDBYSFBPcUM0VEJIYjAtcVZxckJZV0k5Znl3NUVqTk1oUXRmT2YxUFFWcXI1STlXVDBzeUVYekVNS1NyZHpJNTNkamEySUFOa1JUOEZwUVNNMDB2S2tGVlY3SEFSMA?oc=5",
+          "publishedAt": "2026-10-27T00:00:00.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "加拿大医疗保健专业人员（HCPs）对气候变化及吸入器环境影响的认知、态度与处方行为：一项横断面研究",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GT3NuX0p0akVvV01YTkNCTWp6NHJ6emdBT0NzWHpmcF9xNllLa2I1aEYwUnFoMmR5QWpRSVRlVjRaLWloUFhKM3c5dWV5a1NRdkp4Mml0T3psLWExaVR4elFhcDNMcENMOEtvcFZR?oc=5",
+          "publishedAt": "2026-10-26T23:59:59.000Z",
+          "source": "生物通"
+        },
+        {
+          "title": "迪拜环球港务公布协议支持加拿大丘吉尔港开发 前期投资需39亿美元",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rYVJKVkJJN3VOc0VUU0JhdXdJSWNyNVdjamxNZ0tWUDd6ZDdiOGlVMUFNQTExeEJCR0paX3BWdlY0dUg3WVk5d0pEd3NiNl9EX1I3dFd1NTc0VXhWT2xFX3hB?oc=5",
+          "publishedAt": "2026-10-26T23:38:05.000Z",
+          "source": "观点网"
+        },
+        {
+          "title": "特斯拉似乎正准备在加拿大再次销售美国产 Model 3",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6RldBNzhJRkZ1Rl9iY0FaRlBtUkJ4dENlZkZKc29kTllHWTh3YkxMNW5NUlkwRFlWeHJoc0Y1NmFSMlVtWENYc0pmNTR3MUJwc1E?oc=5",
+          "publishedAt": "2026-10-26T23:12:00.000Z",
+          "source": "币界网"
+        },
+        {
+          "title": "卡尼指《印第安人法》是种族主义，对废除持开放态度 | RCI",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQV1Z3OWVHMHloVU1OR2ltVUN4RnBxRTRWbWN5VkpLZVVDYV9BNlBPYnRlWWM0NFR2Ui1OelNHU2d2V19rTVpNTmc3UFhvZmxJTUZLRHlwMEk2ektQc25BV1JmdGZLNHp1UEpKTFFkOHF6cDgyZkk0MzlkaTBQeTdSelJQLTJSS244b1RXQzlSN2pEY1p0UWNOYjFkZWpKVktTS1hVVzF6MVFhLXVnNU91RVljUHExaF9aOTIzSmhscDI2elpkQ0phN1RrOVFzRFljQ0VJRGlqblE3cE90Tm5PZnphWENMWDRJRGJkUmlyZHljMVhRZFQzN2c3OWxHem4zcVd0bzlHX0N0VkJaeFRTdzFUQjJKaXFScU5jbWNKbVBMalRyNkpqVHlGTTdxUQ?oc=5",
+          "publishedAt": "2026-10-26T21:49:49.000Z",
+          "source": "Radio-Canada"
+        }
+      ]
+    },
+    "AE": {
+      "updatedAt": "2026-10-27T01:38:54.634Z",
+      "feedUrl": "https://news.google.com/rss/search?q=%E9%98%BF%E8%81%94%E9%85%8B%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "articles": [
+        {
+          "title": "拉斯海玛“牵手”大湾区科创企业：从技术合作走向长期战略共生",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2lNUDRlZUNuRjZnQ2xiYm1seGtjNUFXSTJhMTR6RmZZcXcxaFdlWU92LURLdXZ3dnkwNXJ1YTEwMURrLVZDZnprZENpTEt3Ry1BNXNHcUI4c0pNTHJnNjZBT0tINjd3Z3YzZl95R19GZFExckVPWG9tYVJQX09Gdl96VlpDbVQ0Q0MwQkhBRQ?oc=5",
+          "publishedAt": "2026-10-27T01:21:00.000Z",
+          "source": "21财经"
+        },
+        {
+          "title": "U17海湾杯中国U16男足不敌阿联酋队",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdk5PUFhhWmg3VV93eWVncWpvd3VCX1hVX0ljckVjaFdpZm5HbmZPWUQ1T1VfdVk0Rk10Y1pKOFdpV2RDTzNNenlQb1RsMTV6Wl9Pdy1xRzJXQ0ZRSUNJZ3R3Y0oxMTk2eVlvYkUzaUd1Ym55WV95QnFsdzNNaFcyU25sa0lfbFhENWdyUg?oc=5",
+          "publishedAt": "2026-10-27T01:13:44.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "进博抢鲜看｜来自阿联酋的月球车将迎“中国首秀”，有哪些创新？",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCeENJUVBKLW9FX28ybkJ1VnFZUnQ1R3N4WU41LVNaMGlJeF9vNVFjODB3RDc4Ymd2VmV6RkJtQ0VPdzc2OWJxVXV4Z1BPT1dFQ1BVaHB0b1lsa004YV94UQ?oc=5",
+          "publishedAt": "2026-10-26T22:58:23.000Z",
+          "source": "ThePaper.cn"
+        },
+        {
+          "title": "油輪大規模漏油 阿聯酋各地海灘關閉",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXVWE1VUJtcmhaenhnZi1NT2p5eW4xa2JKdi1NQVpsNmh3T19KTU9KN050NVVZbjNqQ3gzcTZwTHBCR1Q3TUpQUjVLOGpzc2RVNUxpcHJlcXZlbzQ4akRNX1pEWEVBNmvSAWdBVV95cUxQV1VhNVVCbXJoWnp4Z2YtTU9qeXluMWtiSnYtTUFabDZod09fSk1PSjdOdDVVWW4zakN4M3E2cExwQkdUN01KUFI1Szhqc3NkVTVMaXByZXF2ZW80OGpETV9aRFhFQTZr?oc=5",
+          "publishedAt": "2026-10-26T16:44:00.000Z",
+          "source": "大紀元"
+        },
+        {
+          "title": "阿联酋近海漏油范围扩大 多个海滩关闭",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WSWljcmNrMFQya2kwMWxReW5iM2JKMnlBVVNqLU9HOHExcnNaNE1GY2NRYm5GTnZGU1Y5V1RQWF9YUmwteXpMSldib3JGZ215NlE?oc=5",
+          "publishedAt": "2026-10-26T12:29:13.000Z",
+          "source": "8world"
+        },
+        {
+          "title": "足球——U17海湾杯：中国队不敌阿联酋队",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2pUbTZiMVdPeDFydWZBdHdoSld3X1I4UHgwOGR4QU5CZC1RVjZnenVFcnZKRkZDaVZ5dERCSUJxaXZsVXZWVTVSYVc5eFhCTWpSWDhsbDJrenBfRDBBNzl3bWZRMURNMVB0eW1YbTY1My12QTAtcWRZWE9ha0hTbWxpMWZhcXNt?oc=5",
+          "publishedAt": "2026-10-26T10:08:31.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "阿联酋多地因油轮漏油关闭海滩，迪拜华人：曾闻到异味，旅游业未受影响，仍有人海钓",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV2w1dEIwYXp5V01MdF9NVFg2cFhldjlmSTdXblFkSndaZ2MyS3RHV21FZFRXRnl4T2M2SURSTk1sa1hvZG12c2xaNmt3TU5BQjJHZ1VOTjNDVjA4WmdDSkdmT2pXeUVLdlNKQkFrcDlYX1FFZEw4MlhUakg2ZG9OaXUzbEFLRDhZSjdRN1dlQQ?oc=5",
+          "publishedAt": "2026-10-26T09:43:00.000Z",
+          "source": "手机新浪网"
+        },
+        {
+          "title": "福建省与阿联酋拉斯海玛酋长国签署友好关系协议",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qZXFoSGFXbWhDOE1LZ2FyMU9BYkdQVlBlaTJSRUpEWWFGcWEwR3NMcGZnQkNJdGh3czNBUW5ES3U1bWM0TFl6WWdVR0N6VlllOXZ1M21aNUd2QV90ejhyWmg2dWt5YXVGaWhNWG13?oc=5",
+          "publishedAt": "2026-10-26T09:32:10.000Z",
+          "source": "中阿合作论坛"
+        },
+        {
+          "title": "阿联酋拉斯海马酋长对接国际金融创新与合作论坛 崔勇主任共促中阿双向投资交流",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PVnFzd1ZwZThKVGdXY2FwbThlYkdLcHB3QVBOU3E2Z1gxYTI1UEszZXpfMVQ5Vm8zN0VXNTZsNjNEclI2Y2V2X211bElZODhubGVaSmJlaHdSb3Y0cERveHVVWGFHQQ?oc=5",
+          "publishedAt": "2026-10-26T09:16:46.000Z",
+          "source": "中华网"
+        },
+        {
+          "title": "海湾杯U16国足憾负阿联酋",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX2xkX3pNZFpFRXR4eEhJM2JCdTJiX2htSzh2NnUtaEVXZ2FjZXowZVlUdzh4SU5OMHdiR2RPVW95a2NvajFEdEdmUm8yUGxZWUEzVm1FMGhkek9YWFAzckd5Y195cDJJZlNXeGZ4NlhqQ2ZnZkJBQnRfVkJQaXhDSkowYw?oc=5",
+          "publishedAt": "2026-10-26T08:43:05.000Z",
+          "source": "手机新浪网"
+        },
+        {
+          "title": "（外代一线）油轮漏油事件后 阿联酋多地关闭海滩",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYVRib2ZXMWRlemNqNE1zMWVzbVc4WEJ2MHcyX3BBSWFraUpVWkJ1aFk4ZnVBXzNyakRvbDZsQk80UlBlcE04dFZwd0kwWmdaSlpwTjZicjBqNEV1NFBnYXh0SWhoalBCZHFObVc5clBWbUVlWnNfeFZPRHlOTkxaRHBEcl9NOC1PbjE4?oc=5",
+          "publishedAt": "2026-10-26T08:03:03.000Z",
+          "source": "Sohu"
+        },
+        {
+          "title": "（体育）足球——U17海湾杯：中国队不敌阿联酋队",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS25DQ1Bzb3dHS04zWWs5SE5jN0t0SkM1RFhwSUZtaEJ2bWZTbmxFREViRGhKd0RVUXJLbkhMaThGZnJfa3hEZW50NnpteGNMVVlEM0JhZFZGNGtVMEdqVTNMeXFmMlkzUDZyM2tnUmhWdE8wQlJsbG1CR3RBRXVlSkRxVmE1Q2t2eXQ4?oc=5",
+          "publishedAt": "2026-10-26T06:43:31.000Z",
+          "source": "Sohu"
+        }
+      ]
+    },
+    "ZA": {
+      "updatedAt": "2026-10-27T01:38:55.332Z",
+      "feedUrl": "https://news.google.com/rss/search?q=%E5%8D%97%E9%9D%9E%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "articles": [
+        {
+          "title": "南非林波波省农村居民高血压患病率及危险因素纵向队列研究",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pMjQtUlBQVF9TVGtqVUEwYWJsSkpnX2Z1RzZzb0E3QlR5Y19lVUN3cjdrenNsaXZQa0sydFJpMVd6Wm90MGNwdkdrRmdyQUEtQTJ6SXBMMTNfcEZ0Wkc1Rk8zalB2N1ZoWFR2NTVB?oc=5",
+          "publishedAt": "2026-10-26T23:59:59.000Z",
+          "source": "生物通"
+        },
+        {
+          "title": "“我们在此可谓盲目”：南非女性生殖器血吸虫病（FGS）的制度性不可见性",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93OXVPSTlsenE0NXFYeUlZWllycDNJNzB0eC1jZjJCeEhRcmJIa3BGZU1LLXRDa0JVcmJEZldxYVhkdWZmU0diTTR6UTg3bE5uNVlTYUFBTFlrbmxON1BSTTVFVktxejJMOGdobEFB?oc=5",
+          "publishedAt": "2026-10-26T23:59:59.000Z",
+          "source": "生物通"
+        },
+        {
+          "title": "南非计划对外国人实行生物识别追踪登记——TimesLIVE",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMldZSWJCa1RkWEFldk5DVlI3NDVIbWlNQW90QXJiOFo5RDl1aDVJV3Z1R1U2dGlCYkp0Y2tvb0Jab0ZDLXo0aHJSbjl1c0lzb0JzWDhEVW5qQ2NRaHE1OFl2RGlHOFF3NnZERlBDd0tPQW9EWlZ0U2prYmh4Um9tdGEyVFUwcEZXYi1RYTA0QmtMVXlkS1pqT295czYxQQ?oc=5",
+          "publishedAt": "2026-10-26T18:35:00.000Z",
+          "source": "UA.NEWS"
+        },
+        {
+          "title": "南非：比勒陀利亚首席治安法官奈尔否认腐败指控罪名——TimesLIVE",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb1c4NnVsOC1KWE9FV1hRRUU5TW1ZMVFpQ1BtaGNkN2R4OTFfTlc2THFDTkxFaV96a0puMFg5Zm54VVNGQU45bzRQNUc0TzBjeGVLY2xvR2RHSXNvNElyajZCZmI2UFRtZEFkOVQzYnVVWnRGd0k1NHBRNWxYdlBsS0IwRE12am94VFpNb3pBdmc3RXR3UE9FeTBkZEFiYUJKaTJQaHZoT3dBR3BMRTk1ZWRxcFdra0xwR1BpR1pkUQ?oc=5",
+          "publishedAt": "2026-10-26T18:16:00.000Z",
+          "source": "UA.NEWS"
+        },
+        {
+          "title": "大使：南非政府已不再介意未获美国G20峰会邀请——《每日独行者报》",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcTJmQWdwaHVHREpnM3F4T1lJZGlXdjVEak93MEpaT29DZ0JPWmdYTDlqM2VYX0thRHhaSEg0T0JHb1hnY3l6bGRlbmxlbURQUWY3VDBXMkowU1h3WVpHTzdIYWJtUDI3elhudWZveWhrLVdmMm0tVEFubUJJVk81NHlYNUwtSmlmV1NDTkFmcVZscVF5NS1Uajl5QWdiREVyM3p3TW1EZXVMeHJkNUFqZUVDdlQtREpQVFVidGJZdlo?oc=5",
+          "publishedAt": "2026-10-26T14:22:00.000Z",
+          "source": "UA.NEWS"
+        },
+        {
+          "title": "约翰内斯堡机场查获216块可卡因砖——Daily Maverick",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQam9VY1lqNF9tWjNnWkhNanB6clUtdWhtUG1JTXhDb3R2VVpOb0w4VUp6MkpFMkFsU2RNSG1LZHp1QlhJSHg4SEZvV1J5TVJHd2NObVljV1oxNUhwSnNadGRHTFFkM1VVQ2hDQldCTk1NRVR6eUU0LUxpYnhuMFZJWUdzSzBZcjNicktoMkZrTjV4S25VeVhaTWpVNXJFOGlrVF93Ynh6R2E?oc=5",
+          "publishedAt": "2026-10-26T13:19:00.000Z",
+          "source": "UA.NEWS"
+        },
+        {
+          "title": "穆迪：南非中期预算声明对信用评级具有正面影响 提供者 Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VRXljSURfTTRycExVdEdVT056OHpZOGNVT0Y5OGtlUXVPR09FR0lYMlF6bGllR0w5dG5vZ2ZZT3hZY0NXanJpdW5mRUJDbHVuTWVBbDN6TmtWV1U3NzRxalRtT3J5TXBCWFJDUFNJS3A?oc=5",
+          "publishedAt": "2026-10-26T09:41:00.000Z",
+          "source": "英为财情 Investing.com"
+        },
+        {
+          "title": "西北省被盗奔驰在豪登寻回，38岁男子被捕_南非_新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wLW1ZVXQyUVAyWlc1WThMbnVGV2EwakV2VVZLelFNdG9ORkdUOXBKS21hZjlvWlA3ai1wMG0wVnRUaTZPUU1JMDNQMHpMNzU4N2xfanhXY3pZS0tu?oc=5",
+          "publishedAt": "2026-10-26T06:41:00.000Z",
+          "source": "华人头条"
+        },
+        {
+          "title": "南非部长称长期计划是取消汽油税",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIZTE0c3I4cHhLV1M3T25xNjNmeHRCQjB1eTRNSlFvc05jTGV0TU0zWXhkQzhZQVlQWDZFSFhvVTFmMUl2V2xKRU52STJSY2pzaTZmSU9BTVJsZE1PbU5JRw?oc=5",
+          "publishedAt": "2026-10-26T05:29:56.000Z",
+          "source": "东方财富"
+        },
+        {
+          "title": "南非部长：长期计划是取消汽油税。",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03N1psVjhwcTNpdlRDel9ld2dCV21wRUlRZDZSYXF1NldWX19wRGZXWTZzbElISmpENmRZU1VuVHFaQUJ1MUJBWWc0aw?oc=5",
+          "publishedAt": "2026-10-26T05:27:36.000Z",
+          "source": "手机新浪网"
+        },
+        {
+          "title": "南非一外籍男子遭约50人围殴致死",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMdE16eFk4Vk05ODNJbEc0WjU5dWwzUUx6Y29keU9ad0lFdzVzS0I4Y2pOU01qM25hMVk2V2pnSmxqRXNEcTN1V1JzUGc2bzJlWDl3WWxfcVlVVVdEZE05R2JhRzIwcVJLZ2tBcFNYZi0?oc=5",
+          "publishedAt": "2026-10-26T02:42:37.000Z",
+          "source": "中华网"
+        },
+        {
+          "title": "南非将2026年增长预期下调至1.2%，临时削减燃油税",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyTWotMDBkbUhySmswVzhJV0k2NmRVZFhBMDVhTkxPVFVUUkY2N1p1VXFoZ0ZzblN5VFdvNUxobXpoMTRlSW13TzB0RzFDXzhDUFg4S2pYaUlMRjhRRkYw?oc=5",
+          "publishedAt": "2026-10-26T02:13:53.000Z",
+          "source": "ChemNet News"
+        }
+      ]
+    },
+    "EG": {
+      "updatedAt": "2026-10-27T01:38:56.121Z",
+      "feedUrl": "https://news.google.com/rss/search?q=%E5%9F%83%E5%8F%8A%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "articles": [
+        {
+          "title": "胡塞袭击不断升级 埃及批准为沙特提供军事援助",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWGl2ckRCZDZnRzg2VjlnNGNIWHpMbHR3LXRCeUdQX3JvWE9wSFk4bDczNE5yRkNxZW9xSUljQ0J3UDNTV3dNOFNXVzdxOXVQNGVVdklKRG55RTZkTW5CN09ZaXc2bzNSZ3EwX1pjYms5NTBwQkRaSm5CRDZ3aHBGekM2UGdBY2FPTzgwYzJwN1hoSElPNE9acG1teG8zZzRyQU9POGhBME9ELU44MWJxOA?oc=5",
+          "publishedAt": "2026-10-26T23:45:33.000Z",
+          "source": "8world"
+        },
+        {
+          "title": "埃及将向沙特派兵，总统塞西：向沙特提供军事支持是为了“保卫沙特领土，但不包括对也门发动攻击”",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU09MV05VOVdvX1RtREtwc1pGU0lHUXNEcUNqZmh0cUdiQ3hyYkNPYnRlSlhHRWZPQnRETy1CR2pNRjlzS0x6b1VpdkJjXzB3MVpsbmd4dGNrdVlla1pOVXM3azd1UFgxdFQyeUQzZFJwelNaR1RNSXlMa0UwcTRsRTNzdENNRXFuRHpVYV9JT1NPMV8x?oc=5",
+          "publishedAt": "2026-10-26T23:44:10.000Z",
+          "source": "新浪新闻_手机新浪网"
+        },
+        {
+          "title": "议会批准后，是什么驱使埃及对沙特阿拉伯提供“防御性”支持？",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUFidXlySldGWW5HWExXa1AtWEZnUzh1M0lMbXI2VzhLdURFQk9UczNwcFRVTzFLTE5KNENnbXdXaU5KS0laSFF6SWhXNGdjU2ttV1BMV2tlTTBsNmdzRl9kRlBEbXFnRlk5OWxJSjhzZzhIZi1pZ29saWFyZDMwMnY3YlYtNWlXTldJNldjWGVfYWNBWkt3R3Z5alEtYmttazRtU0k4clktSkdIcWlQeERqNkdSNlQyNUJVRg?oc=5",
+          "publishedAt": "2026-10-26T20:23:42.000Z",
+          "source": "Al-Monitor"
+        },
+        {
+          "title": "埃及也遭遇无人机袭击…是否会演变成中东大战",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWliX3BvYTZLRWttc2ZFazVpWWlMUVFfUGl6bGhaU2k0bGg4bkllbEg5WVpnenpJY2V5ZmI0S19SZC1OczNmSTZOcjAyWkc4MXJZVU1QaVZuSlM5VkVqVjdUZjEyRG14ZG5UbTZFcGU5YVZOaWd1OF8xZ1ltWEl4Zk9WUV9Tek9zQmlWUG9zX0habU1hZW84ZEdDZ3BwUmRV?oc=5",
+          "publishedAt": "2026-10-26T20:01:40.000Z",
+          "source": "朝鮮日報中文版"
+        },
+        {
+          "title": "埃及议会批准总统提议 同意向沙特阿拉伯派遣军队",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaVVzaUNVbk5tcVE1QTliOERVOGtsbWdWTzIyemRKNGhKLXl3QzRZd3B6UkVVYUxKekFQeERBdHdNUkJpdVh2QWxnX3JHa1hkeXpDS2JpOEMwTk4wY015ZXJFX0pTME9SU0xGUHJvN1NIZFJwbGEwU2JSX3I5VjJxczF4SkI0Z1FtekgwMWw4M3FuSW9UQmJrS0ZZcmdPeWh3TnYzZ2hxMFZLT0lxQ2JiTDNzTQ?oc=5",
+          "publishedAt": "2026-10-26T19:44:32.000Z",
+          "source": "新浪新闻_手机新浪网"
+        },
+        {
+          "title": "古特雷斯在埃及警告美伊冲突升级风险",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qSElyWXFsd1Z3Q08zTThkdThVOEFIQmtPMTFUMlMzNkJyQURPUl9ycDF2WW5oSXVXTjRjZjhvWUpPOE91cWRHX0l2RG5VS1NpbHJ4NFlXbw?oc=5",
+          "publishedAt": "2026-10-26T17:27:15.000Z",
+          "source": "UN News"
+        },
+        {
+          "title": "埃及议会批准总统提议，同意向沙特派遣军队",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VX1U3Qk5NTTlQaDVqWldMSno3clBua1NyWFU1bFk3RjRtX25nV3hMQ05FVGlZRXhpdVU2ZDZOMUF2Um5kTXUtb2lON2dXQkJUN1d0MUNIa0V2MmZLWXFjZjA2R1hCTEtxdU54N1A0TmJDRjg4RTZJeg?oc=5",
+          "publishedAt": "2026-10-26T15:42:01.000Z",
+          "source": "新浪财经"
+        },
+        {
+          "title": "埃及议会授权总统采取措施支持沙特阿拉伯",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52dGx0UVV4REZHTjNqQjFpTWoyaG1zamg4Q0ZJX1NEcmVFTlNTWnBPZmtBY3B6NXZ6UjN5bXdGdkpDdXVpZTJsRWI3TUcyWHJQR29XNGh0Ylo5ME1KYV9GTnZ3ZHcxV1lScUQtNl9zTFUzOExVVXFIVWNsT21HSTQ?oc=5",
+          "publishedAt": "2026-10-26T15:39:59.000Z",
+          "source": "新华网"
+        },
+        {
+          "title": "中国石化用5年的时间在非洲做了什么",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaW1ILXZtWDhmQ1hzTEFsd2FDT3V4LWVPaVdkSS1VN3M5X29Xd0dKbGlaa1g4MkhHV1YzbEhxbVFtdW5pRTF3dFQyalkwQm9CM1VqTThhMDliT2NiYXM3WXVCNi1GOHVpR0QzNGNmMkhhbTNyS3cwVE04d0NHOGZybkxvaVNiY3lBZS1sMA?oc=5",
+          "publishedAt": "2026-10-26T14:41:06.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "埃及议会批准向沙特提供军事支持",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwSTZCNkhWbkYwNEtlUWVIZ0VjQ08wekk1ZzlGb1pQWThMUGRDaTdaRjZWU3pUeTlVTU1PUUdKWE8wX3dxbGMxVTlOaGlwZFl6NV9rcTNoT0JzNXIzMWhRQkx2V2djU21LWGc?oc=5",
+          "publishedAt": "2026-10-26T14:21:36.000Z",
+          "source": "联合早报"
+        },
+        {
+          "title": "埃及议会同意对沙特提供军事支持",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5neFkzTU1yLTR4Z2F5R2VVUjExMmU5WjhTZ2NYcm9VQWpoNFAtQkQweHZsWEJrYmRvcmlac281ai1iald1dlZVcF94VzNNRzFMeFNRcVZpUmQ0ZUN1bmdRRU9yVmJGN3JvUkE?oc=5",
+          "publishedAt": "2026-10-26T14:02:00.000Z",
+          "source": "紫牛新闻"
+        },
+        {
+          "title": "埃及议会批准总统提议：同意向沙特阿拉伯派遣军队",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYUV4c0IxVkpLVmJVcGJSaTAtMXU0QTNDYUZnTzQ3Q0hiYUdaSjZuTGd5RjZablJzLW9oLWdHVENIbEplYUUwYlpDbUdfY3VXelV2aHdrQk9vek9BQlpSZzBvM3N4bEtyc054NC13cFFYX01JTnJ0OVZ2Mk5tc3lWOXFVd3M?oc=5",
+          "publishedAt": "2026-10-26T13:48:47.000Z",
+          "source": "新浪财经"
+        }
+      ]
+    },
+    "KR": {
+      "updatedAt": "2026-10-27T01:38:56.829Z",
+      "feedUrl": "https://news.google.com/rss/search?q=%E9%9F%A9%E5%9B%BD%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "articles": [
+        {
+          "title": "韩国女团张元英和赵露思宁艺卓居然认识呀，看起来三个人私下关系应该挺好的",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ncjVwa0lsenNDZTEwWDlRbWZmbHVUemN6aTNROUpZcDV2YmdKNzJkNW82WVpJY1BZWXlpcUZDbk9qekNXa0IxZ0pxeUVxY0RyTHUwemJVWXZPT0tSajhNS1JuZDQ2S1p5eHM4YW9WMUR0QQ?oc=5",
+          "publishedAt": "2026-10-27T01:36:59.000Z",
+          "source": "手机新浪网"
+        },
+        {
+          "title": "韩国“农村观光带”：从流量到留量",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRFF1dkRWcjhUcGZVTElVeHVIWnRZNEtiY1B6NHZwcy1pTWlVMjd6cHI0VjZ3Y21tX0dzTHFJQ2J3ZGI5NVlmRkRNSjM2Y1Z3NGRNcmMwbEZpeUc1NktoM3NjRm5LZDJkMENRTHZScUhXX3ZjRzRfZG1xNHEtY1JiVUU1X3lPdw?oc=5",
+          "publishedAt": "2026-10-27T01:33:11.000Z",
+          "source": "新华网"
+        },
+        {
+          "title": "韩国股市暴涨",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUE4X0IxQmpxZnVQQmV6T3hlNEV2b2Vma1JoVjJoYmh3ZlFHMkhpcWtzWmR0NThnY2RvNzNfWndCMTZyb0xOUGtoMGpHYTZsQXhFbVVWclRBU3Z2eElUd0w1OEpnY3VfMFFkOVpKQnNydUFtZldTNmw2Yl9oLVVkTEhtcy1IR1lfZ1dacjl2bw?oc=5",
+          "publishedAt": "2026-10-27T01:16:29.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "韩国央行官员：受HBM产品带动，预计明年芯片产量将上升-36氪",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PU1NxUXpENzcwNXRnelI0R3M3Tk1wYVNCT0x3SUZ2X3RuSE0xSmZfbVBZbjJjMndzbjhJRWdHX1RXRGhGVUFseko5OTZhc2Q3V3d2MXlVWFI?oc=5",
+          "publishedAt": "2026-10-27T01:05:57.000Z",
+          "source": "36kr.com"
+        },
+        {
+          "title": "韩国可再生能源装机首超煤电",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yeFUwMEhVSFpka2hQNG5iV0xXdFhLWmM3N2lOZTdqdVktaTJLeWpFaVFfd21JZzRIWHJFa3NOeEpPMUN2QlpnM0xjTzgtV0RxeVFfM0R0R1RjbDkyZlpJR1gwMzg?oc=5",
+          "publishedAt": "2026-10-27T00:53:08.000Z",
+          "source": "煤炭资源网"
+        },
+        {
+          "title": "韩国存储巨头员工成首位客户，极氪7X正式开启韩国交付",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JR0NCN2N2NXVnZ1M5NXRBX01JQ2oxOHJFcmlYSlk2WDVMVGkwM0pTblpVRE91UU9zemFyREljaEMzcm1wajZCSUtuUUNVMnJDaGg2Q2kzTjA5NjhNQ0E?oc=5",
+          "publishedAt": "2026-10-27T00:52:30.000Z",
+          "source": "太平洋汽车"
+        },
+        {
+          "title": "韩国存储芯片股，上涨",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PR3Y2TW5TNHVidDIwVHA4R2JpSjVIWTlrbG5TUXBEZ1lBaEtaYXNnOHh0Qmx6OG83TWNySkcwQ0VVWGZlendkb0V2NVpLdFJHVDkw?oc=5",
+          "publishedAt": "2026-10-27T00:50:00.000Z",
+          "source": "电子工程专辑"
+        },
+        {
+          "title": "韩国视听服务顺差的发展逻辑与启示",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fdnRrSnNFZ29neHF4em5ZSVBMcDAtSWJPOUltNHFFMkhYcS1rdjZUVGxnTHJiazlDOEJ4Ty1NWEVURWI1Z0ZlUGhDTXlVNGptQWFtTDE1czdhUTVTRF9vY2xuOW0wVlpXTWJv?oc=5",
+          "publishedAt": "2026-10-27T00:49:00.000Z",
+          "source": "流媒体网"
+        },
+        {
+          "title": "“有可比数据以来首次”！韩国首次超过德日总和，仅次于中国",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwVVJWQkE0UDFhWkpmdlIzdE1jN3lTUzh1a0xxLWE2WVBRM0pEY3JJMXZkdm13aE45WHQzbHVUX1dXMmNNV2lJNmRJeVlxNEdXZjMtQU1xeFF3UlR2V0c2dGNwSWxqaUNlNS1TbV9CSWNPWDNvMHRBMA?oc=5",
+          "publishedAt": "2026-10-27T00:41:31.000Z",
+          "source": "新浪财经"
+        },
+        {
+          "title": "HBM景气再添官方背书！韩国央行看好行情，SK海力士、三星电子大涨",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQmVCX3VDLURMLVFaOWF0M2taVHdBZWt1VjlHYXVXSEEyS1lwQzc4U1N4UHZzbFV0eXpzYl9GWWdtMTlON09IZWxydm54bmhVNXlTa1N3TDJxNEM5R2QwXzZWSHlSSmRHcnlmeUVNb3FXWWVJUlVGT2lfdE43Znd1RmhCREg2VE1VbzBmeg?oc=5",
+          "publishedAt": "2026-10-27T00:40:00.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "日韩开盘：韩国股市，大涨超3%！日股涨幅扩大",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2tZYkhKTFUwbG9TWTN5cTlJZnZPU2gtSUJMbnJyT09ITUUzN3pRamRfQjdCd0d4bkpQNjNuY0R4ZHRnRjBXLTYtdzE4c0VfaHM2UWd4anVwcTQyTTUxWUdNYkQ3MllmR0F5cnFDdzdrVGhhT1AxMnAwVkc0WWU4RG9NNXN3a0x1?oc=5",
+          "publishedAt": "2026-10-27T00:39:04.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "日韩股市双双高开，韩国存储双雄开盘大涨，SK海力士涨逾6%",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNWVvb3UwQlUwV2lqRGh6em40RzhwTzVUeS1TUUJuTzZhQWZQeFFQalpqUGZiMmIycGpCdW4zbGxiNGtfMFlFd3BvME1jQ0ZVYnZMZ0RUTkpURjFKRUFrUFc2Y3FIMlMtYTV0cmNVamxTQktFOV82V0xRZWlsSDNlNU44NWg2RUczQVk3eW5aVQ?oc=5",
+          "publishedAt": "2026-10-27T00:37:00.000Z",
+          "source": "21财经"
+        }
+      ]
+    },
+    "MX": {
+      "updatedAt": "2026-10-27T01:38:57.574Z",
+      "feedUrl": "https://news.google.com/rss/search?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "articles": [
+        {
+          "title": "墨西哥总统称多次拒绝美方入境开展缉毒行动的 要求",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVUtSjR5UnVCemZreU1NT0RKcE9JVGEtWVZUekZZLWZyT3YzeXZSa3UxamwtZ3hzS0N1bmlVR2ZhQWVmYkwxYWlPclc2N3dUclJONVM5Q0Q5dUlTV2J6ZjFqamRtWktjWWswZGctbTVDbU9wSUIxMVZkNUU3dGxTSTBTWUxiRjdD?oc=5",
+          "publishedAt": "2026-10-27T00:30:49.000Z",
+          "source": "搜狐网"
+        },
+        {
+          "title": "墨西哥传统果蔬零售业态中食物浪费减缓的结构性与运营性障碍",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84YzZKcndhaHJNMzgwSFVXakdpWHVHQmN6MEU5SEY4czctS2dneFl3YUhDRF9tNWw0SlpLQXV5UW1ldGRJclJBQU94a0prNlMyX1htaFBSSjEzb2xGdW5tcHptSm5tU245NzA4bXV3?oc=5",
+          "publishedAt": "2026-10-26T23:59:59.000Z",
+          "source": "生物通"
+        },
+        {
+          "title": "墨西哥裔美国人糖尿病前期相关性状与营养摄入关联的非靶向血浆代谢组学特征：Starr County, Texas横断面研究",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41S2RpeldEczJxX3Y2U2dvUjBlOV94ZWxWXzZsWE15T2Z0LTFQZ21lQkxGTThNR1pmUVN5UEZhaTNnSnJWOFVNV3RIQzhGcUU0TVB6V3VWWl9ha0JNMnNJNEcybzljcVhPX2Y3WlR3?oc=5",
+          "publishedAt": "2026-10-26T23:59:59.000Z",
+          "source": "生物通"
+        },
+        {
+          "title": "有尾两栖类墨西哥钝口螈幼虫性腺分化过程中Sox9与Vasa基因的表达研究",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oYjJnVkc2Yy1Sa1ZKSEpSWUhLbEQwV1FCSE5LOC1YLW9tcG5Hb3cwLXU0UHF0Y3hkcDUtM0lMWXhEV0U3aF9mdWpuRkRodXVQME9aZzU2ZlJfQWhvUUFEaVExRUtTd1dkWWJsNkpR?oc=5",
+          "publishedAt": "2026-10-26T23:59:59.000Z",
+          "source": "生物通"
+        },
+        {
+          "title": "墨西哥软蜱Otobius megnini微生物组的探索性比较：两个独立16S rRNA数据集的分类组成、共现网络与PICRUSt2预测功能谱",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jQUg5MEdja0tZQ0tINTBjVllSYXFJeFJVS2FxR3lSbThlVkFwNVRSS1pYV3FrOUpxQ28yMmlLTkhOcC1nYl95cV84Q2llQmJZTWc2LTNXRVdiNGx2RnEycVk1eHpiSzBHODRrc1hR?oc=5",
+          "publishedAt": "2026-10-26T23:59:59.000Z",
+          "source": "生物通"
+        },
+        {
+          "title": "墨西哥总统称多次拒绝美方入境开展缉毒行动的要求",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92Z3NwdzJYOWY0WVV2eGxTWjdFRTJTMGtYOURqVmpObmJ3Zzd6ank3NDVIQTlLeFM0aEtuWTBzOVZvOWlyU0hqaXlYLWJXbXN4TjdsSEFDUUFHbkMxSVdxeQ?oc=5",
+          "publishedAt": "2026-10-26T21:22:00.000Z",
+          "source": "ThePaper.cn"
+        },
+        {
+          "title": "奇波雷墨西哥烧烤将于11月5日起重新推出烟熏牛腩",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVhsbWdQTXp4YTllUWg5bXBvTnBPRHhvQ21KQ0txRDJrMWFJNXE1QV9lb3A4cTFTaFZVSnI0WGhsd1hWZGJxWmhQTGRTd3IzZWpEMmNmSnQ2NFVlOGU4alhtcnkyNkhON0Vna19XaW94ME1vaE1EM21kNHFZajBBVUUzTEN3Mk1DblB0TjhrdmVaUTMyTEFyVHc3NTNvZw?oc=5",
+          "publishedAt": "2026-10-26T18:25:43.000Z",
+          "source": "Moomoo"
+        },
+        {
+          "title": "#乔治拉塞尔# 🇲🇽#2026F1墨西哥城大奖赛# ​",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04UXJyWUgwM2I3Qk5mR0U1QWNjS0lkdHh5N3gtOUVadkg2eHVJejlYaTZYTklGdXlXamRQUWlJYlZJZ25iNWZfT3lNVTVFUjNjTWszZ1A4TFlYV1NBdnBoN3RrSQ?oc=5",
+          "publishedAt": "2026-10-26T17:07:00.000Z",
+          "source": "手机新浪网"
+        },
+        {
+          "title": "墨西哥航空表示，从墨......_7x24快讯_新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpd3RKb3ctQUhiQ21WNFQ0b0VvTFlkTXdjMkhhOHNqalA4aFVlUEJtMmppUlR3dk9vcTFFTl9IbW5tZDFLYVNRamZBdw?oc=5",
+          "publishedAt": "2026-10-26T15:51:01.000Z",
+          "source": "手机新浪网"
+        },
+        {
+          "title": "墨西哥航空与达美航空宣布，自墨西哥城国际机场新开三条航线。",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42cDYwQjRNQlhzSWNnRks0SGczQUNfbFBiQmNna3NoRGR4YnVDLXRlYVZpTGFZcGEyVHBqQXYxN3o4dHNYcFRsdG1pYw?oc=5",
+          "publishedAt": "2026-10-26T15:49:56.000Z",
+          "source": "手机新浪网"
+        },
+        {
+          "title": "墨西哥总统：我们一直反对美国在墨西哥开展安全行动。",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VNHRlZVJHUmJfSTd6cVlWMk85dHcwTjhlTnV5MUE2bTRHdURMVDdYTzFiT0xYNWFLSFZIa3NuUENxZDhvWC1lOWMwSQ?oc=5",
+          "publishedAt": "2026-10-26T14:29:06.000Z",
+          "source": "手机新浪网"
+        },
+        {
+          "title": "视界｜墨西哥城举办“卡特里娜游行”",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0c5YWllSW1uVU9USnBCRWY4cGdpZVdLYTVaOHptTGR5RklJeXR6UzNKVnJxbzJJRlFIZS11cDk1WEtQMWdTOEhOV29CT01yQldlR3JqeklBdVU0VS11MDJMcjZ5b3pEaFhZYnF1VUZVclVlU2QwSnNWUk1ob2NDOHRUUmFkM09m?oc=5",
+          "publishedAt": "2026-10-26T14:23:50.000Z",
+          "source": "搜狐网"
+        }
+      ]
+    }
+  }
+}
