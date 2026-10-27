@@ -1,0 +1,3319 @@
+{
+  "AL": {
+    "language": "en",
+    "edition": "AL",
+    "domains": [
+      "albaniandailynews.com",
+      "al"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Albania",
+      "Shqipëria"
+    ]
+  },
+  "DZ": {
+    "language": "fr",
+    "edition": "DZ",
+    "domains": [
+      "aps.dz",
+      "elwatan.com",
+      "dz"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Algeria",
+      "الجزائر"
+    ]
+  },
+  "AF": {
+    "language": "en",
+    "edition": "AF",
+    "domains": [
+      "tolonews.com",
+      "pajhwok.com",
+      "af"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Afghanistan",
+      "افغانستان",
+      "Owganystan"
+    ]
+  },
+  "AR": {
+    "language": "es-419",
+    "edition": "AR",
+    "domains": [
+      "clarin.com",
+      "lanacion.com.ar",
+      "buenosairesherald.com",
+      "ar"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Argentina"
+    ]
+  },
+  "AE": {
+    "language": "ar",
+    "edition": "AE",
+    "domains": [
+      "gulfnews.com",
+      "thenationalnews.com",
+      "khaleejtimes.com",
+      "ae"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "United Arab Emirates",
+      "الإمارات"
+    ]
+  },
+  "AW": {
+    "language": "en",
+    "edition": "AW",
+    "domains": [
+      "arubatoday.com",
+      "aw"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Aruba"
+    ]
+  },
+  "OM": {
+    "language": "en",
+    "edition": "OM",
+    "domains": [
+      "timesofoman.com",
+      "omanobserver.om",
+      "om"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Oman",
+      "عمان"
+    ]
+  },
+  "AZ": {
+    "language": "en",
+    "edition": "AZ",
+    "domains": [
+      "azernews.az",
+      "trend.az",
+      "az"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Azerbaijan",
+      "Azərbaycan",
+      "Азербайджан"
+    ]
+  },
+  "EG": {
+    "language": "ar",
+    "edition": "EG",
+    "domains": [
+      "dailynewsegypt.com",
+      "egypttoday.com",
+      "ahram.org.eg",
+      "eg"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Egypt",
+      "مصر"
+    ]
+  },
+  "ET": {
+    "language": "en",
+    "edition": "ET",
+    "domains": [
+      "addisstandard.com",
+      "ethiopianmonitor.com",
+      "et"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Ethiopia",
+      "ኢትዮጵያ"
+    ]
+  },
+  "IE": {
+    "language": "en",
+    "edition": "IE",
+    "domains": [
+      "rte.ie",
+      "irishtimes.com",
+      "independent.ie",
+      "ie"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Ireland",
+      "Éire"
+    ]
+  },
+  "EE": {
+    "language": "et",
+    "edition": "EE",
+    "domains": [
+      "err.ee",
+      "ee"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Estonia",
+      "Eesti"
+    ]
+  },
+  "AD": {
+    "language": "en",
+    "edition": "AD",
+    "domains": [
+      "diariandorra.ad",
+      "ad"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Andorra"
+    ]
+  },
+  "AO": {
+    "language": "en",
+    "edition": "AO",
+    "domains": [
+      "ao"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Angola"
+    ]
+  },
+  "AI": {
+    "language": "en",
+    "edition": "AI",
+    "domains": [
+      "theanguillian.com",
+      "anguillafocus.com"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Anguilla"
+    ]
+  },
+  "AG": {
+    "language": "en",
+    "edition": "AG",
+    "domains": [
+      "antiguaobserver.com",
+      "antiguanewsroom.com",
+      "ag"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Antigua and Barbuda"
+    ]
+  },
+  "AT": {
+    "language": "de",
+    "edition": "AT",
+    "domains": [
+      "orf.at",
+      "derstandard.at",
+      "at"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Austria",
+      "Österreich"
+    ]
+  },
+  "AX": {
+    "language": "en",
+    "edition": "AX",
+    "domains": [
+      "ax"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Åland Islands",
+      "Åland"
+    ]
+  },
+  "AU": {
+    "language": "en",
+    "edition": "AU",
+    "domains": [
+      "abc.net.au",
+      "sbs.com.au",
+      "news.com.au",
+      "smh.com.au",
+      "au"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Australia"
+    ]
+  },
+  "BB": {
+    "language": "en",
+    "edition": "BB",
+    "domains": [
+      "nationnews.com",
+      "barbadostoday.bb",
+      "bb"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Barbados"
+    ]
+  },
+  "PG": {
+    "language": "en",
+    "edition": "PG",
+    "domains": [
+      "thenational.com.pg",
+      "postcourier.com.pg",
+      "pg"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Papua New Guinea",
+      "Papua Niu Gini",
+      "Papua Niugini"
+    ]
+  },
+  "BS": {
+    "language": "en",
+    "edition": "BS",
+    "domains": [
+      "tribune242.com",
+      "thenassauguardian.com",
+      "bs"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Bahamas"
+    ]
+  },
+  "PK": {
+    "language": "en",
+    "edition": "PK",
+    "domains": [
+      "dawn.com",
+      "tribune.com.pk",
+      "thenews.com.pk",
+      "geo.tv",
+      "pk"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Pakistan",
+      "پاكستان"
+    ]
+  },
+  "PY": {
+    "language": "es-419",
+    "edition": "PY",
+    "domains": [
+      "abc.com.py",
+      "ultimahora.com",
+      "py"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Paraguay",
+      "Paraguái"
+    ]
+  },
+  "PS": {
+    "language": "en",
+    "edition": "PS",
+    "domains": [
+      "wafa.ps",
+      "maannews.net",
+      "ps"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Palestine",
+      "فلسطين"
+    ]
+  },
+  "BH": {
+    "language": "en",
+    "edition": "BH",
+    "domains": [
+      "newsofbahrain.com",
+      "gdnonline.com",
+      "bh"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Bahrain",
+      "البحرين"
+    ]
+  },
+  "PA": {
+    "language": "en",
+    "edition": "PA",
+    "domains": [
+      "prensa.com",
+      "laestrella.com.pa",
+      "pa"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Panama",
+      "Panamá"
+    ]
+  },
+  "BR": {
+    "language": "pt-419",
+    "edition": "BR",
+    "domains": [
+      "agenciabrasil.ebc.com.br",
+      "globo.com",
+      "folha.uol.com.br",
+      "estadao.com.br",
+      "br"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Brazil",
+      "Brasil"
+    ]
+  },
+  "BY": {
+    "language": "en",
+    "edition": "BY",
+    "domains": [
+      "belta.by",
+      "by"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Belarus",
+      "Белару́сь",
+      "Беларусь"
+    ]
+  },
+  "BM": {
+    "language": "en",
+    "edition": "BM",
+    "domains": [
+      "royalgazette.com",
+      "bm"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Bermuda"
+    ]
+  },
+  "BG": {
+    "language": "bg",
+    "edition": "BG",
+    "domains": [
+      "novinite.com",
+      "bg"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Bulgaria",
+      "България"
+    ]
+  },
+  "MP": {
+    "language": "en",
+    "edition": "MP",
+    "domains": [
+      "saipantribune.com",
+      "mvariety.com",
+      "mp"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Northern Mariana Islands",
+      "Na Islas Mariånas"
+    ]
+  },
+  "MK": {
+    "language": "en",
+    "edition": "MK",
+    "domains": [
+      "mia.mk",
+      "mk"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "North Macedonia",
+      "Македонија"
+    ]
+  },
+  "BJ": {
+    "language": "en",
+    "edition": "BJ",
+    "domains": [
+      "lanouvelletribune.info",
+      "bj"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Benin",
+      "Bénin"
+    ]
+  },
+  "BE": {
+    "language": "fr",
+    "edition": "BE",
+    "domains": [
+      "vrt.be",
+      "rtbf.be",
+      "be"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Belgium",
+      "Belgien",
+      "Belgique",
+      "België"
+    ]
+  },
+  "IS": {
+    "language": "en",
+    "edition": "IS",
+    "domains": [
+      "icelandreview.com",
+      "icelandmonitor.mbl.is",
+      "is"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Iceland",
+      "Ísland"
+    ]
+  },
+  "PR": {
+    "language": "en",
+    "edition": "PR",
+    "domains": [
+      "elnuevodia.com",
+      "elvocero.com",
+      "pr"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Puerto Rico"
+    ]
+  },
+  "PL": {
+    "language": "pl",
+    "edition": "PL",
+    "domains": [
+      "notesfrompoland.com",
+      "pl"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Poland",
+      "Polska"
+    ]
+  },
+  "BA": {
+    "language": "en",
+    "edition": "BA",
+    "domains": [
+      "sarajevotimes.com",
+      "ba"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Bosnia and Herzegovina",
+      "Bosna i Hercegovina",
+      "Боснa и Херцеговина"
+    ]
+  },
+  "BO": {
+    "language": "es-419",
+    "edition": "BO",
+    "domains": [
+      "eldeber.com.bo",
+      "lostiempos.com",
+      "bo"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Bolivia",
+      "Wuliwya",
+      "Volívia",
+      "Buliwya"
+    ]
+  },
+  "BZ": {
+    "language": "en",
+    "edition": "BZ",
+    "domains": [
+      "amandala.com.bz",
+      "breakingbelizenews.com",
+      "bz"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Belize",
+      "Belice"
+    ]
+  },
+  "BW": {
+    "language": "en",
+    "edition": "BW",
+    "domains": [
+      "mmegi.bw",
+      "sundaystandard.info",
+      "bw"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Botswana"
+    ]
+  },
+  "BT": {
+    "language": "en",
+    "edition": "BT",
+    "domains": [
+      "kuenselonline.com",
+      "bt"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Bhutan",
+      "འབྲུག་ཡུལ་"
+    ]
+  },
+  "BF": {
+    "language": "en",
+    "edition": "BF",
+    "domains": [
+      "lefaso.net",
+      "bf"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Burkina Faso"
+    ]
+  },
+  "BI": {
+    "language": "en",
+    "edition": "BI",
+    "domains": [
+      "bi"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Burundi",
+      "Uburundi"
+    ]
+  },
+  "KP": {
+    "language": "en",
+    "edition": "KP",
+    "domains": [
+      "kp"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "North Korea",
+      "조선"
+    ]
+  },
+  "GQ": {
+    "language": "en",
+    "edition": "GQ",
+    "domains": [
+      "gq"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Equatorial Guinea",
+      "Guinée équatoriale",
+      "Guiné Equatorial",
+      "Guinea Ecuatorial"
+    ]
+  },
+  "DK": {
+    "language": "da",
+    "edition": "DK",
+    "domains": [
+      "dr.dk",
+      "tv2.dk",
+      "dk"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Denmark",
+      "Danmark"
+    ]
+  },
+  "DE": {
+    "language": "de",
+    "edition": "DE",
+    "domains": [
+      "dw.com",
+      "spiegel.de",
+      "zeit.de",
+      "tagesschau.de",
+      "de"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Germany",
+      "Deutschland"
+    ]
+  },
+  "TL": {
+    "language": "en",
+    "edition": "TL",
+    "domains": [
+      "tatoli.tl",
+      "timorpost.com",
+      "tl"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Timor-Leste",
+      "Timór-Leste"
+    ]
+  },
+  "TG": {
+    "language": "en",
+    "edition": "TG",
+    "domains": [
+      "tg"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Togo"
+    ]
+  },
+  "DO": {
+    "language": "en",
+    "edition": "DO",
+    "domains": [
+      "diariolibre.com",
+      "listindiario.com",
+      "do"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Dominican Republic",
+      "República Dominicana"
+    ]
+  },
+  "DM": {
+    "language": "en",
+    "edition": "DM",
+    "domains": [
+      "dominicanewsonline.com",
+      "dm"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Dominica"
+    ]
+  },
+  "RU": {
+    "language": "ru",
+    "edition": "RU",
+    "domains": [
+      "tass.com",
+      "interfax.com",
+      "kommersant.ru",
+      "ru"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Russia",
+      "Россия"
+    ]
+  },
+  "EC": {
+    "language": "es-419",
+    "edition": "EC",
+    "domains": [
+      "eluniverso.com",
+      "primicias.ec",
+      "ec"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Ecuador"
+    ]
+  },
+  "ER": {
+    "language": "en",
+    "edition": "ER",
+    "domains": [
+      "shabait.com",
+      "er"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Eritrea",
+      "إريتريا",
+      "ኤርትራ"
+    ]
+  },
+  "FR": {
+    "language": "fr",
+    "edition": "FR",
+    "domains": [
+      "lemonde.fr",
+      "lefigaro.fr",
+      "france24.com",
+      "francetvinfo.fr",
+      "liberation.fr",
+      "fr"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "France"
+    ]
+  },
+  "FO": {
+    "language": "en",
+    "edition": "FO",
+    "domains": [
+      "kvf.fo",
+      "fo"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Faroe Islands",
+      "Færøerne",
+      "Føroyar"
+    ]
+  },
+  "PF": {
+    "language": "en",
+    "edition": "PF",
+    "domains": [
+      "tahiti-infos.com",
+      "pf"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "French Polynesia",
+      "Polynésie française"
+    ]
+  },
+  "GF": {
+    "language": "en",
+    "edition": "GF",
+    "domains": [
+      "gf"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "French Guiana",
+      "Guyane française"
+    ]
+  },
+  "TF": {
+    "language": "en",
+    "edition": "TF",
+    "domains": [
+      "tf"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "French Southern and Antarctic Lands",
+      "Terres australes et antarctiques françaises"
+    ]
+  },
+  "MF": {
+    "language": "en",
+    "edition": "MF",
+    "domains": [
+      "mf"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Saint Martin",
+      "Saint-Martin"
+    ]
+  },
+  "VA": {
+    "language": "en",
+    "edition": "VA",
+    "domains": [
+      "vaticannews.va",
+      "va"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Vatican City",
+      "Vaticano",
+      "Vaticanæ"
+    ]
+  },
+  "PH": {
+    "language": "en",
+    "edition": "PH",
+    "domains": [
+      "inquirer.net",
+      "philstar.com",
+      "rappler.com",
+      "abs-cbn.com",
+      "gmanetwork.com",
+      "ph"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Philippines",
+      "Pilipinas"
+    ]
+  },
+  "FJ": {
+    "language": "en",
+    "edition": "FJ",
+    "domains": [
+      "fijitimes.com.fj",
+      "fbcnews.com.fj",
+      "fj"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Fiji",
+      "Viti",
+      "फिजी"
+    ]
+  },
+  "FI": {
+    "language": "fi",
+    "edition": "FI",
+    "domains": [
+      "yle.fi",
+      "fi"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Finland",
+      "Suomi"
+    ]
+  },
+  "CV": {
+    "language": "en",
+    "edition": "CV",
+    "domains": [
+      "cv"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Cape Verde",
+      "Cabo Verde"
+    ]
+  },
+  "FK": {
+    "language": "en",
+    "edition": "FK",
+    "domains": [
+      "penguin-news.com",
+      "fk"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Falkland Islands"
+    ]
+  },
+  "GM": {
+    "language": "en",
+    "edition": "GM",
+    "domains": [
+      "thepoint.gm",
+      "foroyaa.net",
+      "gm"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Gambia"
+    ]
+  },
+  "CG": {
+    "language": "en",
+    "edition": "CG",
+    "domains": [
+      "adiac-congo.com",
+      "cg"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Congo",
+      "République du Congo",
+      "Repubilika ya Kongo",
+      "Republíki ya Kongó"
+    ]
+  },
+  "CD": {
+    "language": "en",
+    "edition": "CD",
+    "domains": [
+      "actualite.cd",
+      "radiookapi.net",
+      "cd"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "DR Congo",
+      "RD Congo",
+      "Repubilika ya Kongo Demokratiki",
+      "Republiki ya Kongó Demokratiki"
+    ]
+  },
+  "CO": {
+    "language": "es-419",
+    "edition": "CO",
+    "domains": [
+      "eltiempo.com",
+      "elespectador.com"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Colombia"
+    ]
+  },
+  "CR": {
+    "language": "en",
+    "edition": "CR",
+    "domains": [
+      "nacion.com",
+      "ticotimes.net",
+      "cr"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Costa Rica"
+    ]
+  },
+  "GD": {
+    "language": "en",
+    "edition": "GD",
+    "domains": [
+      "nowgrenada.com",
+      "gd"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Grenada"
+    ]
+  },
+  "GL": {
+    "language": "en",
+    "edition": "GL",
+    "domains": [
+      "sermitsiaq.ag",
+      "gl"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Greenland",
+      "Kalaallit Nunaat"
+    ]
+  },
+  "GE": {
+    "language": "en",
+    "edition": "GE",
+    "domains": [
+      "civil.ge",
+      "agenda.ge",
+      "ge"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Georgia",
+      "საქართველო"
+    ]
+  },
+  "GG": {
+    "language": "en",
+    "edition": "GG",
+    "domains": [
+      "guernseypress.com"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Guernsey",
+      "Guernesey",
+      "Dgèrnésiais"
+    ]
+  },
+  "CU": {
+    "language": "es-419",
+    "edition": "CU",
+    "domains": [
+      "granma.cu",
+      "prensa-latina.cu",
+      "cu"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Cuba"
+    ]
+  },
+  "GP": {
+    "language": "en",
+    "edition": "GP",
+    "domains": [
+      "gp"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Guadeloupe"
+    ]
+  },
+  "GU": {
+    "language": "en",
+    "edition": "GU",
+    "domains": [
+      "guampdn.com",
+      "postguam.com",
+      "gu"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Guam",
+      "Guåhån"
+    ]
+  },
+  "GY": {
+    "language": "en",
+    "edition": "GY",
+    "domains": [
+      "stabroeknews.com",
+      "demerarawaves.com",
+      "gy"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Guyana"
+    ]
+  },
+  "KZ": {
+    "language": "en",
+    "edition": "KZ",
+    "domains": [
+      "astanatimes.com",
+      "inform.kz",
+      "kz"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Kazakhstan",
+      "Қазақстан",
+      "Казахстан"
+    ]
+  },
+  "HT": {
+    "language": "en",
+    "edition": "HT",
+    "domains": [
+      "lenouvelliste.com",
+      "ht"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Haiti",
+      "Haïti",
+      "Ayiti"
+    ]
+  },
+  "KR": {
+    "language": "ko",
+    "edition": "KR",
+    "domains": [
+      "yna.co.kr",
+      "koreatimes.co.kr",
+      "koreaherald.com",
+      "chosun.com",
+      "kr"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "South Korea",
+      "한국"
+    ]
+  },
+  "NL": {
+    "language": "nl",
+    "edition": "NL",
+    "domains": [
+      "nos.nl",
+      "nltimes.nl",
+      "nl"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Netherlands",
+      "Nederland"
+    ]
+  },
+  "BQ": {
+    "language": "en",
+    "edition": "BQ",
+    "domains": [
+      "bq"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Caribbean Netherlands",
+      "Caribisch Nederland",
+      "Boneiru, Sint Eustatius y Saba"
+    ]
+  },
+  "SX": {
+    "language": "en",
+    "edition": "SX",
+    "domains": [
+      "thedailyherald.sx",
+      "sx"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Sint Maarten",
+      "Saint-Martin"
+    ]
+  },
+  "ME": {
+    "language": "en",
+    "edition": "ME",
+    "domains": [
+      "vijesti.me"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Montenegro",
+      "Црна Гора"
+    ]
+  },
+  "HN": {
+    "language": "en",
+    "edition": "HN",
+    "domains": [
+      "laprensa.hn",
+      "elheraldo.hn",
+      "hn"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Honduras"
+    ]
+  },
+  "KI": {
+    "language": "en",
+    "edition": "KI",
+    "domains": [
+      "kiribati.gov.ki",
+      "ki"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Kiribati"
+    ]
+  },
+  "DJ": {
+    "language": "en",
+    "edition": "DJ",
+    "domains": [
+      "lanation.dj",
+      "dj"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Djibouti",
+      "جيبوتي"
+    ]
+  },
+  "KG": {
+    "language": "en",
+    "edition": "KG",
+    "domains": [
+      "24.kg",
+      "akipress.com",
+      "kg"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Kyrgyzstan",
+      "Кыргызстан",
+      "Киргизия"
+    ]
+  },
+  "GN": {
+    "language": "en",
+    "edition": "GN",
+    "domains": [
+      "gn"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Guinea",
+      "Guinée"
+    ]
+  },
+  "GW": {
+    "language": "en",
+    "edition": "GW",
+    "domains": [
+      "gw"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Guinea-Bissau",
+      "Guiné-Bissau"
+    ]
+  },
+  "CA": {
+    "language": "en",
+    "edition": "CA",
+    "domains": [
+      "cbc.ca",
+      "ctvnews.ca",
+      "theglobeandmail.com",
+      "globalnews.ca",
+      "ca"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Canada"
+    ]
+  },
+  "GH": {
+    "language": "en",
+    "edition": "GH",
+    "domains": [
+      "myjoyonline.com",
+      "graphic.com.gh",
+      "citinewsroom.com",
+      "gh"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Ghana"
+    ]
+  },
+  "GA": {
+    "language": "en",
+    "edition": "GA",
+    "domains": [
+      "gabonreview.com",
+      "ga"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Gabon"
+    ]
+  },
+  "KH": {
+    "language": "en",
+    "edition": "KH",
+    "domains": [
+      "phnompenhpost.com",
+      "khmertimeskh.com",
+      "kh"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Cambodia",
+      "Kâmpŭchéa"
+    ]
+  },
+  "CZ": {
+    "language": "cs",
+    "edition": "CZ",
+    "domains": [
+      "expats.cz",
+      "english.radio.cz",
+      "cz"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Czechia",
+      "Česko"
+    ]
+  },
+  "ZW": {
+    "language": "en",
+    "edition": "ZW",
+    "domains": [
+      "herald.co.zw",
+      "newsday.co.zw",
+      "zw"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Zimbabwe"
+    ]
+  },
+  "CM": {
+    "language": "en",
+    "edition": "CM",
+    "domains": [
+      "cameroon-tribune.cm",
+      "journalducameroun.com",
+      "cm"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Cameroon",
+      "Cameroun"
+    ]
+  },
+  "QA": {
+    "language": "en",
+    "edition": "QA",
+    "domains": [
+      "aljazeera.com",
+      "gulf-times.com",
+      "thepeninsulaqatar.com",
+      "qa"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Qatar",
+      "قطر"
+    ]
+  },
+  "KY": {
+    "language": "en",
+    "edition": "KY",
+    "domains": [
+      "caymancompass.com",
+      "ky"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Cayman Islands"
+    ]
+  },
+  "CC": {
+    "language": "en",
+    "edition": "CC",
+    "domains": [
+      "shire.cc"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Cocos (Keeling) Islands"
+    ]
+  },
+  "KM": {
+    "language": "en",
+    "edition": "KM",
+    "domains": [
+      "lagazettedescomores.com",
+      "km"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Comoros",
+      "جزر القمر",
+      "Comores",
+      "Komori"
+    ]
+  },
+  "CI": {
+    "language": "en",
+    "edition": "CI",
+    "domains": [
+      "abidjan.net",
+      "fratmat.info",
+      "ci"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Ivory Coast",
+      "Côte d'Ivoire"
+    ]
+  },
+  "KW": {
+    "language": "en",
+    "edition": "KW",
+    "domains": [
+      "arabtimesonline.com",
+      "kuwaittimes.com",
+      "kw"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Kuwait",
+      "الكويت"
+    ]
+  },
+  "HR": {
+    "language": "hr",
+    "edition": "HR",
+    "domains": [
+      "total-croatia-news.com",
+      "hr"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Croatia",
+      "Hrvatska"
+    ]
+  },
+  "KE": {
+    "language": "en",
+    "edition": "KE",
+    "domains": [
+      "nation.africa",
+      "standardmedia.co.ke",
+      "citizen.digital",
+      "ke"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Kenya"
+    ]
+  },
+  "CK": {
+    "language": "en",
+    "edition": "CK",
+    "domains": [
+      "cookislandsnews.com",
+      "ck"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Cook Islands",
+      "Kūki 'Āirani"
+    ]
+  },
+  "CW": {
+    "language": "en",
+    "edition": "CW",
+    "domains": [
+      "curacaochronicle.com",
+      "cw"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Curaçao",
+      "Pais Kòrsou"
+    ]
+  },
+  "LV": {
+    "language": "lv",
+    "edition": "LV",
+    "domains": [
+      "lsm.lv",
+      "lv"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Latvia",
+      "Latvija"
+    ]
+  },
+  "LS": {
+    "language": "en",
+    "edition": "LS",
+    "domains": [
+      "sundayexpress.co.ls",
+      "lestimes.com",
+      "ls"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Lesotho"
+    ]
+  },
+  "LA": {
+    "language": "en",
+    "edition": "LA",
+    "domains": [
+      "vientianetimes.org.la",
+      "laotiantimes.com"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Laos",
+      "ສປປລາວ"
+    ]
+  },
+  "LB": {
+    "language": "ar",
+    "edition": "LB",
+    "domains": [
+      "naharnet.com",
+      "lorientlejour.com",
+      "dailystar.com.lb",
+      "lb"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Lebanon",
+      "لبنان",
+      "Liban"
+    ]
+  },
+  "LT": {
+    "language": "lt",
+    "edition": "LT",
+    "domains": [
+      "lrt.lt",
+      "lt"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Lithuania",
+      "Lietuva"
+    ]
+  },
+  "LR": {
+    "language": "en",
+    "edition": "LR",
+    "domains": [
+      "frontpageafricaonline.com",
+      "liberianobserver.com",
+      "lr"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Liberia"
+    ]
+  },
+  "LY": {
+    "language": "en",
+    "edition": "LY",
+    "domains": [
+      "libyaobserver.ly",
+      "libyaherald.com"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Libya",
+      "ليبيا"
+    ]
+  },
+  "LI": {
+    "language": "en",
+    "edition": "LI",
+    "domains": [
+      "volksblatt.li",
+      "li"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Liechtenstein"
+    ]
+  },
+  "RE": {
+    "language": "en",
+    "edition": "RE",
+    "domains": [
+      "re"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Réunion",
+      "La Réunion"
+    ]
+  },
+  "LU": {
+    "language": "en",
+    "edition": "LU",
+    "domains": [
+      "lu"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Luxembourg",
+      "Luxemburg",
+      "Lëtzebuerg"
+    ]
+  },
+  "RW": {
+    "language": "en",
+    "edition": "RW",
+    "domains": [
+      "newtimes.co.rw",
+      "rw"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Rwanda"
+    ]
+  },
+  "RO": {
+    "language": "ro",
+    "edition": "RO",
+    "domains": [
+      "romania-insider.com",
+      "ro"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Romania",
+      "România"
+    ]
+  },
+  "MG": {
+    "language": "en",
+    "edition": "MG",
+    "domains": [
+      "lexpress.mg",
+      "mg"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Madagascar",
+      "Madagasikara"
+    ]
+  },
+  "IM": {
+    "language": "en",
+    "edition": "IM",
+    "domains": [
+      "iomtoday.co.im"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Isle of Man",
+      "Mannin"
+    ]
+  },
+  "MV": {
+    "language": "en",
+    "edition": "MV",
+    "domains": [
+      "sun.com.mv",
+      "edition.mv",
+      "mv"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Maldives",
+      "ދިވެހިރާއްޖޭގެ"
+    ]
+  },
+  "MT": {
+    "language": "en",
+    "edition": "MT",
+    "domains": [
+      "timesofmalta.com",
+      "maltatoday.com.mt",
+      "mt"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Malta"
+    ]
+  },
+  "MW": {
+    "language": "en",
+    "edition": "MW",
+    "domains": [
+      "mwnation.com",
+      "nyasatimes.com",
+      "mw"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Malawi",
+      "Malaŵi"
+    ]
+  },
+  "MY": {
+    "language": "en",
+    "edition": "MY",
+    "domains": [
+      "thestar.com.my",
+      "malaymail.com",
+      "nst.com.my",
+      "bernama.com",
+      "my"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Malaysia",
+      "مليسيا"
+    ]
+  },
+  "ML": {
+    "language": "en",
+    "edition": "ML",
+    "domains": [
+      "ml"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Mali"
+    ]
+  },
+  "MH": {
+    "language": "en",
+    "edition": "MH",
+    "domains": [
+      "marshallislandsjournal.com",
+      "mh"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Marshall Islands",
+      "M̧ajeļ"
+    ]
+  },
+  "MQ": {
+    "language": "en",
+    "edition": "MQ",
+    "domains": [
+      "mq"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Martinique"
+    ]
+  },
+  "YT": {
+    "language": "en",
+    "edition": "YT",
+    "domains": [
+      "yt"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Mayotte"
+    ]
+  },
+  "MU": {
+    "language": "en",
+    "edition": "MU",
+    "domains": [
+      "lexpress.mu",
+      "defimedia.info",
+      "mu"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Mauritius",
+      "Maurice",
+      "Moris"
+    ]
+  },
+  "MR": {
+    "language": "en",
+    "edition": "MR",
+    "domains": [
+      "cridem.org",
+      "mr"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Mauritania",
+      "موريتانيا"
+    ]
+  },
+  "US": {
+    "language": "en",
+    "edition": "US",
+    "domains": [
+      "apnews.com",
+      "nytimes.com",
+      "washingtonpost.com",
+      "npr.org",
+      "nbcnews.com",
+      "cbsnews.com",
+      "abcnews.go.com",
+      "foxnews.com",
+      "cnn.com",
+      "usatoday.com",
+      "us"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "United States"
+    ]
+  },
+  "UM": {
+    "language": "en",
+    "edition": "UM",
+    "domains": [
+      "us"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "United States Minor Outlying Islands"
+    ]
+  },
+  "AS": {
+    "language": "en",
+    "edition": "AS",
+    "domains": [
+      "samoanews.com",
+      "as"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "American Samoa",
+      "Sāmoa Amelika"
+    ]
+  },
+  "VI": {
+    "language": "en",
+    "edition": "VI",
+    "domains": [
+      "stthomassource.com",
+      "virginislandsdailynews.com",
+      "vi"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "United States Virgin Islands"
+    ]
+  },
+  "MN": {
+    "language": "en",
+    "edition": "MN",
+    "domains": [
+      "montsame.mn",
+      "mn"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Mongolia",
+      "Монгол улс"
+    ]
+  },
+  "MS": {
+    "language": "en",
+    "edition": "MS",
+    "domains": [
+      "themontserratreporter.com"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Montserrat"
+    ]
+  },
+  "BD": {
+    "language": "bn",
+    "edition": "BD",
+    "domains": [
+      "thedailystar.net",
+      "dhakatribune.com",
+      "bdnews24.com",
+      "bd"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Bangladesh",
+      "বাংলাদেশ"
+    ]
+  },
+  "PE": {
+    "language": "es-419",
+    "edition": "PE",
+    "domains": [
+      "elcomercio.pe",
+      "andina.pe",
+      "pe"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Peru",
+      "Piruw",
+      "Perú"
+    ]
+  },
+  "FM": {
+    "language": "en",
+    "edition": "FM",
+    "domains": [
+      "kaselehliepress.com"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Micronesia"
+    ]
+  },
+  "MM": {
+    "language": "en",
+    "edition": "MM",
+    "domains": [
+      "irrawaddy.com",
+      "myanmar-now.org",
+      "mizzima.com",
+      "mm"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Myanmar",
+      "မြန်မာ"
+    ]
+  },
+  "MD": {
+    "language": "en",
+    "edition": "MD",
+    "domains": [
+      "moldpres.md",
+      "md"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Moldova"
+    ]
+  },
+  "MA": {
+    "language": "fr",
+    "edition": "MA",
+    "domains": [
+      "moroccoworldnews.com",
+      "hespress.com",
+      "le360.ma",
+      "ma"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Morocco",
+      "المغرب",
+      "ⵍⵎⴰⵖⵔⵉⴱ"
+    ]
+  },
+  "MC": {
+    "language": "en",
+    "edition": "MC",
+    "domains": [
+      "monacolife.net",
+      "mc"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Monaco"
+    ]
+  },
+  "MZ": {
+    "language": "en",
+    "edition": "MZ",
+    "domains": [
+      "mz"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Mozambique",
+      "Moçambique"
+    ]
+  },
+  "MX": {
+    "language": "es-419",
+    "edition": "MX",
+    "domains": [
+      "eluniversal.com.mx",
+      "mexiconewsdaily.com",
+      "milenio.com",
+      "mx"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Mexico",
+      "México"
+    ]
+  },
+  "NA": {
+    "language": "en",
+    "edition": "NA",
+    "domains": [
+      "namibian.com.na",
+      "neweralive.na",
+      "na"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Namibia",
+      "Namibië"
+    ]
+  },
+  "ZA": {
+    "language": "en",
+    "edition": "ZA",
+    "domains": [
+      "news24.com",
+      "dailymaverick.co.za",
+      "timeslive.co.za",
+      "za"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "South Africa",
+      "Sewula Afrika",
+      "Afrika-Borwa",
+      "Afrika Borwa"
+    ]
+  },
+  "GS": {
+    "language": "en",
+    "edition": "GS",
+    "domains": [
+      "gs"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "South Georgia"
+    ]
+  },
+  "SS": {
+    "language": "en",
+    "edition": "SS",
+    "domains": [
+      "eyeradio.org",
+      "radiotamazuj.org",
+      "ss"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "South Sudan"
+    ]
+  },
+  "NR": {
+    "language": "en",
+    "edition": "NR",
+    "domains": [
+      "naurugov.nr",
+      "nr"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Nauru"
+    ]
+  },
+  "NI": {
+    "language": "en",
+    "edition": "NI",
+    "domains": [
+      "laprensani.com",
+      "ni"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Nicaragua"
+    ]
+  },
+  "NP": {
+    "language": "ne",
+    "edition": "NP",
+    "domains": [
+      "kathmandupost.com",
+      "nepalitimes.com",
+      "np"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Nepal",
+      "नेपाल"
+    ]
+  },
+  "NE": {
+    "language": "en",
+    "edition": "NE",
+    "domains": [
+      "actuniger.com",
+      "ne"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Niger"
+    ]
+  },
+  "NG": {
+    "language": "en",
+    "edition": "NG",
+    "domains": [
+      "punchng.com",
+      "vanguardngr.com",
+      "premiumtimesng.com",
+      "guardian.ng",
+      "ng"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Nigeria"
+    ]
+  },
+  "NU": {
+    "language": "en",
+    "edition": "NU",
+    "domains": [
+      "tvniue.com",
+      "gov.nu"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Niue",
+      "Niuē"
+    ]
+  },
+  "NO": {
+    "language": "no",
+    "edition": "NO",
+    "domains": [
+      "nrk.no",
+      "vg.no",
+      "no"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Norway",
+      "Noreg",
+      "Norge",
+      "Norgga"
+    ]
+  },
+  "NF": {
+    "language": "en",
+    "edition": "NF",
+    "domains": [
+      "nf"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Norfolk Island",
+      "Norf'k Ailen"
+    ]
+  },
+  "PW": {
+    "language": "en",
+    "edition": "PW",
+    "domains": [
+      "islandtimes.org"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Palau",
+      "Belau"
+    ]
+  },
+  "PN": {
+    "language": "en",
+    "edition": "PN",
+    "domains": [
+      "pn"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Pitcairn Islands"
+    ]
+  },
+  "PT": {
+    "language": "pt-150",
+    "edition": "PT",
+    "domains": [
+      "publico.pt",
+      "portugalresident.com",
+      "pt"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Portugal"
+    ]
+  },
+  "JP": {
+    "language": "ja",
+    "edition": "JP",
+    "domains": [
+      "japantimes.co.jp",
+      "nhk.or.jp",
+      "asahi.com",
+      "mainichi.jp",
+      "yomiuri.co.jp",
+      "jiji.com",
+      "kyodonews.net",
+      "jp"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Japan",
+      "日本"
+    ]
+  },
+  "SE": {
+    "language": "sv",
+    "edition": "SE",
+    "domains": [
+      "svt.se",
+      "dn.se",
+      "se"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Sweden",
+      "Sverige"
+    ]
+  },
+  "CH": {
+    "language": "de",
+    "edition": "CH",
+    "domains": [
+      "swissinfo.ch",
+      "srf.ch",
+      "ch"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Switzerland",
+      "Suisse",
+      "Schweiz",
+      "Svizzera"
+    ]
+  },
+  "SV": {
+    "language": "en",
+    "edition": "SV",
+    "domains": [
+      "elsalvador.com",
+      "laprensagrafica.com",
+      "sv"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "El Salvador"
+    ]
+  },
+  "WS": {
+    "language": "en",
+    "edition": "WS",
+    "domains": [
+      "samoaobserver.ws"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Samoa",
+      "Sāmoa"
+    ]
+  },
+  "RS": {
+    "language": "sr",
+    "edition": "RS",
+    "domains": [
+      "balkaninsight.com",
+      "b92.net",
+      "rs"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Serbia",
+      "Србија"
+    ]
+  },
+  "SL": {
+    "language": "en",
+    "edition": "SL",
+    "domains": [
+      "awokonewspaper.sl",
+      "sierraleonetimes.com",
+      "sl"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Sierra Leone"
+    ]
+  },
+  "SN": {
+    "language": "en",
+    "edition": "SN",
+    "domains": [
+      "seneweb.com",
+      "aps.sn",
+      "sn"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Senegal",
+      "Sénégal"
+    ]
+  },
+  "CY": {
+    "language": "en",
+    "edition": "CY",
+    "domains": [
+      "cyprus-mail.com",
+      "cy"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Cyprus",
+      "Κύπρος",
+      "Kıbrıs"
+    ]
+  },
+  "SC": {
+    "language": "en",
+    "edition": "SC",
+    "domains": [
+      "seychellesnewsagency.com",
+      "nation.sc",
+      "sc"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Seychelles",
+      "Sesel"
+    ]
+  },
+  "SA": {
+    "language": "ar",
+    "edition": "SA",
+    "domains": [
+      "arabnews.com",
+      "saudigazette.com.sa",
+      "sa"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Saudi Arabia",
+      "السعودية"
+    ]
+  },
+  "BL": {
+    "language": "en",
+    "edition": "BL",
+    "domains": [
+      "bl"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Saint Barthélemy",
+      "Saint-Barthélemy"
+    ]
+  },
+  "CX": {
+    "language": "en",
+    "edition": "CX",
+    "domains": [
+      "cx"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Christmas Island"
+    ]
+  },
+  "ST": {
+    "language": "en",
+    "edition": "ST",
+    "domains": [
+      "st"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "São Tomé and Príncipe",
+      "São Tomé e Príncipe"
+    ]
+  },
+  "SH": {
+    "language": "en",
+    "edition": "SH",
+    "domains": [
+      "sainthelena.gov.sh"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Saint Helena, Ascension and Tristan da Cunha"
+    ]
+  },
+  "KN": {
+    "language": "en",
+    "edition": "KN",
+    "domains": [
+      "sknis.gov.kn",
+      "stkittstimes.com",
+      "kn"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Saint Kitts and Nevis"
+    ]
+  },
+  "LC": {
+    "language": "en",
+    "edition": "LC",
+    "domains": [
+      "stluciatimes.com",
+      "lc"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Saint Lucia"
+    ]
+  },
+  "SM": {
+    "language": "en",
+    "edition": "SM",
+    "domains": [
+      "sanmarinortv.sm",
+      "sm"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "San Marino"
+    ]
+  },
+  "PM": {
+    "language": "en",
+    "edition": "PM",
+    "domains": [
+      "pm"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Saint Pierre and Miquelon",
+      "Saint-Pierre-et-Miquelon"
+    ]
+  },
+  "VC": {
+    "language": "en",
+    "edition": "VC",
+    "domains": [
+      "searchlight.vc",
+      "vc"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Saint Vincent and the Grenadines"
+    ]
+  },
+  "LK": {
+    "language": "en",
+    "edition": "LK",
+    "domains": [
+      "dailymirror.lk",
+      "newsfirst.lk",
+      "lk"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Sri Lanka",
+      "ශ්‍රී ලංකාව",
+      "இலங்கை"
+    ]
+  },
+  "SK": {
+    "language": "sk",
+    "edition": "SK",
+    "domains": [
+      "spectator.sme.sk",
+      "sk"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Slovakia",
+      "Slovensko"
+    ]
+  },
+  "SI": {
+    "language": "sl",
+    "edition": "SI",
+    "domains": [
+      "si"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Slovenia",
+      "Slovenija"
+    ]
+  },
+  "SJ": {
+    "language": "en",
+    "edition": "SJ",
+    "domains": [
+      "sj"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Svalbard and Jan Mayen",
+      "Svalbard og Jan Mayen"
+    ]
+  },
+  "SZ": {
+    "language": "en",
+    "edition": "SZ",
+    "domains": [
+      "times.co.sz",
+      "new.observer.org.sz",
+      "sz"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Eswatini",
+      "eSwatini"
+    ]
+  },
+  "SD": {
+    "language": "en",
+    "edition": "SD",
+    "domains": [
+      "sudantribune.com",
+      "sudannewsagency.org",
+      "sd"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Sudan",
+      "السودان"
+    ]
+  },
+  "SR": {
+    "language": "en",
+    "edition": "SR",
+    "domains": [
+      "dwtonline.com",
+      "sr"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Suriname"
+    ]
+  },
+  "SB": {
+    "language": "en",
+    "edition": "SB",
+    "domains": [
+      "solomonstarnews.com",
+      "sb"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Solomon Islands"
+    ]
+  },
+  "SO": {
+    "language": "en",
+    "edition": "SO",
+    "domains": [
+      "garoweonline.com",
+      "hiiraan.com",
+      "so"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Somalia",
+      "الصومال",
+      "Soomaaliya"
+    ]
+  },
+  "TJ": {
+    "language": "en",
+    "edition": "TJ",
+    "domains": [
+      "asiaplustj.info",
+      "tj"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Tajikistan",
+      "Таджикистан",
+      "Тоҷикистон"
+    ]
+  },
+  "TW": {
+    "language": "zh-TW",
+    "edition": "TW",
+    "domains": [
+      "taipeitimes.com",
+      "focustaiwan.tw",
+      "tw"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Taiwan",
+      "台灣"
+    ]
+  },
+  "TH": {
+    "language": "th",
+    "edition": "TH",
+    "domains": [
+      "bangkokpost.com",
+      "nationthailand.com",
+      "thaipbsworld.com",
+      "th"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Thailand",
+      "ประเทศไทย"
+    ]
+  },
+  "TZ": {
+    "language": "en",
+    "edition": "TZ",
+    "domains": [
+      "thecitizen.co.tz",
+      "dailynews.co.tz",
+      "tz"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Tanzania"
+    ]
+  },
+  "TO": {
+    "language": "en",
+    "edition": "TO",
+    "domains": [
+      "matangitonga.to"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Tonga"
+    ]
+  },
+  "TC": {
+    "language": "en",
+    "edition": "TC",
+    "domains": [
+      "tc"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Turks and Caicos Islands"
+    ]
+  },
+  "TT": {
+    "language": "en",
+    "edition": "TT",
+    "domains": [
+      "guardian.co.tt",
+      "trinidadexpress.com",
+      "tt"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Trinidad and Tobago"
+    ]
+  },
+  "TN": {
+    "language": "fr",
+    "edition": "TN",
+    "domains": [
+      "tap.info.tn",
+      "businessnews.com.tn",
+      "tn"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Tunisia",
+      "تونس"
+    ]
+  },
+  "TV": {
+    "language": "en",
+    "edition": "TV",
+    "domains": [
+      "tuvalu.tv"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Tuvalu"
+    ]
+  },
+  "TR": {
+    "language": "tr",
+    "edition": "TR",
+    "domains": [
+      "hurriyetdailynews.com",
+      "dailysabah.com",
+      "aa.com.tr",
+      "tr"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Türkiye"
+    ]
+  },
+  "TM": {
+    "language": "en",
+    "edition": "TM",
+    "domains": [
+      "turkmenportal.com",
+      "tm"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Turkmenistan",
+      "Туркмения",
+      "Türkmenistan"
+    ]
+  },
+  "TK": {
+    "language": "en",
+    "edition": "TK",
+    "domains": [
+      "tokelau.org.nz"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Tokelau"
+    ]
+  },
+  "WF": {
+    "language": "en",
+    "edition": "WF",
+    "domains": [
+      "wf"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Wallis and Futuna",
+      "Wallis et Futuna"
+    ]
+  },
+  "VU": {
+    "language": "en",
+    "edition": "VU",
+    "domains": [
+      "dailypost.vu",
+      "vu"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Vanuatu"
+    ]
+  },
+  "GT": {
+    "language": "en",
+    "edition": "GT",
+    "domains": [
+      "prensalibre.com",
+      "gt"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Guatemala"
+    ]
+  },
+  "VE": {
+    "language": "es-419",
+    "edition": "VE",
+    "domains": [
+      "elnacional.com",
+      "eluniversal.com",
+      "ve"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Venezuela"
+    ]
+  },
+  "BN": {
+    "language": "en",
+    "edition": "BN",
+    "domains": [
+      "borneobulletin.com.bn",
+      "bn"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Brunei",
+      "Negara Brunei Darussalam"
+    ]
+  },
+  "UG": {
+    "language": "en",
+    "edition": "UG",
+    "domains": [
+      "monitor.co.ug",
+      "newvision.co.ug",
+      "ug"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Uganda"
+    ]
+  },
+  "UA": {
+    "language": "uk",
+    "edition": "UA",
+    "domains": [
+      "kyivindependent.com",
+      "kyivpost.com",
+      "ukrinform.net",
+      "pravda.com.ua",
+      "ua"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Ukraine",
+      "Україна"
+    ]
+  },
+  "UY": {
+    "language": "es-419",
+    "edition": "UY",
+    "domains": [
+      "elpais.com.uy",
+      "montevideo.com.uy",
+      "uy"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Uruguay"
+    ]
+  },
+  "UZ": {
+    "language": "en",
+    "edition": "UZ",
+    "domains": [
+      "gazeta.uz",
+      "kun.uz",
+      "uz"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Uzbekistan",
+      "Узбекистан",
+      "O‘zbekiston"
+    ]
+  },
+  "ES": {
+    "language": "es",
+    "edition": "ES",
+    "domains": [
+      "elpais.com",
+      "elmundo.es",
+      "rtve.es",
+      "es"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Spain",
+      "España"
+    ]
+  },
+  "EH": {
+    "language": "en",
+    "edition": "EH",
+    "domains": [
+      "eh"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Western Sahara",
+      "الصحراء الغربية",
+      "Sahara Occidental"
+    ]
+  },
+  "GR": {
+    "language": "el",
+    "edition": "GR",
+    "domains": [
+      "ekathimerini.com",
+      "gr"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Greece",
+      "Ελλάδα"
+    ]
+  },
+  "SG": {
+    "language": "en",
+    "edition": "SG",
+    "domains": [
+      "straitstimes.com",
+      "channelnewsasia.com",
+      "todayonline.com",
+      "zaobao.com.sg",
+      "sg"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Singapore",
+      "Singapura",
+      "சிங்கப்பூர்",
+      "新加坡"
+    ]
+  },
+  "NC": {
+    "language": "en",
+    "edition": "NC",
+    "domains": [
+      "lesnouvelles.nc",
+      "nc"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "New Caledonia",
+      "Nouvelle-Calédonie"
+    ]
+  },
+  "NZ": {
+    "language": "en",
+    "edition": "NZ",
+    "domains": [
+      "rnz.co.nz",
+      "stuff.co.nz",
+      "nzherald.co.nz",
+      "nz"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "New Zealand",
+      "Aotearoa"
+    ]
+  },
+  "HU": {
+    "language": "hu",
+    "edition": "HU",
+    "domains": [
+      "hungarytoday.hu",
+      "hu"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Hungary",
+      "Magyarország"
+    ]
+  },
+  "SY": {
+    "language": "en",
+    "edition": "SY",
+    "domains": [
+      "sy"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Syria",
+      "سوريا"
+    ]
+  },
+  "JM": {
+    "language": "en",
+    "edition": "JM",
+    "domains": [
+      "jamaicaobserver.com",
+      "jamaica-gleaner.com",
+      "jm"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Jamaica"
+    ]
+  },
+  "AM": {
+    "language": "en",
+    "edition": "AM",
+    "domains": [
+      "armenpress.am",
+      "panarmenian.net",
+      "am"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Armenia",
+      "Հայաստան"
+    ]
+  },
+  "YE": {
+    "language": "en",
+    "edition": "YE",
+    "domains": [
+      "saba.ye",
+      "yementimes.com",
+      "ye"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Yemen",
+      "اليمن"
+    ]
+  },
+  "IQ": {
+    "language": "en",
+    "edition": "IQ",
+    "domains": [
+      "iraqinews.com",
+      "shafaq.com",
+      "iq"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Iraq",
+      "العراق",
+      "ܩܘܼܛܢܵܐ",
+      "کۆماری"
+    ]
+  },
+  "IR": {
+    "language": "en",
+    "edition": "IR",
+    "domains": [
+      "tehrantimes.com",
+      "irna.ir",
+      "tasnimnews.com",
+      "ir"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Iran",
+      "ایران"
+    ]
+  },
+  "IL": {
+    "language": "he",
+    "edition": "IL",
+    "domains": [
+      "timesofisrael.com",
+      "jpost.com",
+      "haaretz.com",
+      "il"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Israel",
+      "إسرائيل",
+      "ישראל"
+    ]
+  },
+  "IT": {
+    "language": "it",
+    "edition": "IT",
+    "domains": [
+      "ansa.it",
+      "corriere.it",
+      "repubblica.it",
+      "it"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Italy",
+      "Italia"
+    ]
+  },
+  "IN": {
+    "language": "en",
+    "edition": "IN",
+    "domains": [
+      "thehindu.com",
+      "indianexpress.com",
+      "hindustantimes.com",
+      "timesofindia.indiatimes.com",
+      "ndtv.com",
+      "in"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "India",
+      "भारत",
+      "இந்தியா"
+    ]
+  },
+  "ID": {
+    "language": "id",
+    "edition": "ID",
+    "domains": [
+      "thejakartapost.com",
+      "antaranews.com",
+      "kompas.com",
+      "tempo.co",
+      "id"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Indonesia"
+    ]
+  },
+  "GB": {
+    "language": "en",
+    "edition": "GB",
+    "domains": [
+      "bbc.com",
+      "bbc.co.uk",
+      "theguardian.com",
+      "independent.co.uk",
+      "telegraph.co.uk",
+      "news.sky.com",
+      "ft.com",
+      "uk"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "United Kingdom"
+    ]
+  },
+  "VG": {
+    "language": "en",
+    "edition": "VG",
+    "domains": [
+      "bvinews.com",
+      "vg"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "British Virgin Islands"
+    ]
+  },
+  "IO": {
+    "language": "en",
+    "edition": "IO",
+    "domains": [
+      "biot.gov.io"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "British Indian Ocean Territory"
+    ]
+  },
+  "JO": {
+    "language": "ar",
+    "edition": "JO",
+    "domains": [
+      "jordantimes.com",
+      "royanews.tv",
+      "jo"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Jordan",
+      "الأردن"
+    ]
+  },
+  "VN": {
+    "language": "vi",
+    "edition": "VN",
+    "domains": [
+      "vnexpress.net",
+      "vietnamnews.vn",
+      "tuoitrenews.vn",
+      "vn"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Vietnam",
+      "Việt Nam"
+    ]
+  },
+  "ZM": {
+    "language": "en",
+    "edition": "ZM",
+    "domains": [
+      "lusakatimes.com",
+      "zm"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Zambia"
+    ]
+  },
+  "JE": {
+    "language": "en",
+    "edition": "JE",
+    "domains": [
+      "jerseyeveningpost.com",
+      "je"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Jersey",
+      "Jèrri"
+    ]
+  },
+  "TD": {
+    "language": "en",
+    "edition": "TD",
+    "domains": [
+      "tchadinfos.com",
+      "td"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Chad",
+      "تشاد",
+      "Tchad"
+    ]
+  },
+  "GI": {
+    "language": "en",
+    "edition": "GI",
+    "domains": [
+      "chronicle.gi",
+      "gi"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Gibraltar"
+    ]
+  },
+  "CL": {
+    "language": "es-419",
+    "edition": "CL",
+    "domains": [
+      "emol.com",
+      "latercera.com",
+      "cl"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Chile"
+    ]
+  },
+  "CF": {
+    "language": "en",
+    "edition": "CF",
+    "domains": [
+      "radiondekeluka.org",
+      "cf"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Central African Republic",
+      "République centrafricaine",
+      "Bêafrîka"
+    ]
+  },
+  "CN": {
+    "language": "zh-CN",
+    "edition": "CN",
+    "domains": [
+      "xinhuanet.com",
+      "news.cn",
+      "people.com.cn",
+      "cctv.com",
+      "chinanews.com",
+      "chinadaily.com.cn",
+      "cn"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "China",
+      "中国"
+    ]
+  },
+  "MO": {
+    "language": "en",
+    "edition": "MO",
+    "domains": [
+      "macaubusiness.com",
+      "macaudailytimes.com.mo",
+      "mo"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Macau",
+      "澳门"
+    ]
+  },
+  "HK": {
+    "language": "zh-Hant",
+    "edition": "HK",
+    "domains": [
+      "scmp.com",
+      "hongkongfp.com",
+      "thestandard.com.hk",
+      "hk"
+    ],
+    "sourcePolicy": "local-domain-v1",
+    "countryTerms": [
+      "Hong Kong",
+      "香港"
+    ]
+  }
+}
