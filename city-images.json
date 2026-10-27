@@ -1,0 +1,1527 @@
+{
+  "Asia/Dubai": {
+    "image": "assets/re.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dubai",
+    "city": "Dubai"
+  },
+  "Asia/Kabul": {
+    "image": "assets/af.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kabul",
+    "city": "Kabul"
+  },
+  "Asia/Yerevan": {
+    "image": "assets/am.jpg",
+    "source": "https://en.wikipedia.org/wiki/Yerevan",
+    "city": "Yerevan"
+  },
+  "America/Argentina/Buenos_Aires": {
+    "image": "assets/ar.jpg",
+    "source": "https://en.wikipedia.org/wiki/Buenos_Aires",
+    "city": "Buenos Aires"
+  },
+  "America/Argentina/San_Juan": {
+    "image": "assets/pr.jpg",
+    "source": "https://en.wikipedia.org/wiki/San_Juan%2C_Puerto_Rico",
+    "city": "San Juan"
+  },
+  "Pacific/Pago_Pago": {
+    "image": "assets/um.jpg",
+    "source": "https://en.wikipedia.org/wiki/Pago_Pago%2C_American_Samoa",
+    "city": "Pago Pago"
+  },
+  "Europe/Vienna": {
+    "image": "assets/at.jpg",
+    "source": "https://en.wikipedia.org/wiki/Vienna",
+    "city": "Vienna"
+  },
+  "Asia/Baku": {
+    "image": "assets/az.jpg",
+    "source": "https://en.wikipedia.org/wiki/Baku",
+    "city": "Baku"
+  },
+  "Asia/Dhaka": {
+    "image": "assets/bd.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dhaka",
+    "city": "Dhaka"
+  },
+  "Europe/Brussels": {
+    "image": "assets/be.jpg",
+    "source": "https://en.wikipedia.org/wiki/Brussels",
+    "city": "Brussels"
+  },
+  "Europe/Sofia": {
+    "image": "assets/bg.jpg",
+    "source": "https://en.wikipedia.org/wiki/Sofia",
+    "city": "Sofia"
+  },
+  "America/La_Paz": {
+    "image": "assets/bo.jpg",
+    "source": "https://en.wikipedia.org/wiki/La_Paz",
+    "city": "La Paz"
+  },
+  "Asia/Thimphu": {
+    "image": "assets/bt.jpg",
+    "source": "https://en.wikipedia.org/wiki/Thimphu",
+    "city": "Thimphu"
+  },
+  "Europe/Minsk": {
+    "image": "assets/by.jpg",
+    "source": "https://en.wikipedia.org/wiki/Minsk",
+    "city": "Minsk"
+  },
+  "America/Santiago": {
+    "image": "assets/cl.jpg",
+    "source": "https://en.wikipedia.org/wiki/Santiago",
+    "city": "Santiago"
+  },
+  "America/Bogota": {
+    "image": "assets/co.jpg",
+    "source": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
+    "city": "Bogota"
+  },
+  "America/Havana": {
+    "image": "assets/cu.jpg",
+    "source": "https://en.wikipedia.org/wiki/Havana",
+    "city": "Havana"
+  },
+  "Asia/Nicosia": {
+    "image": "assets/cy.jpg",
+    "source": "https://en.wikipedia.org/wiki/Nicosia",
+    "city": "Nicosia"
+  },
+  "Europe/Prague": {
+    "image": "assets/cz.jpg",
+    "source": "https://en.wikipedia.org/wiki/Prague",
+    "city": "Prague"
+  },
+  "Europe/Berlin": {
+    "image": "assets/de.jpg",
+    "source": "https://en.wikipedia.org/wiki/Berlin",
+    "city": "Berlin"
+  },
+  "America/Santo_Domingo": {
+    "image": "assets/do.jpg",
+    "source": "https://en.wikipedia.org/wiki/Santo_Domingo",
+    "city": "Santo Domingo"
+  },
+  "Africa/Algiers": {
+    "image": "assets/dz.jpg",
+    "source": "https://en.wikipedia.org/wiki/Algiers",
+    "city": "Algiers"
+  },
+  "Europe/Tallinn": {
+    "image": "assets/ee.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tallinn",
+    "city": "Tallinn"
+  },
+  "Africa/Cairo": {
+    "image": "assets/eg.jpg",
+    "source": "https://en.wikipedia.org/wiki/Cairo",
+    "city": "Cairo"
+  },
+  "Europe/Madrid": {
+    "image": "assets/es.jpg",
+    "source": "https://en.wikipedia.org/wiki/Madrid",
+    "city": "Madrid"
+  },
+  "Europe/Helsinki": {
+    "image": "assets/fi.jpg",
+    "source": "https://en.wikipedia.org/wiki/Helsinki",
+    "city": "Helsinki"
+  },
+  "Atlantic/Stanley": {
+    "image": "assets/fk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Stanley%2C_Falkland_Islands",
+    "city": "Stanley"
+  },
+  "Europe/Paris": {
+    "image": "assets/fr.jpg",
+    "source": "https://en.wikipedia.org/wiki/Paris",
+    "city": "Paris"
+  },
+  "Europe/London": {
+    "image": "assets/gb.jpg",
+    "source": "https://en.wikipedia.org/wiki/London",
+    "city": "London"
+  },
+  "Asia/Tbilisi": {
+    "image": "assets/ge.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tbilisi",
+    "city": "Tbilisi"
+  },
+  "America/Cayenne": {
+    "image": "assets/gf.jpg",
+    "source": "https://en.wikipedia.org/wiki/Cayenne",
+    "city": "Cayenne"
+  },
+  "Europe/Gibraltar": {
+    "image": "assets/gi.jpg",
+    "source": "https://en.wikipedia.org/wiki/Main_Street%2C_Gibraltar",
+    "city": "Gibraltar"
+  },
+  "America/Nuuk": {
+    "image": "assets/gl.jpg",
+    "source": "https://en.wikipedia.org/wiki/Nuuk",
+    "city": "Nuuk"
+  },
+  "Europe/Athens": {
+    "image": "assets/gr.jpg",
+    "source": "https://en.wikipedia.org/wiki/Athens",
+    "city": "Athens"
+  },
+  "Africa/Bissau": {
+    "image": "assets/gw.jpg",
+    "source": "https://en.wikipedia.org/wiki/Bissau",
+    "city": "Bissau"
+  },
+  "Asia/Hong_Kong": {
+    "image": "assets/hk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Central%2C_Hong_Kong",
+    "city": "Hong Kong"
+  },
+  "America/Tegucigalpa": {
+    "image": "assets/hn.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tegucigalpa",
+    "city": "Tegucigalpa"
+  },
+  "America/Port-au-Prince": {
+    "image": "assets/ht.jpg",
+    "source": "https://en.wikipedia.org/wiki/Port-au-Prince",
+    "city": "Port-au-Prince"
+  },
+  "Europe/Budapest": {
+    "image": "assets/hu.jpg",
+    "source": "https://en.wikipedia.org/wiki/Budapest",
+    "city": "Budapest"
+  },
+  "Asia/Jakarta": {
+    "image": "assets/id.jpg",
+    "source": "https://en.wikipedia.org/wiki/Jakarta",
+    "city": "Jakarta"
+  },
+  "Europe/Dublin": {
+    "image": "assets/ie.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dublin",
+    "city": "Dublin"
+  },
+  "Asia/Jerusalem": {
+    "image": "assets/ps.jpg",
+    "source": "https://en.wikipedia.org/wiki/Jerusalem",
+    "city": "Jerusalem"
+  },
+  "Asia/Baghdad": {
+    "image": "assets/iq.jpg",
+    "source": "https://en.wikipedia.org/wiki/Baghdad",
+    "city": "Baghdad"
+  },
+  "Asia/Tehran": {
+    "image": "assets/ir.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tehran",
+    "city": "Tehran"
+  },
+  "Europe/Rome": {
+    "image": "assets/it.jpg",
+    "source": "https://en.wikipedia.org/wiki/Rome",
+    "city": "Rome"
+  },
+  "Asia/Amman": {
+    "image": "assets/jo.png",
+    "source": "https://en.wikipedia.org/wiki/Amman",
+    "city": "Amman"
+  },
+  "Asia/Tokyo": {
+    "image": "assets/jp.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tokyo",
+    "city": "Tokyo"
+  },
+  "Africa/Nairobi": {
+    "image": "assets/ke.jpg",
+    "source": "https://en.wikipedia.org/wiki/Nairobi",
+    "city": "Nairobi"
+  },
+  "Asia/Bishkek": {
+    "image": "assets/kg.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Alma-Ata_NK-43_(1948)_-_panoramio.jpg",
+    "city": "Bishkek"
+  },
+  "Pacific/Tarawa": {
+    "image": "assets/ki.jpg",
+    "source": "https://en.wikipedia.org/wiki/South_Tarawa",
+    "city": "Tarawa"
+  },
+  "Asia/Pyongyang": {
+    "image": "assets/kp.jpg",
+    "source": "https://en.wikipedia.org/wiki/Pyongyang",
+    "city": "Pyongyang"
+  },
+  "Asia/Seoul": {
+    "image": "assets/kr.jpg",
+    "source": "https://en.wikipedia.org/wiki/Seoul",
+    "city": "Seoul"
+  },
+  "Asia/Beirut": {
+    "image": "assets/lb.jpg",
+    "source": "https://en.wikipedia.org/wiki/Beirut",
+    "city": "Beirut"
+  },
+  "Asia/Colombo": {
+    "image": "assets/lk.png",
+    "source": "https://en.wikipedia.org/wiki/Colombo",
+    "city": "Colombo"
+  },
+  "Africa/Monrovia": {
+    "image": "assets/lr.jpg",
+    "source": "https://en.wikipedia.org/wiki/Monrovia",
+    "city": "Monrovia"
+  },
+  "Europe/Vilnius": {
+    "image": "assets/lt.jpg",
+    "source": "https://en.wikipedia.org/wiki/Vilnius",
+    "city": "Vilnius"
+  },
+  "Europe/Riga": {
+    "image": "assets/lv.jpg",
+    "source": "https://en.wikipedia.org/wiki/Riga",
+    "city": "Riga"
+  },
+  "Africa/Tripoli": {
+    "image": "assets/ly.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tripoli%2C_Libya",
+    "city": "Tripoli"
+  },
+  "Europe/Chisinau": {
+    "image": "assets/md.jpg",
+    "source": "https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u",
+    "city": "Chisinau"
+  },
+  "Asia/Ulaanbaatar": {
+    "image": "assets/mn.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ulaanbaatar",
+    "city": "Ulaanbaatar"
+  },
+  "Asia/Macau": {
+    "image": "assets/mo.jpg",
+    "source": "https://en.wikipedia.org/wiki/Historic_Centre_of_Macau",
+    "city": "Macau"
+  },
+  "America/Martinique": {
+    "image": "assets/mq.jpg",
+    "source": "https://en.wikipedia.org/wiki/Martinique",
+    "city": "Martinique"
+  },
+  "America/Mexico_City": {
+    "image": "assets/mx.jpg",
+    "source": "https://en.wikipedia.org/wiki/Mexico_City",
+    "city": "Mexico City"
+  },
+  "Africa/Maputo": {
+    "image": "assets/mz.jpg",
+    "source": "https://en.wikipedia.org/wiki/Maputo",
+    "city": "Maputo"
+  },
+  "Africa/Windhoek": {
+    "image": "assets/na.jpg",
+    "source": "https://en.wikipedia.org/wiki/Windhoek",
+    "city": "Windhoek"
+  },
+  "Pacific/Noumea": {
+    "image": "assets/nc.jpg",
+    "source": "https://en.wikipedia.org/wiki/Noum%C3%A9a",
+    "city": "Noumea"
+  },
+  "America/Managua": {
+    "image": "assets/ni.jpg",
+    "source": "https://en.wikipedia.org/wiki/Managua",
+    "city": "Managua"
+  },
+  "Asia/Kathmandu": {
+    "image": "assets/np.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kathmandu",
+    "city": "Kathmandu"
+  },
+  "America/Lima": {
+    "image": "assets/pe.jpg",
+    "source": "https://en.wikipedia.org/wiki/Lima",
+    "city": "Lima"
+  },
+  "Pacific/Port_Moresby": {
+    "image": "assets/pg.jpg",
+    "source": "https://en.wikipedia.org/wiki/Port_Moresby",
+    "city": "Port Moresby"
+  },
+  "Asia/Manila": {
+    "image": "assets/ph.jpg",
+    "source": "https://en.wikipedia.org/wiki/Manila",
+    "city": "Manila"
+  },
+  "Europe/Warsaw": {
+    "image": "assets/pl.jpg",
+    "source": "https://en.wikipedia.org/wiki/Warsaw",
+    "city": "Warsaw"
+  },
+  "America/Puerto_Rico": {
+    "image": "assets/gp.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Alcaldesa_Rosachely_Rivera_Santana.jpg",
+    "city": "Puerto Rico"
+  },
+  "Europe/Lisbon": {
+    "image": "assets/pt.jpg",
+    "source": "https://en.wikipedia.org/wiki/Lisbon",
+    "city": "Lisbon"
+  },
+  "America/Asuncion": {
+    "image": "assets/py.jpg",
+    "source": "https://en.wikipedia.org/wiki/Asunci%C3%B3n",
+    "city": "Asuncion"
+  },
+  "Europe/Bucharest": {
+    "image": "assets/ro.jpg",
+    "source": "https://en.wikipedia.org/wiki/Bucharest",
+    "city": "Bucharest"
+  },
+  "Europe/Belgrade": {
+    "image": "assets/rs.jpg",
+    "source": "https://en.wikipedia.org/wiki/Belgrade",
+    "city": "Belgrade"
+  },
+  "Europe/Moscow": {
+    "image": "assets/ru.jpg",
+    "source": "https://en.wikipedia.org/wiki/Moscow",
+    "city": "Moscow"
+  },
+  "Asia/Riyadh": {
+    "image": "assets/sa.jpg",
+    "source": "https://en.wikipedia.org/wiki/Riyadh",
+    "city": "Riyadh"
+  },
+  "Africa/Khartoum": {
+    "image": "assets/sd.jpg",
+    "source": "https://en.wikipedia.org/wiki/Khartoum",
+    "city": "Khartoum"
+  },
+  "Asia/Singapore": {
+    "image": "assets/sg.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:(SGP-Singapore)_East-West_Line_Alstom_Movia_R151_1925-1926_@_Eunos_2026-08-07.jpg",
+    "city": "Singapore"
+  },
+  "America/Paramaribo": {
+    "image": "assets/sr.png",
+    "source": "https://en.wikipedia.org/wiki/Paramaribo",
+    "city": "Paramaribo"
+  },
+  "Africa/Juba": {
+    "image": "assets/ss.jpg",
+    "source": "https://en.wikipedia.org/wiki/Juba",
+    "city": "Juba"
+  },
+  "Africa/Sao_Tome": {
+    "image": "assets/st.jpg",
+    "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9",
+    "city": "Sao Tome"
+  },
+  "Asia/Damascus": {
+    "image": "assets/sy.jpg",
+    "source": "https://en.wikipedia.org/wiki/Damascus",
+    "city": "Damascus"
+  },
+  "America/Grand_Turk": {
+    "image": "assets/tc.jpg",
+    "source": "https://en.wikipedia.org/wiki/Grand_Turk_Island",
+    "city": "Grand Turk"
+  },
+  "Asia/Bangkok": {
+    "image": "assets/th.jpg",
+    "source": "https://en.wikipedia.org/wiki/Bangkok",
+    "city": "Bangkok"
+  },
+  "Asia/Dushanbe": {
+    "image": "assets/tj.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dushanbe",
+    "city": "Dushanbe"
+  },
+  "Asia/Dili": {
+    "image": "assets/tl.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dili",
+    "city": "Dili"
+  },
+  "Asia/Ashgabat": {
+    "image": "assets/tm.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ashgabat",
+    "city": "Ashgabat"
+  },
+  "Africa/Tunis": {
+    "image": "assets/tn.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tunis",
+    "city": "Tunis"
+  },
+  "Asia/Taipei": {
+    "image": "assets/tw.jpg",
+    "source": "https://en.wikipedia.org/wiki/Taipei",
+    "city": "Taipei"
+  },
+  "Europe/Kyiv": {
+    "image": "assets/ua.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kyiv",
+    "city": "Kyiv"
+  },
+  "America/Montevideo": {
+    "image": "assets/uy.jpg",
+    "source": "https://en.wikipedia.org/wiki/Montevideo",
+    "city": "Montevideo"
+  },
+  "Asia/Tashkent": {
+    "image": "assets/uz.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tashkent",
+    "city": "Tashkent"
+  },
+  "America/Caracas": {
+    "image": "assets/ve.jpg",
+    "source": "https://en.wikipedia.org/wiki/Caracas",
+    "city": "Caracas"
+  },
+  "Pacific/Apia": {
+    "image": "assets/ws.jpg",
+    "source": "https://en.wikipedia.org/wiki/Apia",
+    "city": "Apia"
+  },
+  "Africa/Luanda": {
+    "image": "assets/ao.jpg",
+    "source": "https://en.wikipedia.org/wiki/Luanda",
+    "city": "Luanda"
+  },
+  "Europe/Mariehamn": {
+    "image": "assets/ax.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_photo_of_Mariehamn_2026.jpg",
+    "city": "Mariehamn"
+  },
+  "Europe/Sarajevo": {
+    "image": "assets/ba.jpg",
+    "source": "https://en.wikipedia.org/wiki/Sarajevo",
+    "city": "Sarajevo"
+  },
+  "Africa/Ouagadougou": {
+    "image": "assets/bf.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ouagadougou",
+    "city": "Ouagadougou"
+  },
+  "Africa/Bujumbura": {
+    "image": "assets/bi.jpg",
+    "source": "https://en.wikipedia.org/wiki/Bujumbura",
+    "city": "Bujumbura"
+  },
+  "Africa/Porto-Novo": {
+    "image": "assets/bj.jpg",
+    "source": "https://en.wikipedia.org/wiki/Porto-Novo",
+    "city": "Porto-Novo"
+  },
+  "America/Nassau": {
+    "image": "assets/bs.jpg",
+    "source": "https://en.wikipedia.org/wiki/Nassau%2C_Bahamas",
+    "city": "Nassau"
+  },
+  "Africa/Gaborone": {
+    "image": "assets/bw.jpg",
+    "source": "https://en.wikipedia.org/wiki/Gaborone",
+    "city": "Gaborone"
+  },
+  "Africa/Kinshasa": {
+    "image": "assets/cd.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kinshasa",
+    "city": "Kinshasa"
+  },
+  "Africa/Bangui": {
+    "image": "assets/cf.png",
+    "source": "https://en.wikipedia.org/wiki/Bangui",
+    "city": "Bangui"
+  },
+  "Africa/Brazzaville": {
+    "image": "assets/cg.jpg",
+    "source": "https://en.wikipedia.org/wiki/Brazzaville",
+    "city": "Brazzaville"
+  },
+  "Africa/Djibouti": {
+    "image": "assets/dj.jpg",
+    "source": "https://en.wikipedia.org/wiki/Djibouti_City",
+    "city": "Djibouti"
+  },
+  "Europe/Copenhagen": {
+    "image": "assets/dk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Copenhagen",
+    "city": "Copenhagen"
+  },
+  "Africa/Asmara": {
+    "image": "assets/er.png",
+    "source": "https://en.wikipedia.org/wiki/Asmara",
+    "city": "Asmara"
+  },
+  "Africa/Addis_Ababa": {
+    "image": "assets/et.jpg",
+    "source": "https://en.wikipedia.org/wiki/Addis_Ababa",
+    "city": "Addis Ababa"
+  },
+  "Africa/Libreville": {
+    "image": "assets/ga.jpg",
+    "source": "https://en.wikipedia.org/wiki/Libreville",
+    "city": "Libreville"
+  },
+  "Africa/Accra": {
+    "image": "assets/gh.jpg",
+    "source": "https://en.wikipedia.org/wiki/Accra",
+    "city": "Accra"
+  },
+  "Africa/Banjul": {
+    "image": "assets/gm.jpg",
+    "source": "https://en.wikipedia.org/wiki/Banjul",
+    "city": "Banjul"
+  },
+  "Africa/Conakry": {
+    "image": "assets/gn.jpg",
+    "source": "https://en.wikipedia.org/wiki/Conakry",
+    "city": "Conakry"
+  },
+  "Africa/Malabo": {
+    "image": "assets/gq.jpg",
+    "source": "https://en.wikipedia.org/wiki/Malabo",
+    "city": "Malabo"
+  },
+  "Europe/Zagreb": {
+    "image": "assets/hr.jpg",
+    "source": "https://en.wikipedia.org/wiki/Zagreb",
+    "city": "Zagreb"
+  },
+  "Atlantic/Reykjavik": {
+    "image": "assets/is.jpg",
+    "source": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
+    "city": "Reykjavik"
+  },
+  "Asia/Phnom_Penh": {
+    "image": "assets/kh.jpg",
+    "source": "https://en.wikipedia.org/wiki/Phnom_Penh",
+    "city": "Phnom Penh"
+  },
+  "Asia/Vientiane": {
+    "image": "assets/la.jpg",
+    "source": "https://en.wikipedia.org/wiki/Vientiane",
+    "city": "Vientiane"
+  },
+  "Europe/Vaduz": {
+    "image": "assets/li.jpg",
+    "source": "https://en.wikipedia.org/wiki/Vaduz",
+    "city": "Vaduz"
+  },
+  "Africa/Maseru": {
+    "image": "assets/ls.jpg",
+    "source": "https://en.wikipedia.org/wiki/Maseru",
+    "city": "Maseru"
+  },
+  "Europe/Luxembourg": {
+    "image": "assets/lu.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Alsace-lorraine.JPG",
+    "city": "Luxembourg"
+  },
+  "Europe/Monaco": {
+    "image": "assets/mc.jpg",
+    "source": "https://en.wikipedia.org/wiki/Monaco-Ville",
+    "city": "Monaco"
+  },
+  "Europe/Podgorica": {
+    "image": "assets/me.jpg",
+    "source": "https://en.wikipedia.org/wiki/Podgorica",
+    "city": "Podgorica"
+  },
+  "America/Marigot": {
+    "image": "assets/mf.jpg",
+    "source": "https://en.wikipedia.org/wiki/Marigot%2C_Saint_Martin",
+    "city": "Marigot"
+  },
+  "Indian/Antananarivo": {
+    "image": "assets/mg.jpg",
+    "source": "https://en.wikipedia.org/wiki/Antananarivo",
+    "city": "Antananarivo"
+  },
+  "Pacific/Majuro": {
+    "image": "assets/mh.jpg",
+    "source": "https://en.wikipedia.org/wiki/Majuro",
+    "city": "Majuro"
+  },
+  "Europe/Skopje": {
+    "image": "assets/mk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Skopje",
+    "city": "Skopje"
+  },
+  "Africa/Bamako": {
+    "image": "assets/ml.jpg",
+    "source": "https://en.wikipedia.org/wiki/Bamako",
+    "city": "Bamako"
+  },
+  "Pacific/Saipan": {
+    "image": "assets/mp.jpg",
+    "source": "https://en.wikipedia.org/wiki/Saipan%2C_Northern_Mariana_Islands",
+    "city": "Saipan"
+  },
+  "Africa/Nouakchott": {
+    "image": "assets/mr.jpg",
+    "source": "https://en.wikipedia.org/wiki/Nouakchott",
+    "city": "Nouakchott"
+  },
+  "Asia/Kuala_Lumpur": {
+    "image": "assets/my.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kuala_Lumpur",
+    "city": "Kuala Lumpur"
+  },
+  "Africa/Niamey": {
+    "image": "assets/ne.jpg",
+    "source": "https://en.wikipedia.org/wiki/Niamey",
+    "city": "Niamey"
+  },
+  "Europe/Amsterdam": {
+    "image": "assets/nl.png",
+    "source": "https://en.wikipedia.org/wiki/Amsterdam",
+    "city": "Amsterdam"
+  },
+  "Europe/Oslo": {
+    "image": "assets/no.jpg",
+    "source": "https://en.wikipedia.org/wiki/Oslo",
+    "city": "Oslo"
+  },
+  "Asia/Muscat": {
+    "image": "assets/om.jpg",
+    "source": "https://en.wikipedia.org/wiki/Muscat",
+    "city": "Muscat"
+  },
+  "Africa/Kigali": {
+    "image": "assets/rw.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kigali",
+    "city": "Kigali"
+  },
+  "Europe/Stockholm": {
+    "image": "assets/se.jpg",
+    "source": "https://en.wikipedia.org/wiki/Stockholm",
+    "city": "Stockholm"
+  },
+  "Europe/Ljubljana": {
+    "image": "assets/si.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ljubljana",
+    "city": "Ljubljana"
+  },
+  "Arctic/Longyearbyen": {
+    "image": "assets/sj.jpg",
+    "source": "https://en.wikipedia.org/wiki/Longyearbyen",
+    "city": "Longyearbyen"
+  },
+  "Europe/Bratislava": {
+    "image": "assets/sk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Bratislava",
+    "city": "Bratislava"
+  },
+  "Africa/Freetown": {
+    "image": "assets/sl.jpg",
+    "source": "https://en.wikipedia.org/wiki/Freetown",
+    "city": "Freetown"
+  },
+  "Europe/San_Marino": {
+    "image": "assets/sm.jpg",
+    "source": "https://en.wikipedia.org/wiki/City_of_San_Marino",
+    "city": "San Marino"
+  },
+  "Africa/Dakar": {
+    "image": "assets/sn.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dakar",
+    "city": "Dakar"
+  },
+  "Africa/Mogadishu": {
+    "image": "assets/so.jpg",
+    "source": "https://en.wikipedia.org/wiki/Mogadishu",
+    "city": "Mogadishu"
+  },
+  "Africa/Mbabane": {
+    "image": "assets/sz.jpg",
+    "source": "https://en.wikipedia.org/wiki/Mbabane",
+    "city": "Mbabane"
+  },
+  "Africa/Lome": {
+    "image": "assets/tg.jpg",
+    "source": "https://en.wikipedia.org/wiki/Lom%C3%A9",
+    "city": "Lome"
+  },
+  "America/Port_of_Spain": {
+    "image": "assets/tt.jpg",
+    "source": "https://en.wikipedia.org/wiki/Port_of_Spain",
+    "city": "Port of Spain"
+  },
+  "Pacific/Funafuti": {
+    "image": "assets/tv.jpg",
+    "source": "https://en.wikipedia.org/wiki/Funafuti",
+    "city": "Funafuti"
+  },
+  "Africa/Kampala": {
+    "image": "assets/ug.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kampala",
+    "city": "Kampala"
+  },
+  "Africa/Lusaka": {
+    "image": "assets/zm.jpg",
+    "source": "https://en.wikipedia.org/wiki/Lusaka",
+    "city": "Lusaka"
+  },
+  "Africa/Harare": {
+    "image": "assets/zw.png",
+    "source": "https://en.wikipedia.org/wiki/Harare",
+    "city": "Harare"
+  },
+  "Australia/Sydney": {
+    "image": "assets/cities/australia-sydney.jpg",
+    "source": "https://en.wikipedia.org/wiki/Sydney",
+    "city": "Sydney"
+  },
+  "America/Sao_Paulo": {
+    "image": "assets/cities/america-sao_paulo.jpg",
+    "source": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
+    "city": "São Paulo"
+  },
+  "Asia/Shanghai": {
+    "image": "assets/cities/asia-shanghai.jpg",
+    "source": "https://en.wikipedia.org/wiki/Shanghai",
+    "city": "Shanghai"
+  },
+  "Asia/Kolkata": {
+    "image": "assets/cities/asia-kolkata.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kolkata",
+    "city": "Kolkata"
+  },
+  "America/Los_Angeles": {
+    "image": "assets/cities/america-los_angeles.jpg",
+    "source": "https://en.wikipedia.org/wiki/Los_Angeles",
+    "city": "Los Angeles"
+  },
+  "Europe/Tirane": {
+    "image": "assets/cities/europe-tirane.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tirana",
+    "city": "Tirane"
+  },
+  "Antarctica/Mawson": {
+    "image": "assets/cities/antarctica-mawson.jpg",
+    "source": "https://en.wikipedia.org/wiki/Douglas_Mawson",
+    "city": "Mawson"
+  },
+  "Antarctica/Rothera": {
+    "image": "assets/cities/antarctica-rothera.jpg",
+    "source": "https://en.wikipedia.org/wiki/Rothera_Research_Station",
+    "city": "Rothera"
+  },
+  "Antarctica/Troll": {
+    "image": "assets/cities/antarctica-troll.jpg",
+    "source": "https://en.wikipedia.org/wiki/Troll",
+    "city": "Troll"
+  },
+  "America/Argentina/Salta": {
+    "image": "assets/cities/america-argentina-salta.jpg",
+    "source": "https://en.wikipedia.org/wiki/Salta",
+    "city": "Salta"
+  },
+  "America/Argentina/Jujuy": {
+    "image": "assets/cities/america-argentina-jujuy.jpg",
+    "source": "https://en.wikipedia.org/wiki/San_Salvador_de_Jujuy",
+    "city": "Jujuy"
+  },
+  "America/Argentina/Tucuman": {
+    "image": "assets/cities/america-argentina-tucuman.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tucum%C3%A1n_Province",
+    "city": "Tucuman"
+  },
+  "America/Argentina/Rio_Gallegos": {
+    "image": "assets/cities/america-argentina-rio_gallegos.jpg",
+    "source": "https://en.wikipedia.org/wiki/R%C3%ADo_Gallegos%2C_Santa_Cruz",
+    "city": "Rio Gallegos"
+  },
+  "America/Argentina/Ushuaia": {
+    "image": "assets/cities/america-argentina-ushuaia.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ushuaia",
+    "city": "Ushuaia"
+  },
+  "Australia/Hobart": {
+    "image": "assets/cities/australia-hobart.jpg",
+    "source": "https://en.wikipedia.org/wiki/Hobart",
+    "city": "Hobart"
+  },
+  "Australia/Melbourne": {
+    "image": "assets/cities/australia-melbourne.jpg",
+    "source": "https://en.wikipedia.org/wiki/Melbourne",
+    "city": "Melbourne"
+  },
+  "Australia/Broken_Hill": {
+    "image": "assets/cities/australia-broken_hill.jpg",
+    "source": "https://en.wikipedia.org/wiki/Broken_Hill",
+    "city": "Broken Hill"
+  },
+  "Australia/Brisbane": {
+    "image": "assets/cities/australia-brisbane.jpg",
+    "source": "https://en.wikipedia.org/wiki/Brisbane",
+    "city": "Brisbane"
+  },
+  "Australia/Adelaide": {
+    "image": "assets/cities/australia-adelaide.jpg",
+    "source": "https://en.wikipedia.org/wiki/Adelaide",
+    "city": "Adelaide"
+  },
+  "Australia/Perth": {
+    "image": "assets/cities/australia-perth.jpg",
+    "source": "https://en.wikipedia.org/wiki/Perth",
+    "city": "Perth"
+  },
+  "Australia/Eucla": {
+    "image": "assets/cities/australia-eucla.jpg",
+    "source": "https://en.wikipedia.org/wiki/Eucla%2C_Western_Australia",
+    "city": "Eucla"
+  },
+  "America/Belem": {
+    "image": "assets/cities/america-belem.jpg",
+    "source": "https://en.wikipedia.org/wiki/Bel%C3%A9m",
+    "city": "Belem"
+  },
+  "America/Fortaleza": {
+    "image": "assets/cities/america-fortaleza.jpg",
+    "source": "https://en.wikipedia.org/wiki/Fortaleza",
+    "city": "Fortaleza"
+  },
+  "America/Recife": {
+    "image": "assets/cities/america-recife.jpg",
+    "source": "https://en.wikipedia.org/wiki/Recife",
+    "city": "Recife"
+  },
+  "America/Araguaina": {
+    "image": "assets/cities/america-araguaina.jpg",
+    "source": "https://en.wikipedia.org/wiki/Aragua%C3%ADna",
+    "city": "Araguaina"
+  },
+  "America/Maceio": {
+    "image": "assets/cities/america-maceio.jpg",
+    "source": "https://en.wikipedia.org/wiki/Macei%C3%B3",
+    "city": "Maceio"
+  },
+  "America/Campo_Grande": {
+    "image": "assets/cities/america-campo_grande.jpg",
+    "source": "https://en.wikipedia.org/wiki/Campo_Grande",
+    "city": "Campo Grande"
+  },
+  "America/Cuiaba": {
+    "image": "assets/cities/america-cuiaba.jpg",
+    "source": "https://en.wikipedia.org/wiki/Cuiab%C3%A1",
+    "city": "Cuiaba"
+  },
+  "America/Porto_Velho": {
+    "image": "assets/cities/america-porto_velho.jpg",
+    "source": "https://en.wikipedia.org/wiki/Porto_Velho",
+    "city": "Porto Velho"
+  },
+  "America/Manaus": {
+    "image": "assets/cities/america-manaus.jpg",
+    "source": "https://en.wikipedia.org/wiki/Manaus",
+    "city": "Manaus"
+  },
+  "America/Eirunepe": {
+    "image": "assets/cities/america-eirunepe.jpg",
+    "source": "https://en.wikipedia.org/wiki/Eirunep%C3%A9",
+    "city": "Eirunepe"
+  },
+  "America/Moncton": {
+    "image": "assets/cities/america-moncton.jpg",
+    "source": "https://en.wikipedia.org/wiki/Moncton",
+    "city": "Moncton"
+  },
+  "America/Toronto": {
+    "image": "assets/cities/america-toronto.jpg",
+    "source": "https://en.wikipedia.org/wiki/Toronto",
+    "city": "Toronto"
+  },
+  "America/Iqaluit": {
+    "image": "assets/cities/america-iqaluit.jpg",
+    "source": "https://en.wikipedia.org/wiki/Iqaluit",
+    "city": "Iqaluit"
+  },
+  "America/Winnipeg": {
+    "image": "assets/cities/america-winnipeg.jpg",
+    "source": "https://en.wikipedia.org/wiki/Winnipeg",
+    "city": "Winnipeg"
+  },
+  "America/Rankin_Inlet": {
+    "image": "assets/cities/america-rankin_inlet.jpg",
+    "source": "https://en.wikipedia.org/wiki/Rankin_Inlet",
+    "city": "Rankin Inlet"
+  },
+  "America/Swift_Current": {
+    "image": "assets/cities/america-swift_current.jpg",
+    "source": "https://en.wikipedia.org/wiki/Swift_Current",
+    "city": "Swift Current"
+  },
+  "America/Edmonton": {
+    "image": "assets/cities/america-edmonton.jpg",
+    "source": "https://en.wikipedia.org/wiki/Edmonton",
+    "city": "Edmonton"
+  },
+  "America/Cambridge_Bay": {
+    "image": "assets/cities/america-cambridge_bay.jpg",
+    "source": "https://en.wikipedia.org/wiki/Cambridge_Bay",
+    "city": "Cambridge Bay"
+  },
+  "America/Inuvik": {
+    "image": "assets/cities/america-inuvik.jpg",
+    "source": "https://en.wikipedia.org/wiki/Inuvik",
+    "city": "Inuvik"
+  },
+  "America/Vancouver": {
+    "image": "assets/cities/america-vancouver.jpg",
+    "source": "https://en.wikipedia.org/wiki/Vancouver",
+    "city": "Vancouver"
+  },
+  "America/Dawson_Creek": {
+    "image": "assets/cities/america-dawson_creek.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dawson_Creek",
+    "city": "Dawson Creek"
+  },
+  "America/Whitehorse": {
+    "image": "assets/cities/america-whitehorse.jpg",
+    "source": "https://en.wikipedia.org/wiki/Whitehorse",
+    "city": "Whitehorse"
+  },
+  "Europe/Zurich": {
+    "image": "assets/cities/europe-zurich.jpg",
+    "source": "https://en.wikipedia.org/wiki/Zurich",
+    "city": "Zurich"
+  },
+  "Africa/Abidjan": {
+    "image": "assets/cities/africa-abidjan.jpg",
+    "source": "https://en.wikipedia.org/wiki/Abidjan",
+    "city": "Abidjan"
+  },
+  "Pacific/Rarotonga": {
+    "image": "assets/cities/pacific-rarotonga.jpg",
+    "source": "https://en.wikipedia.org/wiki/Rarotonga",
+    "city": "Rarotonga"
+  },
+  "America/Coyhaique": {
+    "image": "assets/cities/america-coyhaique.jpg",
+    "source": "https://en.wikipedia.org/wiki/Coyhaique",
+    "city": "Coyhaique"
+  },
+  "America/Punta_Arenas": {
+    "image": "assets/cities/america-punta_arenas.jpg",
+    "source": "https://en.wikipedia.org/wiki/Punta_Arenas",
+    "city": "Punta Arenas"
+  },
+  "Pacific/Easter": {
+    "image": "assets/cities/pacific-easter.jpg",
+    "source": "https://en.wikipedia.org/wiki/Easter",
+    "city": "Easter"
+  },
+  "Asia/Urumqi": {
+    "image": "assets/cities/asia-urumqi.jpg",
+    "source": "https://en.wikipedia.org/wiki/%C3%9Cr%C3%BCmqi",
+    "city": "Urumqi"
+  },
+  "Asia/Famagusta": {
+    "image": "assets/cities/asia-famagusta.jpg",
+    "source": "https://en.wikipedia.org/wiki/Famagusta",
+    "city": "Famagusta"
+  },
+  "America/Guayaquil": {
+    "image": "assets/cities/america-guayaquil.jpg",
+    "source": "https://en.wikipedia.org/wiki/Guayaquil",
+    "city": "Guayaquil"
+  },
+  "Pacific/Galapagos": {
+    "image": "assets/cities/pacific-galapagos.jpg",
+    "source": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands",
+    "city": "Galapagos"
+  },
+  "Africa/El_Aaiun": {
+    "image": "assets/cities/africa-el_aaiun.jpg",
+    "source": "https://en.wikipedia.org/wiki/Laayoune",
+    "city": "El Aaiun"
+  },
+  "Africa/Ceuta": {
+    "image": "assets/cities/africa-ceuta.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ceuta",
+    "city": "Ceuta"
+  },
+  "Pacific/Kosrae": {
+    "image": "assets/cities/pacific-kosrae.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kosrae",
+    "city": "Kosrae"
+  },
+  "America/Scoresbysund": {
+    "image": "assets/cities/america-scoresbysund.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ittoqqortoormiit",
+    "city": "Scoresbysund"
+  },
+  "America/Thule": {
+    "image": "assets/cities/america-thule.jpg",
+    "source": "https://en.wikipedia.org/wiki/Thule",
+    "city": "Thule"
+  },
+  "Atlantic/South_Georgia": {
+    "image": "assets/cities/atlantic-south_georgia.jpg",
+    "source": "https://en.wikipedia.org/wiki/South_Georgia",
+    "city": "South Georgia"
+  },
+  "Asia/Pontianak": {
+    "image": "assets/cities/asia-pontianak.jpg",
+    "source": "https://en.wikipedia.org/wiki/Pontianak",
+    "city": "Pontianak"
+  },
+  "Asia/Makassar": {
+    "image": "assets/cities/asia-makassar.jpg",
+    "source": "https://en.wikipedia.org/wiki/Makassar",
+    "city": "Makassar"
+  },
+  "Asia/Jayapura": {
+    "image": "assets/cities/asia-jayapura.jpg",
+    "source": "https://en.wikipedia.org/wiki/Jayapura",
+    "city": "Jayapura"
+  },
+  "Pacific/Kiritimati": {
+    "image": "assets/cities/pacific-kiritimati.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kiritimati",
+    "city": "Kiritimati"
+  },
+  "Asia/Almaty": {
+    "image": "assets/cities/asia-almaty.jpg",
+    "source": "https://en.wikipedia.org/wiki/Almaty",
+    "city": "Almaty"
+  },
+  "Asia/Qyzylorda": {
+    "image": "assets/cities/asia-qyzylorda.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kyzylorda",
+    "city": "Qyzylorda"
+  },
+  "Asia/Qostanay": {
+    "image": "assets/cities/asia-qostanay.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kostanay",
+    "city": "Qostanay"
+  },
+  "Asia/Aqtobe": {
+    "image": "assets/cities/asia-aqtobe.jpg",
+    "source": "https://en.wikipedia.org/wiki/Aktobe",
+    "city": "Aqtobe"
+  },
+  "Asia/Aqtau": {
+    "image": "assets/cities/asia-aqtau.jpg",
+    "source": "https://en.wikipedia.org/wiki/Aktau",
+    "city": "Aqtau"
+  },
+  "Asia/Atyrau": {
+    "image": "assets/cities/asia-atyrau.jpg",
+    "source": "https://en.wikipedia.org/wiki/Atyrau",
+    "city": "Atyrau"
+  },
+  "Africa/Casablanca": {
+    "image": "assets/cities/africa-casablanca.jpg",
+    "source": "https://en.wikipedia.org/wiki/Casablanca",
+    "city": "Casablanca"
+  },
+  "Pacific/Kwajalein": {
+    "image": "assets/cities/pacific-kwajalein.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kwajalein_Atoll",
+    "city": "Kwajalein"
+  },
+  "Asia/Yangon": {
+    "image": "assets/cities/asia-yangon.jpg",
+    "source": "https://en.wikipedia.org/wiki/Yangon",
+    "city": "Yangon"
+  },
+  "America/Cancun": {
+    "image": "assets/cities/america-cancun.jpg",
+    "source": "https://en.wikipedia.org/wiki/Canc%C3%BAn",
+    "city": "Cancun"
+  },
+  "America/Monterrey": {
+    "image": "assets/cities/america-monterrey.jpg",
+    "source": "https://en.wikipedia.org/wiki/Monterrey",
+    "city": "Monterrey"
+  },
+  "America/Ciudad_Juarez": {
+    "image": "assets/cities/america-ciudad_juarez.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ciudad_Ju%C3%A1rez",
+    "city": "Ciudad Juarez"
+  },
+  "America/Ojinaga": {
+    "image": "assets/cities/america-ojinaga.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ojinaga",
+    "city": "Ojinaga"
+  },
+  "America/Mazatlan": {
+    "image": "assets/cities/america-mazatlan.jpg",
+    "source": "https://en.wikipedia.org/wiki/Mazatl%C3%A1n",
+    "city": "Mazatlan"
+  },
+  "America/Hermosillo": {
+    "image": "assets/cities/america-hermosillo.jpg",
+    "source": "https://en.wikipedia.org/wiki/Hermosillo",
+    "city": "Hermosillo"
+  },
+  "America/Tijuana": {
+    "image": "assets/cities/america-tijuana.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tijuana",
+    "city": "Tijuana"
+  },
+  "Asia/Kuching": {
+    "image": "assets/cities/asia-kuching.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kuching",
+    "city": "Kuching"
+  },
+  "Pacific/Norfolk": {
+    "image": "assets/cities/pacific-norfolk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Norfolk",
+    "city": "Norfolk"
+  },
+  "Africa/Lagos": {
+    "image": "assets/cities/africa-lagos.jpg",
+    "source": "https://en.wikipedia.org/wiki/Lagos",
+    "city": "Lagos"
+  },
+  "Pacific/Auckland": {
+    "image": "assets/cities/pacific-auckland.jpg",
+    "source": "https://en.wikipedia.org/wiki/Auckland",
+    "city": "Auckland"
+  },
+  "America/Panama": {
+    "image": "assets/cities/america-panama.jpg",
+    "source": "https://en.wikipedia.org/wiki/Panama_City",
+    "city": "Panama City"
+  },
+  "Asia/Karachi": {
+    "image": "assets/cities/asia-karachi.jpg",
+    "source": "https://en.wikipedia.org/wiki/Karachi",
+    "city": "Karachi"
+  },
+  "America/Miquelon": {
+    "image": "assets/cities/america-miquelon.jpg",
+    "source": "https://en.wikipedia.org/wiki/Miquelon-Langlade",
+    "city": "Miquelon"
+  },
+  "Asia/Hebron": {
+    "image": "assets/cities/asia-hebron.jpg",
+    "source": "https://en.wikipedia.org/wiki/Hebron",
+    "city": "Hebron"
+  },
+  "Asia/Qatar": {
+    "image": "assets/cities/asia-qatar.jpg",
+    "source": "https://en.wikipedia.org/wiki/Doha",
+    "city": "Doha"
+  },
+  "Europe/Kaliningrad": {
+    "image": "assets/cities/europe-kaliningrad.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kaliningrad",
+    "city": "Kaliningrad"
+  },
+  "Europe/Simferopol": {
+    "image": "assets/cities/europe-simferopol.jpg",
+    "source": "https://en.wikipedia.org/wiki/Simferopol",
+    "city": "Simferopol"
+  },
+  "Europe/Volgograd": {
+    "image": "assets/cities/europe-volgograd.jpg",
+    "source": "https://en.wikipedia.org/wiki/Volgograd",
+    "city": "Volgograd"
+  },
+  "Europe/Astrakhan": {
+    "image": "assets/cities/europe-astrakhan.jpg",
+    "source": "https://en.wikipedia.org/wiki/Astrakhan",
+    "city": "Astrakhan"
+  },
+  "Europe/Saratov": {
+    "image": "assets/cities/europe-saratov.jpg",
+    "source": "https://en.wikipedia.org/wiki/Saratov",
+    "city": "Saratov"
+  },
+  "Europe/Ulyanovsk": {
+    "image": "assets/cities/europe-ulyanovsk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ulyanovsk",
+    "city": "Ulyanovsk"
+  },
+  "Europe/Samara": {
+    "image": "assets/cities/europe-samara.jpg",
+    "source": "https://en.wikipedia.org/wiki/Samara",
+    "city": "Samara"
+  },
+  "Asia/Yekaterinburg": {
+    "image": "assets/cities/asia-yekaterinburg.jpg",
+    "source": "https://en.wikipedia.org/wiki/Yekaterinburg",
+    "city": "Yekaterinburg"
+  },
+  "Asia/Omsk": {
+    "image": "assets/cities/asia-omsk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Omsk",
+    "city": "Omsk"
+  },
+  "Asia/Novosibirsk": {
+    "image": "assets/cities/asia-novosibirsk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Novosibirsk",
+    "city": "Novosibirsk"
+  },
+  "Asia/Barnaul": {
+    "image": "assets/cities/asia-barnaul.jpg",
+    "source": "https://en.wikipedia.org/wiki/Barnaul",
+    "city": "Barnaul"
+  },
+  "Asia/Tomsk": {
+    "image": "assets/cities/asia-tomsk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tomsk",
+    "city": "Tomsk"
+  },
+  "Asia/Novokuznetsk": {
+    "image": "assets/cities/asia-novokuznetsk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Novokuznetsk",
+    "city": "Novokuznetsk"
+  },
+  "Asia/Krasnoyarsk": {
+    "image": "assets/cities/asia-krasnoyarsk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Krasnoyarsk",
+    "city": "Krasnoyarsk"
+  },
+  "Asia/Irkutsk": {
+    "image": "assets/cities/asia-irkutsk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Irkutsk",
+    "city": "Irkutsk"
+  },
+  "Asia/Yakutsk": {
+    "image": "assets/cities/asia-yakutsk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Yakutsk",
+    "city": "Yakutsk"
+  },
+  "Asia/Khandyga": {
+    "image": "assets/cities/asia-khandyga.jpg",
+    "source": "https://en.wikipedia.org/wiki/Khandyga",
+    "city": "Khandyga"
+  },
+  "Asia/Vladivostok": {
+    "image": "assets/cities/asia-vladivostok.jpg",
+    "source": "https://en.wikipedia.org/wiki/Vladivostok",
+    "city": "Vladivostok"
+  },
+  "Asia/Ust-Nera": {
+    "image": "assets/cities/asia-ust-nera.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ust-Nera",
+    "city": "Ust-Nera"
+  },
+  "Asia/Magadan": {
+    "image": "assets/cities/asia-magadan.jpg",
+    "source": "https://en.wikipedia.org/wiki/Magadan",
+    "city": "Magadan"
+  },
+  "Asia/Sakhalin": {
+    "image": "assets/cities/asia-sakhalin.jpg",
+    "source": "https://en.wikipedia.org/wiki/Sakhalin",
+    "city": "Sakhalin"
+  },
+  "Asia/Srednekolymsk": {
+    "image": "assets/cities/asia-srednekolymsk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Srednekolymsk",
+    "city": "Srednekolymsk"
+  },
+  "Asia/Kamchatka": {
+    "image": "assets/cities/asia-kamchatka.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kamchatka_Peninsula",
+    "city": "Kamchatka"
+  },
+  "Pacific/Guadalcanal": {
+    "image": "assets/cities/pacific-guadalcanal.jpg",
+    "source": "https://en.wikipedia.org/wiki/Guadalcanal",
+    "city": "Guadalcanal"
+  },
+  "Africa/Ndjamena": {
+    "image": "assets/cities/africa-ndjamena.jpg",
+    "source": "https://en.wikipedia.org/wiki/N'Djamena",
+    "city": "Ndjamena"
+  },
+  "Pacific/Fakaofo": {
+    "image": "assets/cities/pacific-fakaofo.jpg",
+    "source": "https://en.wikipedia.org/wiki/Fakaofo",
+    "city": "Fakaofo"
+  },
+  "Pacific/Tongatapu": {
+    "image": "assets/cities/pacific-tongatapu.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tongatapu",
+    "city": "Tongatapu"
+  },
+  "Europe/Istanbul": {
+    "image": "assets/cities/europe-istanbul.jpg",
+    "source": "https://en.wikipedia.org/wiki/Istanbul",
+    "city": "Istanbul"
+  },
+  "America/Detroit": {
+    "image": "assets/cities/america-detroit.jpg",
+    "source": "https://en.wikipedia.org/wiki/Detroit",
+    "city": "Detroit"
+  },
+  "America/Kentucky/Louisville": {
+    "image": "assets/cities/america-kentucky-louisville.jpg",
+    "source": "https://en.wikipedia.org/wiki/Louisville%2C_Kentucky",
+    "city": "Louisville"
+  },
+  "America/Kentucky/Monticello": {
+    "image": "assets/cities/america-kentucky-monticello.jpg",
+    "source": "https://en.wikipedia.org/wiki/Monticello",
+    "city": "Monticello"
+  },
+  "America/Indiana/Indianapolis": {
+    "image": "assets/cities/america-indiana-indianapolis.jpg",
+    "source": "https://en.wikipedia.org/wiki/Indianapolis",
+    "city": "Indianapolis"
+  },
+  "America/Indiana/Vincennes": {
+    "image": "assets/cities/america-indiana-vincennes.jpg",
+    "source": "https://en.wikipedia.org/wiki/Vincennes",
+    "city": "Vincennes"
+  },
+  "America/Chicago": {
+    "image": "assets/cities/america-chicago.jpg",
+    "source": "https://en.wikipedia.org/wiki/Chicago",
+    "city": "Chicago"
+  },
+  "America/Indiana/Tell_City": {
+    "image": "assets/cities/america-indiana-tell_city.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tell_City%2C_Indiana",
+    "city": "Tell City"
+  },
+  "America/Menominee": {
+    "image": "assets/cities/america-menominee.jpg",
+    "source": "https://en.wikipedia.org/wiki/Menominee",
+    "city": "Menominee"
+  },
+  "America/Denver": {
+    "image": "assets/cities/america-denver.jpg",
+    "source": "https://en.wikipedia.org/wiki/Denver",
+    "city": "Denver"
+  },
+  "America/Boise": {
+    "image": "assets/cities/america-boise.jpg",
+    "source": "https://en.wikipedia.org/wiki/Boise%2C_Idaho",
+    "city": "Boise"
+  },
+  "America/Anchorage": {
+    "image": "assets/cities/america-anchorage.jpg",
+    "source": "https://en.wikipedia.org/wiki/Anchorage%2C_Alaska",
+    "city": "Anchorage"
+  },
+  "America/Juneau": {
+    "image": "assets/cities/america-juneau.jpg",
+    "source": "https://en.wikipedia.org/wiki/Juneau%2C_Alaska",
+    "city": "Juneau"
+  },
+  "America/Sitka": {
+    "image": "assets/cities/america-sitka.jpg",
+    "source": "https://en.wikipedia.org/wiki/Sitka%2C_Alaska",
+    "city": "Sitka"
+  },
+  "Pacific/Honolulu": {
+    "image": "assets/cities/pacific-honolulu.jpg",
+    "source": "https://en.wikipedia.org/wiki/Honolulu",
+    "city": "Honolulu"
+  },
+  "Asia/Samarkand": {
+    "image": "assets/cities/asia-samarkand.jpg",
+    "source": "https://en.wikipedia.org/wiki/Samarkand",
+    "city": "Samarkand"
+  },
+  "Asia/Ho_Chi_Minh": {
+    "image": "assets/cities/asia-ho_chi_minh.jpg",
+    "source": "https://en.wikipedia.org/wiki/Ho_Chi_Minh",
+    "city": "Ho Chi Minh"
+  },
+  "Africa/Johannesburg": {
+    "image": "assets/cities/africa-johannesburg.jpg",
+    "source": "https://en.wikipedia.org/wiki/Johannesburg",
+    "city": "Johannesburg"
+  },
+  "America/Antigua": {
+    "image": "assets/cities/america-antigua.jpg",
+    "source": "https://en.wikipedia.org/wiki/Antigua",
+    "city": "Antigua"
+  },
+  "Antarctica/McMurdo": {
+    "image": "assets/cities/antarctica-mcmurdo.jpg",
+    "source": "https://en.wikipedia.org/wiki/Archibald_McMurdo",
+    "city": "McMurdo"
+  },
+  "America/Kralendijk": {
+    "image": "assets/cities/america-kralendijk.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kralendijk",
+    "city": "Kralendijk"
+  },
+  "America/Blanc-Sablon": {
+    "image": "assets/cities/america-blanc-sablon.jpg",
+    "source": "https://en.wikipedia.org/wiki/Blanc-Sablon",
+    "city": "Blanc-Sablon"
+  },
+  "America/Atikokan": {
+    "image": "assets/cities/america-atikokan.jpg",
+    "source": "https://en.wikipedia.org/wiki/Atikokan",
+    "city": "Atikokan"
+  },
+  "Africa/Lubumbashi": {
+    "image": "assets/cities/africa-lubumbashi.jpg",
+    "source": "https://en.wikipedia.org/wiki/Lubumbashi",
+    "city": "Lubumbashi"
+  },
+  "Africa/Douala": {
+    "image": "assets/cities/africa-douala.jpg",
+    "source": "https://en.wikipedia.org/wiki/Douala",
+    "city": "Douala"
+  },
+  "Indian/Christmas": {
+    "image": "assets/cities/indian-christmas.jpg",
+    "source": "https://en.wikipedia.org/wiki/Christmas",
+    "city": "Christmas"
+  },
+  "Europe/Busingen": {
+    "image": "assets/cities/europe-busingen.jpg",
+    "source": "https://en.wikipedia.org/wiki/B%C3%BCsingen_am_Hochrhein",
+    "city": "Busingen"
+  },
+  "Pacific/Pohnpei": {
+    "image": "assets/cities/pacific-pohnpei.jpg",
+    "source": "https://en.wikipedia.org/wiki/Pohnpei",
+    "city": "Pohnpei"
+  },
+  "Europe/Guernsey": {
+    "image": "assets/cities/europe-guernsey.jpg",
+    "source": "https://en.wikipedia.org/wiki/Guernsey",
+    "city": "Guernsey"
+  },
+  "America/St_Kitts": {
+    "image": "assets/cities/america-st_kitts.jpg",
+    "source": "https://en.wikipedia.org/wiki/Saint_Kitts",
+    "city": "St Kitts"
+  },
+  "Asia/Kuwait": {
+    "image": "assets/cities/asia-kuwait.jpg",
+    "source": "https://en.wikipedia.org/wiki/Kuwait_City",
+    "city": "Kuwait City"
+  },
+  "Africa/Blantyre": {
+    "image": "assets/cities/africa-blantyre.jpg",
+    "source": "https://en.wikipedia.org/wiki/Blantyre",
+    "city": "Blantyre"
+  },
+  "Africa/Dar_es_Salaam": {
+    "image": "assets/cities/africa-dar_es_salaam.jpg",
+    "source": "https://en.wikipedia.org/wiki/Dar_es_Salaam",
+    "city": "Dar es Salaam"
+  },
+  "America/Tortola": {
+    "image": "assets/cities/america-tortola.jpg",
+    "source": "https://en.wikipedia.org/wiki/Tortola",
+    "city": "Tortola"
+  },
+  "Asia/Aden": {
+    "image": "assets/cities/asia-aden.jpg",
+    "source": "https://en.wikipedia.org/wiki/Aden",
+    "city": "Aden"
+  },
+  "America/New_York": {
+    "image": "assets/cities/america-new_york.jpg",
+    "source": "https://en.wikipedia.org/wiki/New_York_City",
+    "city": "New York City"
+  }
+}

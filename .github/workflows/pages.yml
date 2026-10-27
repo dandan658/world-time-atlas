@@ -28,7 +28,7 @@ jobs:
       - name: Prepare static site
         run: |
           mkdir _site
-          cp index.html style.css app.js poster.css poster.js poster-countries.json countries.json zones.json news.json .nojekyll _site/
+          cp index.html article.html image-credits.html style.css interface.css app.js poster.css poster.js i18n.js selects.js news-shared.js article.js languages.json geo-languages.json city-images.json poster-countries.json countries.json zones.json news.json .nojekyll _site/
           cp -r assets _site/assets
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
