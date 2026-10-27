@@ -23,6 +23,8 @@ jobs:
           mkdir _site
           cp index.html calendar.html calendar.js calendar-guide.js country-guides.json subdivisions-en.json subdivisions-zh.json holiday-rules.js holiday-overrides.json week-data.json readability.css image-credits.html style.css interface.css monochrome.css app.js city-labels.js poster.css poster.js i18n.js selects.js languages.json geo-languages.json city-images.json poster-countries.json countries.json zones.json sitemap.xml robots.txt .nojekyll _site/
           cp -r assets _site/assets
+          cp -r countries _site/countries
+          cp countries.html country.css country.js travel-countries.json _site/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
